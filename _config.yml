@@ -23,7 +23,7 @@ github_username:  zionpi
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-merlot
+theme: jekyll-theme-cayman
 theme: jekyll-theme-merlot
 plugins:
   - jekyll-feed
