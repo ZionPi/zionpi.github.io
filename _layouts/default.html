@@ -6,13 +6,14 @@
     <div class="shell">
 
     {%- include header.html -%}
-
+   {% if page.title != 'About' %}
    <section id="downloads">
           <span class="inner">
-          <a href="./about.html" class="zip"><em></em>关于</a>
+          <a href="./about.html" class="zip"><em></em>About</a>
           <a href="" class="tgz"><em></em> </a>
            </span>
         </section>
+      {% endif %}
 
       <span class="banner-fix"></span>
       <section id="main_content">
