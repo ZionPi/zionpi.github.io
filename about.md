@@ -3,6 +3,6 @@ layout: page
 title: About
 ---
 
-[MathOverflow](https://mathoverflow.net/)
-[MathematicsExchange](https://math.stackexchange.com/)
-[Hacker News](https://news.ycombinator.com/)
+<p>[MathOverflow](https://mathoverflow.net/)</p>
+<p>[MathematicsExchange](https://math.stackexchange.com/)</p>
+<p>[Hacker News](https://news.ycombinator.com/)</p>
