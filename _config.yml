@@ -43,15 +43,16 @@ github: [metadata]
 
 # List of links in the navigation bar
 navbar-links:
-  关于我: "about"
+  关于: "about"
   数学:
     - 历史: "https://fivebooks.com/best-books/history-mathematics-robin-wilson/"
     - 应用: "https://fivebooks.com/best-books/nicholas-higham-applied-mathematics/"
   世界:
     - 方式: "https://fivebooks.com/best-books/venkatesh-rao-how-world-works/"
-  资源:
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  #主页: "http://zionpi.com"
+  资料:
+    - 学习 markdown: "http://www.markdowntutorial.com/"
+    - 五本书: "https://fivebooks.com"  
+#主页: "http://zionpi.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
