@@ -50,6 +50,7 @@ navbar-links:
   世界:
     - 方式: "https://fivebooks.com/best-books/venkatesh-rao-how-world-works/"
   资料:
+    - 通识 "https://en.wikipedia.org/wiki/Very_Short_Introductions"
     - 学习 markdown: "http://www.markdowntutorial.com/"
     - 五本书: "https://fivebooks.com"
     - 机器学习: "http://www.fast.ai/2018/09/26/ml-launch/"
