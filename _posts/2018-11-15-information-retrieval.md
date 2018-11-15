@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: 信息抽取
 ---
 - 如何获取想要的信息？
