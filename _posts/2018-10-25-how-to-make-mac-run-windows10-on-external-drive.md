@@ -12,7 +12,7 @@ title: 在mac上运行移动硬盘上的windows10系统
 
 下面简单的说以下步骤：
 - 抹除移动硬盘的资料，注意做好备份工作。并且使其能够支持GPT(Guid)，而不是MBR。
-- 制作EFI系统引导分区。使用的是Mac自带的磁盘工具，选择Mac扩展日志。
+- 制作EFI系统引导分区。使用的是Mac自带的磁盘工具，选择Mac扩展日志。或者在windows下按照[教程](https://www.disk-partition.com/articles/efi-system-partition-4348.html)操作。
 - 利用磁盘工具将移动硬盘的其余部分格式化为NTFS格式。
 - 在Windows环境下运行WinToUSB，选择镜像，选择目标磁盘。
 - 在Mac下打开Boot Camp Assitant，下载Windows Support文件。
