@@ -16,6 +16,8 @@ IDA使这项工作变得容易了。我们来认识以下常用的快捷键:
 - for
 - function calling convention
 
+
+
 脚本语言编写：
 IDC 和 python
 
@@ -27,3 +29,6 @@ Xref回答了两个问题：
 1. 谁调用了我？
 2. 我调用了谁？
 
+[Intel 64位寄存器列表](https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf)
+
+寄存器ABCD名称的含义 ：Accumulator, Base, Counter, Data
