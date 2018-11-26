@@ -49,6 +49,10 @@ navbar-links:
     - 应用: "https://fivebooks.com/best-books/nicholas-higham-applied-mathematics/"
   世界:
     - 方式: "https://fivebooks.com/best-books/venkatesh-rao-how-world-works/"
+    - Patrick书单: "https://patrickcollison.com/bookshelf"
+    - Stewart书单: "https://www.brainpickings.org/2014/03/07/stewart-brand-reading-list/"
+    - AlanKay书单: "http://www.squeakland.org/resources/books/readingList.jsp"
+    
   资料:
     - Music: "http://musicforprogramming.net/"
     - 比赛: "https://www.biendata.com/"
