@@ -9,6 +9,7 @@ IDA使这项工作变得容易了。我们来认识以下常用的快捷键:
 - Shift + ; 对代码进行注释
 - Ctrl + x 查找引用
 - Spacebar 在graph和text视图之间切换
+- F5 转化成源代码
 
 识别以下模式：
 - if-else
