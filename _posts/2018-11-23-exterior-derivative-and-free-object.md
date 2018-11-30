@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 外微分、自由对象和其它
+title: 外微分、自由对象及其它
 ---
 [前面]()有文章提到，代数几何将思考的对象提高到无以复加的高度。[外微分](https://en.wikipedia.org/wiki/Exterior_derivative)何以能够涵盖梯度、散度、旋度？
 如何做到度量无关？坐标无关？[自由对象]()又是怎么一回事儿？[范性质](https://en.wikipedia.org/wiki/Universal_property)是怎么被提出来的？
