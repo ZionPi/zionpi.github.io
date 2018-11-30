@@ -9,8 +9,8 @@ IDA使这项工作变得容易了。我们来认识以下常用的快捷键:
 - Shift + ; 对代码进行注释
 - Ctrl + x 查找引用
 - Spacebar 在graph和text视图之间切换
-- F5 转化成源代码
 - Ctrl + 1 打开小窗口列表
+- Spacebar 在graph和text视图之间切
 - Edit -> Patch 能够将修改保存目标文件中
 - F5 可以生成伪C代码
 
