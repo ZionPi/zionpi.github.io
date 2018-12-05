@@ -6,10 +6,10 @@ layout: page
 青史几番春梦，红尘多少奇才。不消计较与安排，领取而今现在
 ```
 
- 假设你乐于探索世界，下面几个网站可能会让你尽兴
-[`MathOverflow`](https://mathoverflow.net/)  
-[`MathematicsExchange`](https://math.stackexchange.com/)  
-[`Hacker News`](https://news.ycombinator.com/)  
+ 假设你乐于探索世界，下面几个网站可能会让你尽兴  
+- [`MathOverflow`](https://mathoverflow.net/)  
+- [`MathematicsExchange`](https://math.stackexchange.com/)  
+- [`Hacker News`](https://news.ycombinator.com/)  
 
 ### 你觉得懂得很多,落笔处生涩无比.并不是因为你接触到的概念河太过艰深,而是你根本就没有理解到位
 
