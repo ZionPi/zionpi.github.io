@@ -1,22 +1,18 @@
 ---
 layout: page
-title: 关于我 
-subtitle: 享受发现的乐趣
 ---
+```
+日日深杯酒满，朝朝小圃花开。自歌自舞自开怀，无拘无束无碍。
+青史几番春梦，红尘多少奇才。不消计较与安排，领取而今现在
+```
 
-
- 如果你乐于探索，下面几个网站可能帮助你增长这种乐趣   
+ 假设你乐于探索世界，下面几个网站可能会让你尽兴
 [`MathOverflow`](https://mathoverflow.net/)  
 [`MathematicsExchange`](https://math.stackexchange.com/)  
 [`Hacker News`](https://news.ycombinator.com/)  
 
+### 你觉得懂得很多,落笔处生涩无比.并不是因为你接触到的概念河太过艰深,而是你根本就没有理解到位
 
-```
-“衣敝缊袍
-与衣狐貉者立而不耻者
-其由也与
-‘不忮不求，何用不臧？”
-```
 
  `下面是数学公式测试片段:`  
  (1): $h_\theta(x) = \Large\frac{1}{1 + \mathcal{e}^{(-\theta^\top x)}}$ ; <br/>
