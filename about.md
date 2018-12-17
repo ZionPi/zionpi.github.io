@@ -11,7 +11,7 @@ layout: page
 - [`MathematicsExchange`](https://math.stackexchange.com/)  
 - [`Hacker News`](https://news.ycombinator.com/)  
  
-
+什么是内心的声音？权威一无是处吗？
 
  `下面是数学公式测试片段:`  
  (1): $h_\theta(x) = \Large\frac{1}{1 + \mathcal{e}^{(-\theta^\top x)}}$ ; <br/>
