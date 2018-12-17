@@ -13,7 +13,7 @@ layout: page
 - [`MathematicsExchange`](https://math.stackexchange.com/)  
 - [`Hacker News`](https://news.ycombinator.com/)  
  
-什么是内心的声音？权威一无是处吗？ 不积跬步无以至千里吧. 
+什么是内心的声音？权威一无是处吗？ 不积跬步,何以至千里.
 
 
 
