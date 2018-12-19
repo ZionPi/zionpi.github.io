@@ -20,6 +20,8 @@ And the end of all our exploring
 Will be to arrive where we started    
 And know the place for the first time  
 
+> I was raised by a pack of wild mathematicians. We roamed the great planes proving theorems and conjecturing.
+
 > You either die a hero, or you live long enough to see yourself become the villain.  
  `下面是数学公式测试片段:`  
  (1): $h_\theta(x) = \Large\frac{1}{1 + \mathcal{e}^{(-\theta^\top x)}}$ ; <br/>
