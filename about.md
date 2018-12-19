@@ -6,6 +6,8 @@ layout: page
 青史几番春梦，红尘多少奇才。不消计较与安排，领取而今现在。
 ```
 
+> "A novice was trying to fix a broken Lisp machine by turning the power off and on. Knight, seeing what the student was doing, spoke sternly: "You cannot fix a machine by just power-cycling it with no understanding of what is going wrong." Knight turned the machine off and on. The machine worked." 
+
 *如果一件事情,自己都没有搞搞清楚,还要去指导他人?你算老几?*
 
  假如你乐于探索，下面几个网站有可能会使你感到快乐  
