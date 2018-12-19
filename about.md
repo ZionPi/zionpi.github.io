@@ -20,7 +20,8 @@ layout: page
  `下面是数学公式测试片段:`  
  (1): $h_\theta(x) = \Large\frac{1}{1 + \mathcal{e}^{(-\theta^\top x)}}$ ; <br/>
  (2): $a^2 + b^2 = c^2$ ; <br/>
- (3): $\sum_{i=1}^m y^{(i)};$<br/>
- (4): $\frac{1}{\pi}\int_{-\pi}^{\pi}|f(t)|^2dt = \frac{1}{2}a_0^2+\sum_{n=1}^{\infty}a_n^2+b_n^2$<br/>
+ (3): $\sum_{i=1}^m y^{(i)}$;<br/>
+ (4): $\frac{1}{\pi}\int_{-\pi}^{\pi}|f(t)|^2dt = \frac{1}{2}a_0^2+\sum_{n=1}^{\infty}a_n^2+b_n^2$ ;<br/>
+ (5): $f(x)\sim \frac{a_0}{2}+\sum_{n=1}^{\infty}a_n\cos(nx)+b_n\sin(nx) $
 
 
