@@ -20,6 +20,7 @@ And the end of all our exploring
 Will be to arrive where we started    
 And know the place for the first time  
 
+> You either die a hero, or you live long enough to see yourself become the villain.  
  `下面是数学公式测试片段:`  
  (1): $h_\theta(x) = \Large\frac{1}{1 + \mathcal{e}^{(-\theta^\top x)}}$ ; <br/>
  (2): $a^2 + b^2 = c^2$ ; <br/>
