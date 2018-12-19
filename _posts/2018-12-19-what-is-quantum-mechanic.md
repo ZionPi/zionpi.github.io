@@ -13,7 +13,7 @@ $$
 $$  
   
   
-where the Fourier series for $f$ is  
+> where the Fourier series for $f$ is  
   
   
 $$
