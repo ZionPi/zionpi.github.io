@@ -15,7 +15,7 @@ layout: page
  
 什么是内心的声音？权威一无是处吗？ 不积跬步,何以至千里.
 
-> [We](http://www.columbia.edu/itc/history/winter/w3206/edit/tseliotlittlegidding.html) shall not cease from exploration  
+> [...We](http://www.columbia.edu/itc/history/winter/w3206/edit/tseliotlittlegidding.html) shall not cease from exploration  
 And the end of all our exploring   
 Will be to arrive where we started    
 And know the place for the first time  
