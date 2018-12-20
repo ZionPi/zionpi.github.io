@@ -10,6 +10,8 @@ layout: page
 
 *如果一件事情,自己都没有搞搞清楚,还要去指导他人?你算老几?*
 
+> Neque enim ingenium sine disciplina aut disciplina sine ingenio perfectum artificem potest efficere.——Marcus Vitruvius Pollio 
+
  假如你乐于探索，下面几个网站有可能会使你感到快乐  
 - [`MathOverflow`](https://mathoverflow.net/)  
 - [`MathematicsExchange`](https://math.stackexchange.com/)  
