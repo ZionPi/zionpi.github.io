@@ -30,4 +30,6 @@ title: 我为什么要学习代数几何？
 ## 代数几何是困难的
 除了以上心理建设外，不得不说这是一门困难的学科。
 
+## 代数几何之后的生活
+
 [1] https://math.stackexchange.com/questions/255063/why-study-algebraic-geometry
