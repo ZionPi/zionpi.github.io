@@ -5,6 +5,7 @@ layout: page
 日日深杯酒满，朝朝小圃花开。自歌自舞自开怀，无拘无束无碍。
 青史几番春梦，红尘多少奇才。不消计较与安排，领取而今现在。
 ```
+> What are mathematics helpful for ? Mathematics are helpful for physics. Physics helps us make fridges. Fridges are made to contain spiny lobsters, and spiny lobsters help mathematicians who eat them and have hence better abilities to do mathematics, which are helpful for physics, which helps us make fridges which... ——Laurent Schwartz
 
 > "A novice was trying to fix a broken Lisp machine by turning the power off and on. Knight, seeing what the student was doing, spoke sternly: "You cannot fix a machine by just power-cycling it with no understanding of what is going wrong." Knight turned the machine off and on. The machine worked." 
 
@@ -27,6 +28,8 @@ And know the place for the first time
 > I was raised by a pack of wild mathematicians. We roamed the great planes proving theorems and conjecturing.
 
 > You either die a hero, or you live long enough to see yourself become the villain.  
+
+
  `下面是数学公式测试片段:`  
  (1): $h_\theta(x) = \Large\frac{1}{1 + \mathcal{e}^{(-\theta^\top x)}}$ ; <br/>
  (2): $a^2 + b^2 = c^2$ ; <br/>
