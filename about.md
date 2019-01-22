@@ -31,6 +31,8 @@ And know the place for the first time
 
 > ... great mathematical expositor.
 
+> Point n'est besoin d'espérer pour entreprendre, ni de réussir pour perséverer.——Willem van Oranje Nassau 
+
  `下面是数学公式测试片段:`  
  (1): $h_\theta(x) = \Large\frac{1}{1 + \mathcal{e}^{(-\theta^\top x)}}$ ; <br/>
  (2): $a^2 + b^2 = c^2$ ; <br/>
