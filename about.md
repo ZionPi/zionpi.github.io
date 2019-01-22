@@ -33,6 +33,22 @@ And know the place for the first time
 
 > Point n'est besoin d'espérer pour entreprendre, ni de réussir pour perséverer.——Willem van Oranje Nassau 
 
+> But still a large part of mathematics which became useful developed
+with absolutely no desire to be useful, and in situations where nobody
+could possibly know in what area it would become useful; and there
+were no general indications that it ever would be so. By and large it is
+uniformly true in mathematics that there is a time lapse between a
+mathematical discovery and the moment when it is useful; and that this
+lapse of time can be anything (rom thirty to a hundred years, in some
+cases even more; and that the whole system seems to function without
+any direction, without any reference to usefulness. . . This is true for
+all of science. Successes were largely due to forgetting completely about
+what one ultimately wanted, or whether one wanted anything ulti-
+mately; in refusing to investigate things which profit, and in relying
+solely on guidance by criteria of intellectual elegance; it was by follow-
+ing this rule that one actually got ahead in the long run, much better
+than any strictly utilitarian course would have permitted.
+
  `下面是数学公式测试片段:`  
  (1): $h_\theta(x) = \Large\frac{1}{1 + \mathcal{e}^{(-\theta^\top x)}}$ ; <br/>
  (2): $a^2 + b^2 = c^2$ ; <br/>
