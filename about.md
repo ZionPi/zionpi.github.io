@@ -49,6 +49,8 @@ solely on guidance by criteria of intellectual elegance; it was by follow-
 ing this rule that one actually got ahead in the long run, much better
 than any strictly utilitarian course would have permitted.
 
+> 夫夷以近，则游者众；险以远，则至者少.
+
  `下面是数学公式测试片段:`  
  (1): $h_\theta(x) = \Large\frac{1}{1 + \mathcal{e}^{(-\theta^\top x)}}$ ; <br/>
  (2): $a^2 + b^2 = c^2$ ; <br/>
