@@ -1,6 +1,6 @@
 ---
 layout: post
-title:Serge Lang-The Beauty of Doing Mathematics
+title: Serge Lang-The Beauty of Doing Mathematics
 ---
 Serge Lang在1981年,1982年,1983年,连续三年在Palais(巴黎)向大众普及数学.Serge Lang分别选取了素数、丢番图方程、和几何方向
 的题材,特色是开始都很简单,也容易跟观众进行互动.他的这个三个选材简直太棒了,每一个选择都与“大”问题密切相关,素数那个与黎曼猜想相关.
