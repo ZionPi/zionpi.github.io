@@ -58,4 +58,50 @@ than any strictly utilitarian course would have permitted.
  (4): $\frac{1}{\pi}\int_{-\pi}^{\pi}|f(t)|^2dt = \frac{1}{2}a_0^2+\sum_{n=1}^{\infty}a_n^2+b_n^2$ ;<br/>
  (5): $f(x)\sim \frac{a_0}{2}+\sum_{n=1}^{\infty}a_n\cos(nx)+b_n\sin(nx) $ ;<br/>
 
+`下面17个公式据说很重要:`
+
+$ \frac{1}{2} \sigma^{2} S^{2} \frac{\partial^{2} V}{\partial S^{2}}+r S \frac{\partial V}{\partial S}+\frac{\partial V}{\partial t}-r V=0 $
+
+$ x_{t+1}=k x_{t}\left(1-x_{t}\right) $
+
+$ H=-\sum p(x) \log p(x) $
+
+$ i h \frac{\partial}{\partial t} \Psi=H \Psi $
+
+$ E=m c^{2} $
+
+$ \mathrm{d} S \geq 0 $
+
+$ \nabla \cdot \mathbf{E}=\frac{\rho}{\varepsilon_{\mathrm{e}}} $
+
+$ \nabla \cdot \mathbf{H}=0 $
+
+$ \nabla \times \mathbf{E}=-\frac{1}{c} \frac{\partial \mathbf{H}}{\partial t} $
+
+
+$ \nabla \times \mathbf{H}=\frac{1}{c} \frac{\partial E}{\partial t} $
+
+$ \rho\left(\frac{\partial \mathbf{v}}{\partial t}+\mathbf{v} \cdot \nabla \mathbf{v}\right)=-\nabla p+\nabla \cdot \mathbf{T}+\mathbf{f} $
+
+
+$ f(\omega)=\int_{\infty}^{\infty} f(x) e^{-2 \pi i x \omega} d x $
+
+$ \frac{\partial^{2} u}{\partial t^{2}}=c^{2} \frac{\partial^{2} u}{\partial x^{2}} $
+
+$ \Phi(x)=\frac{1}{\sqrt{2 \pi \rho}} e^{\frac{(x-\mu)^{2}}{2 \rho^{2}}} $
+
+$ V-E+F=2 $
+
+$ i^{2}=-1 $
+
+$ F=G \frac{m_{1} m_{2}}{r^{2}} $
+
+
+$ \frac{\mathrm{d} f}{\mathrm{d} t}=\lim _{h \rightarrow 0} \frac{f(t+h)-f(t)}{h} $
+
+$ \log x y=\log x+\log y $
+
+$ a^{2}+b^{2}=c^{2} $
+
+
 
