@@ -57,7 +57,7 @@ than any strictly utilitarian course would have permitted.
  - $h_\theta(x) = \Large\frac{1}{1 + \mathcal{e}^{(-\theta^\top x)}}$ ; <br/>
  - $a^2 + b^2 = c^2$ ; <br/>
  - $\sum_{i=1}^m y^{(i)}$;<br/>
- - $\frac{1}{\pi}\int_{-\pi}^{\pi}|f(t)|^2dt = \frac{1}{2}a_0^2+\sum_{n=1}^{\infty}a_n^2+b_n^2$ ;<br/>
+ - $ \frac{1}{\pi} \int_{-\pi}^{\pi}|f(t)|^{2} d t=\frac{1}{2} a_{0}^{2}+\sum_{n=1}^{\infty} a_{n}^{2}+b_{n}^{2} $;<br/>
  - $f(x)\sim \frac{a_0}{2}+\sum_{n=1}^{\infty}a_n\cos(nx)+b_n\sin(nx) $ ;<br/>
 
 `下面17个公式据说很重要:`
