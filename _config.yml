@@ -47,6 +47,8 @@ navbar-links:
   数学:
     - 历史: "https://fivebooks.com/best-books/history-mathematics-robin-wilson/"
     - 应用: "https://fivebooks.com/best-books/nicholas-higham-applied-mathematics/"
+  AI:
+    - AI Playbook :"https://aiplaybook.a16z.com"
   世界:
     - 方式: "https://fivebooks.com/best-books/venkatesh-rao-how-world-works/"
     - Patrick书单: "https://patrickcollison.com/bookshelf"
