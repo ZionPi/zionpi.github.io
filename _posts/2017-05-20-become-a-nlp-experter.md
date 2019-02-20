@@ -23,6 +23,7 @@ title: 浸泡NLP
 
 ## 参考项目
 [信息摘要](https://github.com/harvardnlp/NAMAS),一个[集合](https://github.com/icoxfog417/awesome-text-summarization)
+[LeetCode实践](https://leetcode.com/)
 
 ## 在线课程
 **Michael Collins** 的[Natural Language Processing ]()
@@ -51,3 +52,11 @@ NLP与深度学习[Natural Language Processing with Deep Learning](https://www.y
 
   
 
+<!---
+1.熟悉机器学习和深度学习算法，不求会，但是一定要会用。但是面试的时候要能掌握1-2个模型的算法原理，能把面试官讲明白，就可以了。
+2.确定一个自然语言处理的研究方向，最好是那种比较重模型不重语言的，比如机器阅读理解，机器摘要等。在这里，我想说，其实对NLP的基本经典问题，知道即可，分词、parsing这些，如果不是特殊需要，看看了解一下就行了。尤其是那些公开课，我个人觉得没啥用，看看cs224n足够了。老旧的经典的了解即可，重点的是那些新的东西，一定要多看多想多做。平时要看开源的代码，最好follow一个state-of-the-art的工作，看着论文和代码从头到尾实现一下，受益匪浅。
+3.多看文献，学会表达，如何把自己的东西讲的高大上，这点最重要，尤其是找工作。其实做的大多数东西，如果你真的去做，就会感觉很low，那么一定要学会如何讲的高大上。其实现在deep learning下，大家做的东西都差不多，往任务上堆模型。创新点，公说公有理，婆说婆有理，说到底就是那么点东西。
+4.刷题，纯找工作用
+
+
+--->
