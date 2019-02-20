@@ -22,7 +22,10 @@ title: 学习Kashgari
 哪些是需要理论知识的.
 
 ### 实际过程
-
+因为该项目是构建在Keras之上的,而[Keras](https://keras.io/#you-have-just-found-keras)是建构在TensorFlow, CNTK,Theano
+之上的,所以呢,过程很简单,代码量都被封装起来了.其中有一个重要需要理解概念是[F1 Score](https://en.wikipedia.org/wiki/F1_score).
+Kashgari主要是用来*文档归类*,*序列标注*的.用户可以提交模型,但要说明为什么?  
+目前Kashgari提供三种模型,分别是CNNModel, BLSTMModel 和 CNNLSTMModel.
 
 ### 结论
 
