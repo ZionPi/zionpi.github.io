@@ -15,7 +15,10 @@ title: 浸泡NLP
 
 ## 参考书籍
 《统计学习方法》 - 李航  
-《中文信息处理丛书：统计自然语言处理》 - 宗成庆
+《中文信息处理丛书：统计自然语言处理》 - 宗成庆  
+Introduction to Information Retrieval   
+Foundations of Statistical Natural Language Processing  
+[Natural Language Processing with Python](http://www.nltk.org/book/)
 
 
 ## 工具
