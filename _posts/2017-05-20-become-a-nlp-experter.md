@@ -40,3 +40,14 @@ NLP与深度学习[Natural Language Processing with Deep Learning](https://www.y
 - [ACL Wiki](https://aclweb.org/aclwiki/Main_Page)
 - [ACL](http://www.aclweb.org/anthology/)
 - [排名](https://scholar.google.ca/citations?view_op=top_venues&hl=en&vq=eng_computationallinguistics)
+
+
+### 建议的顺序
+ - Language model 
+ - POS tagging
+ - 语法分析PCFG
+ 
+ 实际应用：(基于统计的机器翻译，IBM model1、 IBM model 2、phrase based machine translation、再log linear model)
+
+  
+
