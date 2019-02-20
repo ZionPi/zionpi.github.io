@@ -25,9 +25,16 @@ title: 成为NLP领域专家
 
 
 ## 在线课程
-**Michael Collins** Natural Language Processing  
+**Michael Collins** 的[Natural Language Processing ]()
 
-[Natural Language Processing with Deep Learning](https://www.youtube.com/watch?v=OQQ-W_63UgQ)
+Dan Jurafsky和Christopher Manning 的[Natural Language Processing](https://www.youtube.com/watch?v=3Dt_yh1mf_U&list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm)  
+
+[Text Mining and Analytics](https://www.youtube.com/playlist?list=PLLssT5z_DsK8Xwnh_0bjN4KNT81bekvtt)  
+
+
+NLP与深度学习[Natural Language Processing with Deep Learning](https://www.youtube.com/watch?v=OQQ-W_63UgQ)(著名的cs224n?)
+
+
 
 ## 会议
 - [ACL Wiki](https://aclweb.org/aclwiki/Main_Page)
