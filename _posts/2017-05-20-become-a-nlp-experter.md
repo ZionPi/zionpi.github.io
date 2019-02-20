@@ -35,7 +35,7 @@ Speech and Language Processing - Dan Jurafsy
 
 4个框架  
 - [Flair](https://github.com/zalandoresearch/flair) 多语言框架，基于PyTorch
-- [Kashgari](https://github.com/BrikerMan/Kashgari) 多语言框架，基于Keras,据说5分钟建模
+- [Kashgari](https://github.com/BrikerMan/Kashgari) 多语言框架，基于Keras,据说5分钟建模(起点在这儿？)
 - [UDPipe](https://github.com/ufal/udpipe) 多语言框架, 可训练管道，C++
 - [NLP-Cube](https://github.com/adobe/NLP-Cube) 多语言框架，Python
 ## 在线课程
