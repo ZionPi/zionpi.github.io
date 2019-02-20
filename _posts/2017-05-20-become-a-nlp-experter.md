@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 成为NLP领域专家
+title: 浸泡NLP
 ---
 ## 目标
 - 自然语言处理/机器学习相关的工作，包括但不限于语义理解、信息抽取、文本分类、命名实体识别、句法分析等；
@@ -32,9 +32,9 @@ Dan Jurafsky和Christopher Manning 的[Natural Language Processing](https://www.
 [Text Mining and Analytics](https://www.youtube.com/playlist?list=PLLssT5z_DsK8Xwnh_0bjN4KNT81bekvtt)  
 
 
-NLP与深度学习[Natural Language Processing with Deep Learning](https://www.youtube.com/watch?v=OQQ-W_63UgQ)(著名的cs224n?)
+NLP与深度学习[Natural Language Processing with Deep Learning](https://www.youtube.com/watch?v=OQQ-W_63UgQ)(著名的cs224n?)  
 
-
+[YSDA Natural Language Processing course](https://github.com/yandexdataschool/nlp_course)
 
 ## 会议
 - [ACL Wiki](https://aclweb.org/aclwiki/Main_Page)
