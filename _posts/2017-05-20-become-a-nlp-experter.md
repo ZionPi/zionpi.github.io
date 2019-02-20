@@ -28,6 +28,11 @@ Speech and Language Processing - Dan Jurafsy
 [信息摘要](https://github.com/harvardnlp/NAMAS),一个[集合](https://github.com/icoxfog417/awesome-text-summarization)
 [LeetCode实践](https://leetcode.com/)
 
+3个中文框架(起点在这儿？)
+- [结巴中文分词](https://github.com/fxsjy/jieba)
+- [FastNLP](https://github.com/fastnlp/fastNLP)
+- [SnowNLP](https://github.com/isnowfy/snownlp)
+
 ## 在线课程
 **Michael Collins** 的[Natural Language Processing ]()
 
