@@ -28,11 +28,16 @@ Speech and Language Processing - Dan Jurafsy
 [信息摘要](https://github.com/harvardnlp/NAMAS),一个[集合](https://github.com/icoxfog417/awesome-text-summarization)
 [LeetCode实践](https://leetcode.com/)
 
-3个中文框架(起点在这儿？)
+3个中文相关(起点在这儿？)
 - [结巴中文分词](https://github.com/fxsjy/jieba)
 - [FastNLP](https://github.com/fastnlp/fastNLP)
 - [SnowNLP](https://github.com/isnowfy/snownlp)
 
+4个框架  
+- [Flair](https://github.com/zalandoresearch/flair) 多语言框架，基于PyTorch
+- [Kashgari](https://github.com/BrikerMan/Kashgari) 多语言框架，基于Keras,据说5分钟建模
+- [UDPipe](https://github.com/ufal/udpipe) 多语言框架, 可训练管道，C++
+- [NLP-Cube](https://github.com/adobe/NLP-Cube) 多语言框架，Python
 ## 在线课程
 **Michael Collins** 的[Natural Language Processing ]()
 
