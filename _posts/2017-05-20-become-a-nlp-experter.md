@@ -18,8 +18,8 @@ title: 浸泡NLP
 《中文信息处理丛书：统计自然语言处理》 - 宗成庆  
 Introduction to Information Retrieval   
 Foundations of Statistical Natural Language Processing  
-[Natural Language Processing with Python](http://www.nltk.org/book/)
-
+[Natural Language Processing with Python](http://www.nltk.org/book/)  
+Speech and Language Processing - Dan Jurafsy
 
 ## 工具
 [哈工大LTP工具包](https://github.com/HIT-SCIR/ltp)
