@@ -3,23 +3,23 @@ layout: post
 title: 浸泡NLP
 ---
 ## 目标
-- 自然语言处理/机器学习相关的工作，包括但不限于语义理解、信息抽取、文本分类、命名实体识别、句法分析等；
-- 后台垂直领域的开发和改进；
-- 分析挖掘用户行为数据，为用户体验的提升、问题的发现、算法的改进提供支持；
+- 自然语言处理/机器学习相关的工作，包括但不限于语义理解、信息抽取、文本分类、命名实体识别、句法分析等
+- 后台垂直领域的开发和改进
+- 分析挖掘用户行为数据，为用户体验的提升、问题的发现、算法的改进提供支持
 - 顶尖的人工智能算法应用
-- 熟练掌握Java，Python等其他编程语言，有很好的数据结构认识，算法和编程能力；
-- 熟悉常见的机器学习算法；
-- 熟悉NLP/搜索技术，熟悉XGBOOST、TensorFlow、Theano、Torch、Caffe、MXNet等深度学习框架；
+
+- 熟悉常见的机器学习算法
+- 熟悉NLP/搜索技术，熟悉XGBOOST、TensorFlow、Theano、Torch、Caffe、MXNet等深度学习框架
 - 熟悉Hadoop，MapReduce，Spark，Storm，HBase，Kafka。  
 
 
 ## 参考书籍
-《统计学习方法》 - 李航  
-《中文信息处理丛书：统计自然语言处理》 - 宗成庆  
-Introduction to Information Retrieval   
-Foundations of Statistical Natural Language Processing  
-[Natural Language Processing with Python](http://www.nltk.org/book/)  
-Speech and Language Processing - Dan Jurafsy
+- 《统计学习方法》 - 李航  
+- 《中文信息处理丛书：统计自然语言处理》 - 宗成庆  
+- Introduction to Information Retrieval   
+- Foundations of Statistical Natural Language Processing  
+- [Natural Language Processing with Python](http://www.nltk.org/book/)  
+- Speech and Language Processing - Dan Jurafsy
 
 ## 工具
 [哈工大LTP工具包](https://github.com/HIT-SCIR/ltp)
@@ -63,7 +63,15 @@ NLP与深度学习[Natural Language Processing with Deep Learning](https://www.y
  
  实际应用：(基于统计的机器翻译，IBM model1、 IBM model 2、phrase based machine translation、再log linear model)
 
+### 研究方向
+
+  - 阅读理解
+  - 文章摘要
+  - 机器翻译
   
+#### 微小的工作
+
+
 
 <!---
 1.熟悉机器学习和深度学习算法，不求会，但是一定要会用。但是面试的时候要能掌握1-2个模型的算法原理，能把面试官讲明白，就可以了。
