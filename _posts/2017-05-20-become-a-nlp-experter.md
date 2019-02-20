@@ -22,7 +22,7 @@ title: 成为NLP领域专家
 [哈工大LTP工具包](https://github.com/HIT-SCIR/ltp)
 
 ## 参考项目
-
+[信息摘要](https://github.com/harvardnlp/NAMAS),一个[集合](https://github.com/icoxfog417/awesome-text-summarization)
 
 ## 在线课程
 **Michael Collins** 的[Natural Language Processing ]()
