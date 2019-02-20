@@ -9,8 +9,8 @@ title: 浸泡NLP
 - 顶尖的人工智能算法应用
 - 熟练掌握Java，Python等其他编程语言，有很好的数据结构认识，算法和编程能力；
 - 熟悉常见的机器学习算法；
-- 熟悉NLP/搜索技术，熟悉XGBOOST、TensorFlow、Theano、Torch、Caffe、MXNet等深度学习框架者；
-- Hadoop，MapReduce，Spark，Storm，HBase，Kafka开发。  
+- 熟悉NLP/搜索技术，熟悉XGBOOST、TensorFlow、Theano、Torch、Caffe、MXNet等深度学习框架；
+- 熟悉Hadoop，MapReduce，Spark，Storm，HBase，Kafka。  
 
 
 ## 参考书籍
