@@ -67,9 +67,11 @@ NLP与深度学习[Natural Language Processing with Deep Learning](https://www.y
 
   - 阅读理解
   - 文章摘要
-  - 机器翻译
+  - 机器翻译(竞赛)
+  - 对话系统(个性定制？)
   
 #### 微小的工作
+ 
 
 
 #### 认识
