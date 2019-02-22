@@ -1,7 +1,11 @@
 ---
 layout: post
-title: NLP相关模型
+title: NLP相关任务与模型
 ---
+
+[怎么解决NLP中90%的问题](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)?  
+
+
 - SGNS/cBoW、FastText、等ELMo（从词向量引出）
 - DSSM、DecAtt、ESIM等（从问答&匹配引出）
 - HAN、DPCNN等（从分类引出）
@@ -10,6 +14,3 @@ title: NLP相关模型
 - MM、N-shortest等（从分词引出）
 - Bi-LSTM-CRF等（从NER引出）
 - LDA等主题模型（从文本表示引出）
-
-怎么解决NLP中90%的问题?  
-看[这里](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e);
