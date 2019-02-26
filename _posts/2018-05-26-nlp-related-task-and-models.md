@@ -40,7 +40,7 @@ title: NLP相关任务与模型
 ---
 
 接下来详细介绍几种模型，在此之前，给自己提个问题，针对给定的模型，我们如何算得上是**理解**了模型了呢？
- - 隐马尔可夫模型 (HMM)
+ - 隐马尔可夫模型 (HMM)  
   [隐马尔可夫模型相关资源](https://www.quora.com/What-are-some-good-resources-for-learning-about-Hidden-Markov-Models)
  - 最大熵模型(MaxEnt)
  - 条件随机场模型
