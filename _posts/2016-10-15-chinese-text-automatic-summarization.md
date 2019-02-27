@@ -12,4 +12,4 @@ TensorFlow提供了一种可能的实现[TextSum](https://github.com/tensorflow/
 --- 
 参考资料：
 1. [了不起的文本摘要项目汇编](https://github.com/mathsyouth/awesome-text-summarization)
-2. [用Tensorflow做文本摘要](https://hackernoon.com/how-to-run-text-summarization-with-tensorflow-d4472587602d)
+2. [用Tensorflow做文本摘要](http://pavel.surmenok.com/2016/10/15/how-to-run-text-summarization-with-tensorflow/)
