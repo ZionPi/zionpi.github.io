@@ -12,7 +12,7 @@ Keras有一个基于LSTM的[Seq2Seq实现](https://github.com/keras-team/keras/b
 
 
 ## Teaching Force算法  
-
+是一种训练RNN网络策略，它将先前的事件间隔作为模型的输入。
 ## RL算法  
 
 
