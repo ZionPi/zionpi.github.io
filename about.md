@@ -65,7 +65,7 @@ than any strictly utilitarian course would have permitted.
  $$;<br/>
  - $f(x)\sim \frac{a_0}{2}+\sum_{n=1}^{\infty}a_n\cos(nx)+b_n\sin(nx) $ ;<br/>
 
-`下面17个公式据说很重要:`
+`[改变世界的17个公式](https://www.amazon.com/Pursuit-Equations-That-Changed-World/dp/0465085989)`
 
 $ \frac{1}{2} \sigma^{2} S^{2} \frac{\partial^{2} V}{\partial S^{2}}+r S \frac{\partial V}{\partial S}+\frac{\partial V}{\partial t}-r V=0 $
 
