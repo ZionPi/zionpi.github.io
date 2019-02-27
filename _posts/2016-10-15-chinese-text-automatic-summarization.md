@@ -22,3 +22,5 @@ Keras有一个基于LSTM的[Seq2Seq实现](https://github.com/keras-team/keras/b
 2. [用Tensorflow做文本摘要](http://pavel.surmenok.com/2016/10/15/how-to-run-text-summarization-with-tensorflow/)
 3. [深度学习理论知识](http://www.deeplearningbook.org/)
 4. [进一步提高](https://www.salesforce.com/products/einstein/ai-research/tl-dr-reinforced-model-abstractive-summarization/)
+5. [十分钟用Keras理解Seq2Seq](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html)
+6. [机器翻译中运用RNN-Encoder-Decoder](https://medium.com/@gautam.karmakar/learning-phrase-representation-using-rnn-encoder-decoder-for-machine-translation-9171cd6a6574)
