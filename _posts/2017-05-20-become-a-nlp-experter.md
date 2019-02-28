@@ -59,7 +59,7 @@ NLP与深度学习[Natural Language Processing with Deep Learning](https://www.y
 ### 建议的顺序
  - Language model 
  - POS tagging  
-   POS 是part-of-speech 的缩写，这个在NLTK with python书中第5章有讲到。主要是用统计，形态学，语义，正则表达式，Brill tagger制定规则
+   `POS 是part-of-speech 的缩写，这个在NLTK with python书中第5章有讲到。主要是用统计，形态学，语义，正则表达式，Brill tagger制定规则`
  - 语法分析PCFG
  
  实际应用：(基于统计的机器翻译，IBM model1、 IBM model 2、phrase based machine translation、再log linear model)
