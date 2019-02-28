@@ -17,7 +17,7 @@ Keras有一个基于LSTM的[Seq2Seq实现](https://github.com/keras-team/keras/b
 关于RL算法[基础介绍](https://medium.com/@jonathan_hui/rl-basics-algorithms-and-terms-ae98314851d7)
 
 ## 中文信息摘要  
-[HanLP](https://github.com/hankcs/HanLP)这个项目有一点关于中文信息摘要的信息，但那篇文章引用的技术比较老了。
+[HanLP](https://github.com/hankcs/HanLP)这个项目有[一个部分](https://github.com/letiantian/TextRank4ZH)关于中文信息摘要的信息，但那篇文章引用的技术比较老了。
 
 --- 
 参考资料：
