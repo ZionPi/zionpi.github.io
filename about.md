@@ -67,7 +67,7 @@ than any strictly utilitarian course would have permitted.
 
  [改变世界的17个公式](https://www.amazon.com/Pursuit-Equations-That-Changed-World/dp/0465085989)  
 
-1. $ \frac{1}{2} \sigma^{2} S^{2} \frac{\partial^{2} V}{\partial S^{2}}+r S \frac{\partial V}{\partial S}+\frac{\partial V}{\partial t}-r V=0 $
+1. `$ \frac{1}{2} \sigma^{2} S^{2} \frac{\partial^{2} V}{\partial S^{2}}+r S \frac{\partial V}{\partial S}+\frac{\partial V}{\partial t}-r V=0 $`
 
 2. $ x_{t+1}=k x_{t}\left(1-x_{t}\right) $
 
@@ -79,14 +79,7 @@ than any strictly utilitarian course would have permitted.
 
 6. $ \mathrm{d} S \geq 0 $
 
-7. $ \nabla \cdot \mathbf{E}=\frac{\rho}{\varepsilon_{\mathrm{e}}} $
-
-$ \nabla \cdot \mathbf{H}=0 $
-
-$ \nabla \times \mathbf{E}=-\frac{1}{c} \frac{\partial \mathbf{H}}{\partial t} $
-
-
-$ \nabla \times \mathbf{H}=\frac{1}{c} \frac{\partial E}{\partial t} $
+7. $ \nabla \cdot \mathbf{E}=\frac{\rho}{\varepsilon_{\mathrm{e}}} $ $ \nabla \cdot \mathbf{H}=0 $ $ \nabla \times \mathbf{E}=-\frac{1}{c} \frac{\partial \mathbf{H}}{\partial t} $ $ \nabla \times \mathbf{H}=\frac{1}{c} \frac{\partial E}{\partial t} $
 
 8. $ \rho\left(\frac{\partial \mathbf{v}}{\partial t}+\mathbf{v} \cdot \nabla \mathbf{v}\right)=-\nabla p+\nabla \cdot \mathbf{T}+\mathbf{f} $
 
