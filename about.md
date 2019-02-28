@@ -66,42 +66,42 @@ than any strictly utilitarian course would have permitted.
  - $f(x)\sim \frac{a_0}{2}+\sum_{n=1}^{\infty}a_n\cos(nx)+b_n\sin(nx) $ ;<br/>
 
  [改变世界的17个公式](https://www.amazon.com/Pursuit-Equations-That-Changed-World/dp/0465085989)  
+ 
+1. `$ a^{2}+b^{2}=c^{2} $`
 
-1. `$ \frac{1}{2} \sigma^{2} S^{2} \frac{\partial^{2} V}{\partial S^{2}}+r S \frac{\partial V}{\partial S}+\frac{\partial V}{\partial t}-r V=0 $`
+2. `$ \log x y=\log x+\log y $`
 
-2. `$ x_{t+1}=k x_{t}\left(1-x_{t}\right) $`
+3. `$ \frac{\mathrm{d} f}{\mathrm{d} t}=\lim _{h \rightarrow 0} \frac{f(t+h)-f(t)}{h} $`
 
-3. `$ H=-\sum p(x) \log p(x) $`
+4. `$ F=G \frac{m_{1} m_{2}}{r^{2}} $`
 
-4. `$ i h \frac{\partial}{\partial t} \Psi=H \Psi $`
+5. `$ i^{2}=-1 $`
 
-5. `$ E=m c^{2} $`
+6. `$ V-E+F=2 $`
 
-6. `$ \mathrm{d} S \geq 0 $`
+7. `$ \Phi(x)=\frac{1}{\sqrt{2 \pi \rho}} e^{\frac{(x-\mu)^{2}}{2 \rho^{2}}} $`
 
-7. `$ \nabla \cdot \mathbf{E}=\frac{\rho}{\varepsilon_{\mathrm{e}}} $ $ \nabla \cdot \mathbf{H}=0 $ $ \nabla \times \mathbf{E}=-\frac{1}{c} \frac{\partial \mathbf{H}}{\partial t} $ $ \nabla \times \mathbf{H}=\frac{1}{c} \frac{\partial E}{\partial t} $`
-
-8. `$ \rho\left(\frac{\partial \mathbf{v}}{\partial t}+\mathbf{v} \cdot \nabla \mathbf{v}\right)=-\nabla p+\nabla \cdot \mathbf{T}+\mathbf{f} $`
-
+8. `$ \frac{\partial^{2} u}{\partial t^{2}}=c^{2} \frac{\partial^{2} u}{\partial x^{2}} $`
 
 9. `$ f(\omega)=\int_{\infty}^{\infty} f(x) e^{-2 \pi i x \omega} d x $`
 
-10. `$ \frac{\partial^{2} u}{\partial t^{2}}=c^{2} \frac{\partial^{2} u}{\partial x^{2}} $`
+10. `$ \rho\left(\frac{\partial \mathbf{v}}{\partial t}+\mathbf{v} \cdot \nabla \mathbf{v}\right)=-\nabla p+\nabla \cdot \mathbf{T}+\mathbf{f} $`
 
-11. `$ \Phi(x)=\frac{1}{\sqrt{2 \pi \rho}} e^{\frac{(x-\mu)^{2}}{2 \rho^{2}}} $`
+11. `$ \nabla \cdot \mathbf{E}=\frac{\rho}{\varepsilon_{\mathrm{e}}} $ $ \nabla \cdot \mathbf{H}=0 $ $ \nabla \times \mathbf{E}=-\frac{1}{c} \frac{\partial \mathbf{H}}{\partial t} $ $ \nabla \times \mathbf{H}=\frac{1}{c} \frac{\partial E}{\partial t} $`
 
-12. `$ V-E+F=2 $`
+12. `$ \mathrm{d} S \geq 0 $`
 
-13. `$ i^{2}=-1 $`
+13. `$ E=m c^{2} $`
 
-14. `$ F=G \frac{m_{1} m_{2}}{r^{2}} $`
+14. `$ i h \frac{\partial}{\partial t} \Psi=H \Psi $`
+
+15. `$ H=-\sum p(x) \log p(x) $`
+
+16. `$ x_{t+1}=k x_{t}\left(1-x_{t}\right) $`
+
+17. `$ \frac{1}{2} \sigma^{2} S^{2} \frac{\partial^{2} V}{\partial S^{2}}+r S \frac{\partial V}{\partial S}+\frac{\partial V}{\partial t}-r V=0 $`
 
 
-15. `$ \frac{\mathrm{d} f}{\mathrm{d} t}=\lim _{h \rightarrow 0} \frac{f(t+h)-f(t)}{h} $`
-
-16. `$ \log x y=\log x+\log y $`
-
-17. `$ a^{2}+b^{2}=c^{2} $`
 
 
 
