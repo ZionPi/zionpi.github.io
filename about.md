@@ -67,19 +67,19 @@ than any strictly utilitarian course would have permitted.
 
  [改变世界的17个公式](https://www.amazon.com/Pursuit-Equations-That-Changed-World/dp/0465085989)  
 
-$ \frac{1}{2} \sigma^{2} S^{2} \frac{\partial^{2} V}{\partial S^{2}}+r S \frac{\partial V}{\partial S}+\frac{\partial V}{\partial t}-r V=0 $
+1. $ \frac{1}{2} \sigma^{2} S^{2} \frac{\partial^{2} V}{\partial S^{2}}+r S \frac{\partial V}{\partial S}+\frac{\partial V}{\partial t}-r V=0 $
 
-$ x_{t+1}=k x_{t}\left(1-x_{t}\right) $
+2. $ x_{t+1}=k x_{t}\left(1-x_{t}\right) $
 
-$ H=-\sum p(x) \log p(x) $
+3. $ H=-\sum p(x) \log p(x) $
 
-$ i h \frac{\partial}{\partial t} \Psi=H \Psi $
+4. $ i h \frac{\partial}{\partial t} \Psi=H \Psi $
 
-$ E=m c^{2} $
+5. $ E=m c^{2} $
 
-$ \mathrm{d} S \geq 0 $
+6. $ \mathrm{d} S \geq 0 $
 
-$ \nabla \cdot \mathbf{E}=\frac{\rho}{\varepsilon_{\mathrm{e}}} $
+7. $ \nabla \cdot \mathbf{E}=\frac{\rho}{\varepsilon_{\mathrm{e}}} $
 
 $ \nabla \cdot \mathbf{H}=0 $
 
@@ -88,27 +88,27 @@ $ \nabla \times \mathbf{E}=-\frac{1}{c} \frac{\partial \mathbf{H}}{\partial t} $
 
 $ \nabla \times \mathbf{H}=\frac{1}{c} \frac{\partial E}{\partial t} $
 
-$ \rho\left(\frac{\partial \mathbf{v}}{\partial t}+\mathbf{v} \cdot \nabla \mathbf{v}\right)=-\nabla p+\nabla \cdot \mathbf{T}+\mathbf{f} $
+8. $ \rho\left(\frac{\partial \mathbf{v}}{\partial t}+\mathbf{v} \cdot \nabla \mathbf{v}\right)=-\nabla p+\nabla \cdot \mathbf{T}+\mathbf{f} $
 
 
-$ f(\omega)=\int_{\infty}^{\infty} f(x) e^{-2 \pi i x \omega} d x $
+9. $ f(\omega)=\int_{\infty}^{\infty} f(x) e^{-2 \pi i x \omega} d x $
 
-$ \frac{\partial^{2} u}{\partial t^{2}}=c^{2} \frac{\partial^{2} u}{\partial x^{2}} $
+10. $ \frac{\partial^{2} u}{\partial t^{2}}=c^{2} \frac{\partial^{2} u}{\partial x^{2}} $
 
-$ \Phi(x)=\frac{1}{\sqrt{2 \pi \rho}} e^{\frac{(x-\mu)^{2}}{2 \rho^{2}}} $
+11. $ \Phi(x)=\frac{1}{\sqrt{2 \pi \rho}} e^{\frac{(x-\mu)^{2}}{2 \rho^{2}}} $
 
-$ V-E+F=2 $
+12. $ V-E+F=2 $
 
-$ i^{2}=-1 $
+13. $ i^{2}=-1 $
 
-$ F=G \frac{m_{1} m_{2}}{r^{2}} $
+14. $ F=G \frac{m_{1} m_{2}}{r^{2}} $
 
 
-$ \frac{\mathrm{d} f}{\mathrm{d} t}=\lim _{h \rightarrow 0} \frac{f(t+h)-f(t)}{h} $
+15. $ \frac{\mathrm{d} f}{\mathrm{d} t}=\lim _{h \rightarrow 0} \frac{f(t+h)-f(t)}{h} $
 
-$ \log x y=\log x+\log y $
+16. $ \log x y=\log x+\log y $
 
-$ a^{2}+b^{2}=c^{2} $
+17. $ a^{2}+b^{2}=c^{2} $
 
 
 
