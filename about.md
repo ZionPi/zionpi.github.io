@@ -69,39 +69,39 @@ than any strictly utilitarian course would have permitted.
 
 1. `$ \frac{1}{2} \sigma^{2} S^{2} \frac{\partial^{2} V}{\partial S^{2}}+r S \frac{\partial V}{\partial S}+\frac{\partial V}{\partial t}-r V=0 $`
 
-2. $ x_{t+1}=k x_{t}\left(1-x_{t}\right) $
+2. `$ x_{t+1}=k x_{t}\left(1-x_{t}\right) $`
 
-3. $ H=-\sum p(x) \log p(x) $
+3. `$ H=-\sum p(x) \log p(x) $`
 
-4. $ i h \frac{\partial}{\partial t} \Psi=H \Psi $
+4. `$ i h \frac{\partial}{\partial t} \Psi=H \Psi $`
 
-5. $ E=m c^{2} $
+5. `$ E=m c^{2} $`
 
-6. $ \mathrm{d} S \geq 0 $
+6. `$ \mathrm{d} S \geq 0 $`
 
-7. $ \nabla \cdot \mathbf{E}=\frac{\rho}{\varepsilon_{\mathrm{e}}} $ $ \nabla \cdot \mathbf{H}=0 $ $ \nabla \times \mathbf{E}=-\frac{1}{c} \frac{\partial \mathbf{H}}{\partial t} $ $ \nabla \times \mathbf{H}=\frac{1}{c} \frac{\partial E}{\partial t} $
+7. `$ \nabla \cdot \mathbf{E}=\frac{\rho}{\varepsilon_{\mathrm{e}}} $ $ \nabla \cdot \mathbf{H}=0 $ $ \nabla \times \mathbf{E}=-\frac{1}{c} \frac{\partial \mathbf{H}}{\partial t} $ $ \nabla \times \mathbf{H}=\frac{1}{c} \frac{\partial E}{\partial t} $`
 
-8. $ \rho\left(\frac{\partial \mathbf{v}}{\partial t}+\mathbf{v} \cdot \nabla \mathbf{v}\right)=-\nabla p+\nabla \cdot \mathbf{T}+\mathbf{f} $
-
-
-9. $ f(\omega)=\int_{\infty}^{\infty} f(x) e^{-2 \pi i x \omega} d x $
-
-10. $ \frac{\partial^{2} u}{\partial t^{2}}=c^{2} \frac{\partial^{2} u}{\partial x^{2}} $
-
-11. $ \Phi(x)=\frac{1}{\sqrt{2 \pi \rho}} e^{\frac{(x-\mu)^{2}}{2 \rho^{2}}} $
-
-12. $ V-E+F=2 $
-
-13. $ i^{2}=-1 $
-
-14. $ F=G \frac{m_{1} m_{2}}{r^{2}} $
+8. `$ \rho\left(\frac{\partial \mathbf{v}}{\partial t}+\mathbf{v} \cdot \nabla \mathbf{v}\right)=-\nabla p+\nabla \cdot \mathbf{T}+\mathbf{f} $`
 
 
-15. $ \frac{\mathrm{d} f}{\mathrm{d} t}=\lim _{h \rightarrow 0} \frac{f(t+h)-f(t)}{h} $
+9. `$ f(\omega)=\int_{\infty}^{\infty} f(x) e^{-2 \pi i x \omega} d x $`
 
-16. $ \log x y=\log x+\log y $
+10. `$ \frac{\partial^{2} u}{\partial t^{2}}=c^{2} \frac{\partial^{2} u}{\partial x^{2}} $`
 
-17. $ a^{2}+b^{2}=c^{2} $
+11. `$ \Phi(x)=\frac{1}{\sqrt{2 \pi \rho}} e^{\frac{(x-\mu)^{2}}{2 \rho^{2}}} $`
+
+12. `$ V-E+F=2 $`
+
+13. `$ i^{2}=-1 $`
+
+14. `$ F=G \frac{m_{1} m_{2}}{r^{2}} $`
+
+
+15. `$ \frac{\mathrm{d} f}{\mathrm{d} t}=\lim _{h \rightarrow 0} \frac{f(t+h)-f(t)}{h} $`
+
+16. `$ \log x y=\log x+\log y $`
+
+17. `$ a^{2}+b^{2}=c^{2} $`
 
 
 
