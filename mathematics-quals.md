@@ -46,7 +46,8 @@ title: Mathematics Quals
 - Fourier inversion
 - distributions
 
----
+---  
+
 # 复分析
 - complex numbers
 - harmonic functions
