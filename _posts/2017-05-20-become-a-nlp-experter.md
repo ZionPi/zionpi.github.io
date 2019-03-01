@@ -20,6 +20,7 @@ title: 浸泡NLP
 - Foundations of Statistical Natural Language Processing  
 - [Natural Language Processing with Python](http://www.nltk.org/book/)  
 - Speech and Language Processing - Dan Jurafsy
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
 ## 工具
 [哈工大LTP工具包](https://github.com/HIT-SCIR/ltp)
