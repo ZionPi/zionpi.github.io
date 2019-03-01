@@ -47,6 +47,7 @@ navbar-links:
   数学:
     - 历史: "https://fivebooks.com/best-books/history-mathematics-robin-wilson/"
     - 应用: "https://fivebooks.com/best-books/nicholas-higham-applied-mathematics/"
+    - Quals: "mathematics-quals"
   AI:
     - AIPlaybook: "https://aiplaybook.a16z.com"
   世界:
