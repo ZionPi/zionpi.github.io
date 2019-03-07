@@ -44,3 +44,7 @@ title: NLP相关任务与模型
   [隐马尔可夫模型相关资源](https://www.quora.com/What-are-some-good-resources-for-learning-about-Hidden-Markov-Models)
  - 最大熵模型(MaxEnt)
  - 条件随机场模型
+ 
+---
+## 神经网路
+有一个我们无法忽视的模型，神经网络模型，相关的资料非常之多，进来也涌现了不少高水准之作，在看过[这篇](https://victorzhou.com/blog/intro-to-neural-networks/)关于神经网络介绍的文章之后，你很难不理解它背后的工作逻辑。还有，此篇文章还推荐一个在网页编程的工作环境[Repl.it](https://repl.it/languages)
