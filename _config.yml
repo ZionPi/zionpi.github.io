@@ -50,6 +50,8 @@ navbar-links:
     - Quals: "mathematics-quals"
   AI:
     - AIPlaybook: "https://aiplaybook.a16z.com"
+    - SOTA-CODE: "https://paperswithcode.com/state-of-the-art"
+    - SOTA: "https://www.stateoftheart.ai/"
   世界:
     - 方式: "https://fivebooks.com/best-books/venkatesh-rao-how-world-works/"
     - Patrick书单: "https://patrickcollison.com/bookshelf"
