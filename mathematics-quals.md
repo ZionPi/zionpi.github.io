@@ -9,10 +9,10 @@ title: Mathematics Quals
 - bounded variation
 - absolute continuity
 - complex measures
-- Radon-Nikodym theorem
-- Baire category theorem
+- [Radon-Nikodym theorem](https://en.wikipedia.org/wiki/Radon%E2%80%93Nikodym_theorem)
+- [Baire category theorem](https://en.wikipedia.org/wiki/Baire_category_theorem)
 - dual spaces
-- Hahn-Banach theorem
+- [Hahn-Banach theorem](https://en.wikipedia.org/wiki/Hahn%E2%80%93Banach_theorem)
 - Hilbert space
 - orthogonality, projections
 - $L^{p}$ spaces
@@ -21,7 +21,7 @@ title: Mathematics Quals
 - the dual of $C_{0}(X)$
 - Fourier series
 - the Fourier transform
-- Plancherel's theorem
+- [Plancherel's theorem](https://en.wikipedia.org/wiki/Plancherel_theorem)
 - Fourier analysis on lca groups
 - Sobolev spaces
 - Lebesgue measure theory on $\mathbb{R}^{N}$
@@ -30,17 +30,17 @@ title: Mathematics Quals
 - monotonic functions
 - signed measures
 - differentiation of measures
-- Lebesgue's theorems
-- Fatou's lemma
+- [Lebesgue's theorems](https://en.wikipedia.org/wiki/Lebesgue_differentiation_theorem)
+- [Fatou's lemma](https://en.wikipedia.org/wiki/Fatou%27s_lemma)
 - Banach spaces
 - uniform boundedhess principle
 - open mapping principle
-- Riesz representation theorem
-- spectral theory
+- [Riesz representation theorem](https://en.wikipedia.org/wiki/Riesz_representation_theorem)
+- [spectral theory](https://en.wikipedia.org/wiki/Spectral_theory)
 - duality of $L^{p}$ spaces
 - weak $L^{p}$
 - positive functionals on $C_{c}(X)$
-- the Haar integral
+- [the Haar integral](https://en.wikipedia.org/wiki/Haar_measure)
 - summability methods
 - $L^{2}$ theory in Fourier analysis
 - Fourier inversion
@@ -55,19 +55,19 @@ title: Mathematics Quals
 - elementary functions
 $\left(e^{z}, \log z, \arg z\right)$
 - power series
-- Liouville's theorem
-- Schwarz-Pick lemma
+- [Liouville's theorem](https://en.wikipedia.org/wiki/Liouville%27s_theorem_(complex_analysis))
+- [Schwarz-Pick lemma](https://en.wikipedia.org/wiki/Schwarz_lemma)
 - Laurent series
-- Casorati-Weierstrass theorem
-- Cauchy integral theorem
-- Runge's theorem
+- [Casorati-Weierstrass theorem](https://en.wikipedia.org/wiki/Casorati%E2%80%93Weierstrass_theorem)
+- [Cauchy integral theorem](https://en.wikipedia.org/wiki/Cauchy%27s_integral_theorem)
+- [Runge's theorem](https://en.wikipedia.org/wiki/Runge%27s_theorem)
 - existence of primitives and logs
 - real integrals by residues
 - argument principle
-- local mapping theorem
-- Ascoli-Arzéla theorem
-- Riemann mapping theorem
-- Schwarz-Christoffel formula
+- [local mapping theorem](https://en.wikipedia.org/wiki/Open_mapping_theorem_(complex_analysis))
+- [Ascoli-Arzéla theorem](https://en.wikipedia.org/wiki/Arzel%C3%A0%E2%80%93Ascoli_theorem)
+- [Riemann mapping theorem](https://en.wikipedia.org/wiki/Riemann_mapping_theorem)
+- [Schwarz-Christoffel formula](https://en.wikipedia.org/wiki/Schwarz%E2%80%93Christoffel_mapping)
 - theta functions
 - Weierstrass factorization
 - complex differentiation
@@ -83,17 +83,17 @@ singularities and zeros
 - residues
 - Cauchy integral formula
 - simply connected domains
-- residue theorem
-- Poisson integral formula
-- Rouché's theorem
+- [residue theorem](https://en.wikipedia.org/wiki/Residue_theorem)
+- [Poisson integral formula](https://en.wikipedia.org/wiki/Poisson_kernel)
+- [Rouché's theorem](https://en.wikipedia.org/wiki/Rouch%C3%A9%27s_theorem)
 - normal families
-- Montel's theorem
-- Schwarz reflection principle
+- [Montel's theorem](https://en.wikipedia.org/wiki/Montel%27s_theorem)
+- [Schwarz reflection principle](https://en.wikipedia.org/wiki/Schwarz_reflection_principle)
 - mappings of rectangles,elliptic integrals
-- Mittag-Leffier theorem
-- Blaschke products
+- [Mittag-Leffier theorem](https://en.wikipedia.org/wiki/Mittag-Leffler%27s_theorem)
+- [Blaschke products](https://en.wikipedia.org/wiki/Blaschke_product)
 - factoring by Blaschke products
-- Hadamard theorem on lacunarity
+- [Hadamard theorem on lacunarity](https://en.wikipedia.org/wiki/Cauchy%E2%80%93Hadamard_theorem)
 - product representation
 - Stirling's formula
 - Riemann $\zeta$-function
@@ -105,32 +105,32 @@ modular group
 - $\sigma$ -function
 - congruence subgroup mod 2
 - analytic continuation
-- Picard's little theorem
+- [Picard's little theorem](https://en.wikipedia.org/wiki/Picard_theorem)
 - subharmonic functions
 - growth and zeros of
 entire functions
 - univalent functions
 - infinite products
-- Weierstrass theorem
-- Jensen's formula
+- [Weierstrass theorem](https://en.wikipedia.org/wiki/Weierstrass_theorem)
+- [Jensen's formula](https://en.wikipedia.org/wiki/Jensen%27s_formula)
 - boundary theory of
 $H^{p}$ functions
 - inner and outer functions
 - gamma function
-- Bohr-Mollerup theorem
-- beta function
+- [Bohr-Mollerup theorem](https://en.wikipedia.org/wiki/Bohr%E2%80%93Mollerup_theorem)
+- [beta function](https://en.wikipedia.org/wiki/Beta_function)
 - Euler product formula
-- prime number theorem
-- elliptic functions
-- modular group
-- Weierstrass $\mathcal{P}$ -function
-- modular function
+- [prime number theorem](https://en.wikipedia.org/wiki/Prime_number_theorem)
+- [elliptic functions](https://en.wikipedia.org/wiki/Elliptic_function)
+- [modular group](https://en.wikipedia.org/wiki/Modular_group)
+- [Weierstrass $\mathcal{P}$ -function](https://en.wikipedia.org/wiki/Weierstrass%27s_elliptic_functions)
+- [modular function](https://en.wikipedia.org/wiki/Modular_form)
 - fundamental domain for
 congruence subgroup
-- monodromy theorem
-- Picard's great theorem
-- solution of Dirichlet problem
-- Nevanlinna characteristic
+- [monodromy theorem](https://en.wikipedia.org/wiki/Monodromy_theorem)
+- [Picard's great theorem](https://en.wikipedia.org/wiki/Picard_theorem)
+- [solution of Dirichlet problem](https://en.wikipedia.org/wiki/Dirichlet_problem)
+- [Nevanlinna characteristic](https://en.wikipedia.org/wiki/Nevanlinna_theory)
 
 ---
 # 几何/拓扑
@@ -140,14 +140,14 @@ congruence subgroup
 - differential calculus in $\mathbb{R}^{N}$
 - smooth maps and their
 differentials
-- rank theorem
+- [rank theorem](https://en.wikipedia.org/wiki/Rank%E2%80%93nullity_theorem)
 - exterior derivative
 - exact and closed forms
 - differentiable manifolds
 - forms and vector fields
 on a manifold
 - orientation
-- Stokes's theorem
+- [Stokes's theorem](https://en.wikipedia.org/wiki/Stokes%27_theorem)
 - surfaces in $\mathbb{R}^{3}$
 - Gaussian curvature
 - the Levi-Civita connection
@@ -158,141 +158,136 @@ on a manifold
 - foliations
 - universal covering space
 - covering transformations
-- van Kampen theorem
+- [van Kampen theorem](https://en.wikipedia.org/wiki/Seifert%E2%80%93van_Kampen_theorem)
 - fundamental group of a
 surface
 - Riemann surfaces
 - Lie groups and algebras
 - 1-parameter subgroups
-- closed subgroup theorem
+- [closed subgroup theorem](https://en.wikipedia.org/wiki/Closed-subgroup_theorem)
 - matrix groups $(S O(3), S L(2, \mathbb{R}),$ etc. $)$
 - symmetric spaces
 - homotopy
 - vectors and $k$ -forms
-- inverse and implicit function
-theorems
+- [inverse and implicit function theorems](https://en.wikipedia.org/wiki/Implicit_function_theorem)
 - wedge product
-- pull-backs of vectors and forms
+- [pull-backs of vectors and forms](https://en.wikipedia.org/wiki/Pullback_(differential_geometry))
 - line integrals of 1-forms
 - the tangent bundle
 - manifolds with boundary
 - partitions of unity
-- Poincaré's lemma
+- [Poincaré's lemma](https://en.wikipedia.org/wiki/Closed_and_exact_differential_forms)
 - the Gauss map
 - intrinsic geometry of surfaces
-- Gauss-Bonnet theorem
-- completeness and the
-Hopf-Rinow theorem
+- [Gauss-Bonnet theorem](https://en.wikipedia.org/wiki/Gauss%E2%80%93Bonnet_theorem)
+- completeness and the [Hopf-Rinow theorem](https://en.wikipedia.org/wiki/Hopf%E2%80%93Rinow_theorem)
 - spaces of constant curvature
-- the flow of a vector field
-- Frobenius theorem
+- [the flow of a vector field](https://en.wikipedia.org/wiki/Vector_field)
+- [Frobenius theorem](https://en.wikipedia.org/wiki/Frobenius_theorem_(differential_topology))
 - covering spaces
-- path and homotopy lifting
-- fundamental group
-- classification of compact,
-oriented surfaces
+- [path and homotopy lifting](https://en.wikipedia.org/wiki/Homotopy_lifting_property)
+- [fundamental group](https://en.wikipedia.org/wiki/Fundamental_group)
+- classification of compact,oriented surfaces
 - cohomology on surfaces
-- de Rham cohomology
-and theorem
-- correspondence of Lie algebra
-and group
-- exponential map
-- adjoint representation
-- homogeneous spaces
-- elementary representation theory
-- separation axioms
-- cohomology
+- [de Rham cohomology and theorem](https://en.wikipedia.org/wiki/De_Rham_cohomology)
+- [correspondence of Lie algebra and group](https://en.wikipedia.org/wiki/Lie_group%E2%80%93Lie_algebra_correspondence)
+- [exponential map](https://en.wikipedia.org/wiki/Exponential_map)
+- [adjoint representation](https://en.wikipedia.org/wiki/Adjoint_representation)
+- [homogeneous spaces](https://en.wikipedia.org/wiki/Homogeneous_space)
+- [elementary representation theory](https://en.wikipedia.org/wiki/Representation_theory)
+- [separation axioms](https://en.wikipedia.org/wiki/Separation_axiom)
+- [cohomology](https://en.wikipedia.org/wiki/Cohomology)
 
 ---
 
 # 代数
 - group theory
-- solvability
-- free abelian groups
-- polynomial rings
-- localization
-- modules
-- direct products of modules
+- [solvability](https://en.wikipedia.org/wiki/Solvable_group)
+- [free abelian groups](https://en.wikipedia.org/wiki/Free_abelian_group)
+- [polynomial rings](https://en.wikipedia.org/wiki/Polynomial_ring)
+- [localization](https://en.wikipedia.org/wiki/Localization_of_a_ring_and_a_module)
+- [modules](https://en.wikipedia.org/wiki/Module_(mathematics))
+- [direct products of modules](https://en.wikipedia.org/wiki/Direct_product)
 - free modules
 - dual spaces
 - modules over principal rings
 - polynomials over a factorial ring
-- Hilbert's theorem
+- [Hilbert's theorem](https://en.wikipedia.org/wiki/Hilbert%27s_theorem)
 - symmetric polynomials
-- field extensions
-- splitting fields
-- separable extensions
-- inseparable extensions
+- [field extensions](https://en.wikipedia.org/wiki/Field_extension)
+- [splitting fields](https://en.wikipedia.org/wiki/Splitting_field)
+- [separable extensions](https://en.wikipedia.org/wiki/Separable_extension)
+- [inseparable extensions](https://en.wikipedia.org/wiki/Purely_inseparable_extension)
 - roots of unity
 - norm and trace
-- solvable and radical extensions
+- [solvable and radical extensions](https://en.wikipedia.org/wiki/Radical_extension)
 - integral ring extensions
-- Galois cohomology
+- [Galois cohomology](https://en.wikipedia.org/wiki/Galois_cohomology)
 - alg. indep. of homomorphisms
-- Sylow theorems
+- [Sylow theorems](https://en.wikipedia.org/wiki/Sylow_theorems)
 - direct sums
 - free groups
 - group rings
 - principal and factorial rings
-- homomorphisms of modules
+- [homomorphisms of modules](https://en.wikipedia.org/wiki/Module_homomorphism)
 - sums of modules
 - vector spaces
 - dual modules
 - polynomials in one variable
-- criteria for irreducibility
+- [criteria for irreducibility](https://en.wikipedia.org/wiki/Cohn%27s_irreducibility_criterion)
 - partial fractions
 - formal power series
-- algebraic closure
-- normal extensions
+- [algebraic closure](https://en.wikipedia.org/wiki/Algebraic_closure)
+- [normal extensions](https://en.wikipedia.org/wiki/Normal_extension)
 - finite fields
-- Galois extensions
+- [Galois extensions](https://en.wikipedia.org/wiki/Galois_extension)
 - linear independence of characters
-- cyclic extensions
-- abelian Kummer theory
-- integral Galois extensions
+- [cyclic extensions](https://en.wikipedia.org/wiki/Abelian_extension)
+- [abelian Kummer theory](https://en.wikipedia.org/wiki/Kummer_theory)
+- [integral Galois extensions](https://math.stackexchange.com/q/177311)
 - non-abelian Kummer extensions
 - normal basis theorem
 - infinite Galois extensions
 - extensions of homomorphisms
 - Hilbert's Nullstellensatz
 - associated primes
-- Nakayama's lemma
+- [Nakayama's lemma](https://en.wikipedia.org/wiki/Nakayama%27s_lemma)
 - ordered fields
 - real zeros and homomorphisms
 - dependence and independence
 - finite extensions
 - complex fields
 - characteristic polynomials
-- Jordan normal form
-- flat modules
-- tensor algebra of a module
-- exterior algebra
-- universal derivations
-- homological algebra
-- Grothendieck group
-- homotopies of morphisms
+- [Jordan normal form](https://en.wikipedia.org/wiki/Jordan_normal_form)
+- [flat modules](https://en.wikipedia.org/wiki/Flat_module)
+- [tensor algebra of a module](https://en.wikipedia.org/wiki/Tensor_product_of_modules)
+- [exterior algebra](https://en.wikipedia.org/wiki/Exterior_algebra)
+- [universal derivations](http://www.oswego.edu/~delancey/111_DIR/CIL.14.pdf)
+- [homological algebra](https://en.wikipedia.org/wiki/Homological_algebra)
+- [Grothendieck group](https://en.wikipedia.org/wiki/Grothendieck_group)
+- [homotopies of morphisms](https://en.wikipedia.org/wiki/Homotopy_category)
 - delta functors
-- hornology sequence
-- the modular connection
-- Noether normalization theorem
-- Noetherian rings and modules
-- primary decomposition
-- discrete valuations
-- real fields
+- [homology sequence](https://en.wikipedia.org/wiki/Sequence_homology)
+- [the modular connection](https://en.wikipedia.org/wiki/Modular_arithmetic)
+- [Noether normalization theorem](https://en.wikipedia.org/wiki/Noether_normalization_lemma)
+- [Noetherian rings and modules](https://en.wikipedia.org/wiki/Noetherian_module)
+- [primary decomposition](https://en.wikipedia.org/wiki/Primary_decomposition)
+- [discrete valuations](https://en.wikipedia.org/wiki/Discrete_valuation)
+- [real fields](https://en.wikipedia.org/wiki/Formally_real_field)
 - absolute values
 - completions
-- valuations
-- polynomials in complete fields
-- eigenvalues
-- tensor products
-- functorial isomorphisms
-- symmetric products
-- alternating products
-- the de Rham complex
-- Euler characteristic
-- injective modules
-- derived functors
-- spectral sequences
+- [valuations](https://en.wikipedia.org/wiki/Valuation_(algebra))
+- [polynomials in complete fields](https://en.wikipedia.org/wiki/Polynomial_ring)
+- [eigenvalues](http://mathworld.wolfram.com/Eigenvalue.html)
+- [tensor products](https://en.wikipedia.org/wiki/Tensor_product)
+- [functorial isomorphisms](https://ncatlab.org/nlab/show/unnatural+isomorphism)
+- [symmetric products](https://en.wikipedia.org/wiki/Symmetric_product)
+- [alternating products](https://en.wikipedia.org/wiki/Exterior_algebra)
+- [the de Rham complex](https://ncatlab.org/nlab/show/de+Rham+complex)
+- [Euler characteristic](https://en.wikipedia.org/wiki/Euler_characteristic)
+- [injective modules](https://en.wikipedia.org/wiki/Injective_module)
+- [derived functors](https://en.wikipedia.org/wiki/Derived_functor)
+- [spectral sequences](https://en.wikipedia.org/wiki/Spectral_sequence)
 
 
 
