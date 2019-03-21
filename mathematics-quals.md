@@ -51,7 +51,7 @@ title: Mathematics Quals
 # 复分析
 - [complex numbers](https://en.wikipedia.org/wiki/Complex_number)
 - [harmonic functions](https://en.wikipedia.org/wiki/Harmonic_function)
-- $\frac{\partial}{\partial z}$ and $\frac{\partial}{\partial \overline{z}}$
+- [$\frac{\partial}{\partial z}$ and $\frac{\partial}{\partial \overline{z}}$](https://math.stackexchange.com/questions/1400085/partial-derivative-of-a-complex-function)
 - [elementary functions](https://en.wikipedia.org/wiki/Elementary_function)
 $\left(e^{z}, \log z, \arg z\right)$
 - [power series](https://en.wikipedia.org/wiki/Power_series)
@@ -282,4 +282,5 @@ $\left(e^{z}, \log z, \arg z\right)$
 - [spectral sequences](https://en.wikipedia.org/wiki/Spectral_sequence)
 
 
-
+---  
+参考资料:1.Steven G. Krantz的[A Mathematician's Survival Guide: Graduate School and Early Career Development ](https://www.amazon.com/Mathematicians-Survival-Guide-Graduate-Development/dp/082183455X)
