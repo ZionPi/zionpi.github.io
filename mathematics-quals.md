@@ -51,9 +51,9 @@ title: Mathematics Quals
 # 复分析
 - complex numbers
 - harmonic functions
--  and __o
+- $\frac{\partial}{\partial z} \operatorname{and} \frac{\partial}{\partial \overline{z}}$
 - elementary functions
-(e z, log z, arg z)
+$\left(e^{z}, \log z, \arg z\right)$
 - power series
 - Liouville's theorem
 - Schwarz-Pick 1emma
@@ -65,7 +65,7 @@ title: Mathematics Quals
 - real integrals by residues
 - argument principle
 - local mapping theorem
-- Ascoli-Arz1a theorem
+- Ascoli-Arzéla theorem
 - Riemann mapping theorem
 - Schwarz-Christoffel formula
 - theta functions
@@ -85,7 +85,7 @@ singularities and zeros
 - simply connected domains
 - residue theorem
 - Poisson integral formula
-- Rouch's theorem
+- Rouché's theorem
 - normal families
 - Montel's theorem
 - Schwarz reflection principle
@@ -98,25 +98,25 @@ elliptic integrals
 - Hadamard theorem on lacunarity
 - product representation
 - Stirling's formula
-- Riemann (-function
-- functional equation for (
+- Riemann $\zeta$-function
+- functional equation for $\zeta$
 - periodic functions
 - covering spaces
 - fundamental domain of
 modular group
-- -function
+- $\sigma$ -function
 - congruence subgroup mod 2
 - analytic continuation
 - Picard's little theorem
 - subharmonic functions
 - growth and zeros of
 entire functions
-- univaent functions
+- univalent functions
 - infinite products
 - Weierstrass theorem
 - Jensen's formula
 - boundary theory of
-H p functions
+$H^{p}$ functions
 - inner and outer functions
 - gamma function
 - Bohr-Mollerup theorem
@@ -125,7 +125,7 @@ H p functions
 - prime number theorem
 - elliptic functions
 - modular group
-- Weierstrass P-function
+- Weierstrass $\mathcal{P}$ -function
 - modular function
 - fundamental domain for
 congruence subgroup
