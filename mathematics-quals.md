@@ -3,7 +3,7 @@ layout: page
 title: Mathematics Quals
 ---
 # 实分析
-- $\sigma$ -algebras
+- [$\sigma$ -algebras](https://en.wikipedia.org/wiki/Sigma-algebra)
 - abstract measure theory
 - integration
 - bounded variation
@@ -51,7 +51,7 @@ title: Mathematics Quals
 # 复分析
 - complex numbers
 - harmonic functions
-- $\frac{\partial}{\partial z} \operatorname and  \frac{\partial}{\partial \overline{z}}$
+- $\frac{\partial}{\partial z}$ and $\frac{\partial}{\partial \overline{z}}$
 - elementary functions
 $\left(e^{z}, \log z, \arg z\right)$
 - power series
