@@ -61,72 +61,67 @@ $\left(e^{z}, \log z, \arg z\right)$
 - [Casorati-Weierstrass theorem](https://en.wikipedia.org/wiki/Casorati%E2%80%93Weierstrass_theorem)
 - [Cauchy integral theorem](https://en.wikipedia.org/wiki/Cauchy%27s_integral_theorem)
 - [Runge's theorem](https://en.wikipedia.org/wiki/Runge%27s_theorem)
-- existence of primitives and logs
-- real integrals by residues
-- argument principle
+- [existence of primitives and logs](https://en.wikipedia.org/wiki/Primitive_root_modulo_n)
+- [real integrals by residues](https://en.wikipedia.org/wiki/Residue_theorem)
+- [argument principle](https://en.wikipedia.org/wiki/Argument_principle)
 - [local mapping theorem](https://en.wikipedia.org/wiki/Open_mapping_theorem_(complex_analysis))
 - [Ascoli-Arzéla theorem](https://en.wikipedia.org/wiki/Arzel%C3%A0%E2%80%93Ascoli_theorem)
 - [Riemann mapping theorem](https://en.wikipedia.org/wiki/Riemann_mapping_theorem)
 - [Schwarz-Christoffel formula](https://en.wikipedia.org/wiki/Schwarz%E2%80%93Christoffel_mapping)
-- theta functions
-- Weierstrass factorization
-- complex differentiation
-- harmonic conjugates
-- linear fractional transformations
-- elementary Riemann surfaces
-- complex integration
-- maximum modulus principle
-- mean value property
+- [theta functions](https://en.wikipedia.org/wiki/Theta_function)
+- [Weierstrass factorization](https://en.wikipedia.org/wiki/Weierstrass_factorization_theorem)
+- [complex differentiation](https://en.wikipedia.org/wiki/Holomorphic_function)
+- [harmonic conjugates](https://en.wikipedia.org/wiki/Harmonic_conjugate)
+- [linear fractional transformations](https://en.wikipedia.org/wiki/Linear_fractional_transformation)
+- [elementary Riemann surfaces](https://en.wikipedia.org/wiki/Riemann_surface)
+- [complex integration](https://en.wikipedia.org/wiki/Contour_integration)
+- [maximum modulus principle](https://en.wikipedia.org/wiki/Maximum_modulus_principle)
+- [mean value property](http://mathworld.wolfram.com/Mean-ValueProperty.html)
 (and converse)
-- classification of
-singularities and zeros
-- residues
-- Cauchy integral formula
-- simply connected domains
+- [classification of singularities and zeros](http://mathfaculty.fullerton.edu/MATHEWS/C2003/SingularityZeroPoleMod.html)
+- [residues](https://en.wikipedia.org/wiki/Residue_(complex_analysis))
+- [Cauchy integral formula](https://en.wikipedia.org/wiki/Cauchy%27s_integral_formula)
+- [simply connected domains](https://mathinsight.org/definition/simply_connected)
 - [residue theorem](https://en.wikipedia.org/wiki/Residue_theorem)
 - [Poisson integral formula](https://en.wikipedia.org/wiki/Poisson_kernel)
 - [Rouché's theorem](https://en.wikipedia.org/wiki/Rouch%C3%A9%27s_theorem)
-- normal families
+- [normal families](https://en.wikipedia.org/wiki/Normal_family)
 - [Montel's theorem](https://en.wikipedia.org/wiki/Montel%27s_theorem)
 - [Schwarz reflection principle](https://en.wikipedia.org/wiki/Schwarz_reflection_principle)
-- mappings of rectangles,elliptic integrals
+- mappings of rectangles,[elliptic integrals](https://en.wikipedia.org/wiki/Elliptic_integral)
 - [Mittag-Leffier theorem](https://en.wikipedia.org/wiki/Mittag-Leffler%27s_theorem)
 - [Blaschke products](https://en.wikipedia.org/wiki/Blaschke_product)
-- factoring by Blaschke products
+- [factoring by Blaschke products](https://www.encyclopediaofmath.org/index.php/Blaschke_product)
 - [Hadamard theorem on lacunarity](https://en.wikipedia.org/wiki/Cauchy%E2%80%93Hadamard_theorem)
-- product representation
-- Stirling's formula
-- Riemann $\zeta$-function
-- functional equation for $\zeta$
-- periodic functions
-- covering spaces
-- fundamental domain of
-modular group
-- $\sigma$ -function
-- congruence subgroup mod 2
-- analytic continuation
+- [product representation](https://en.wikipedia.org/wiki/Tensor_product_of_representations)
+- [Stirling's formula](https://en.wikipedia.org/wiki/Stirling%27s_approximation)
+- [Riemann $\zeta$-function](https://en.wikipedia.org/wiki/Riemann_zeta_function)
+- [functional equation for $\zeta$](https://en.wikipedia.org/wiki/Riemann_zeta_function)
+- [periodic functions](https://en.wikipedia.org/wiki/Periodic_function)
+- [covering spaces](https://en.wikipedia.org/wiki/Covering_space)
+- [fundamental domain of modular group](https://en.wikipedia.org/wiki/Fundamental_domain)
+- [$\sigma$ -function](https://en.wikipedia.org/wiki/Sigma_function)
+- [congruence subgroup mod 2](https://en.wikipedia.org/wiki/Congruence_subgroup)
+- [analytic continuation](https://en.wikipedia.org/wiki/Analytic_continuation)
 - [Picard's little theorem](https://en.wikipedia.org/wiki/Picard_theorem)
-- subharmonic functions
-- growth and zeros of
-entire functions
-- univalent functions
-- infinite products
+- [subharmonic functions](https://en.wikipedia.org/wiki/Subharmonic_function)
+- growth and zeros of [entire functions](https://en.wikipedia.org/wiki/Entire_function)
+- [univalent functions](https://en.wikipedia.org/wiki/Univalent_function)
+- [infinite products](https://en.wikipedia.org/wiki/Infinite_product)
 - [Weierstrass theorem](https://en.wikipedia.org/wiki/Weierstrass_theorem)
 - [Jensen's formula](https://en.wikipedia.org/wiki/Jensen%27s_formula)
-- boundary theory of
-$H^{p}$ functions
-- inner and outer functions
-- gamma function
+- [boundary theory of $H^{p}$ functions](https://books.google.com/books/about/Theory_of_Hp_Spaces.html?id=fs4rPPcJ7HUC)
+- [inner and outer functions](http://mathsfirst.massey.ac.nz/Calculus/ChainRule/InnerOuter.html)
+- [gamma function](https://en.wikipedia.org/wiki/Gamma_function)
 - [Bohr-Mollerup theorem](https://en.wikipedia.org/wiki/Bohr%E2%80%93Mollerup_theorem)
 - [beta function](https://en.wikipedia.org/wiki/Beta_function)
-- Euler product formula
+- [Euler product formula](https://en.wikipedia.org/wiki/Euler_product)
 - [prime number theorem](https://en.wikipedia.org/wiki/Prime_number_theorem)
 - [elliptic functions](https://en.wikipedia.org/wiki/Elliptic_function)
 - [modular group](https://en.wikipedia.org/wiki/Modular_group)
 - [Weierstrass $\mathcal{P}$ -function](https://en.wikipedia.org/wiki/Weierstrass%27s_elliptic_functions)
 - [modular function](https://en.wikipedia.org/wiki/Modular_form)
-- fundamental domain for
-congruence subgroup
+- [fundamental domain](https://en.wikipedia.org/wiki/Fundamental_domain) for [congruence subgroup](https://en.wikipedia.org/wiki/Congruence_subgroup)
 - [monodromy theorem](https://en.wikipedia.org/wiki/Monodromy_theorem)
 - [Picard's great theorem](https://en.wikipedia.org/wiki/Picard_theorem)
 - [solution of Dirichlet problem](https://en.wikipedia.org/wiki/Dirichlet_problem)
@@ -134,61 +129,58 @@ congruence subgroup
 
 ---
 # 几何/拓扑
-- open, closed sets
-- homeomorphisms
-- homology
-- differential calculus in $\mathbb{R}^{N}$
-- smooth maps and their
-differentials
+- [open, closed sets](https://en.wikipedia.org/wiki/Open_set)
+- [homeomorphisms](https://en.wikipedia.org/wiki/Homeomorphism)
+- [homology](https://en.wikipedia.org/wiki/Homology_(mathematics))
+- [differential calculus in $\mathbb{R}^{N}$](http://mathstat.slu.edu/~clair/dg/hebda-differential-calculus-in-Rn.pdf)
+- [smooth maps](https://en.wikipedia.org/wiki/Smoothness) and [their differentials](https://en.wikipedia.org/wiki/Pushforward_(differential))
 - [rank theorem](https://en.wikipedia.org/wiki/Rank%E2%80%93nullity_theorem)
-- exterior derivative
-- exact and closed forms
-- differentiable manifolds
-- forms and vector fields
-on a manifold
-- orientation
+- [exterior derivative](https://en.wikipedia.org/wiki/Exterior_derivative)
+- [exact and closed forms](https://math.stackexchange.com/questions/433012/exact-and-closed-forms-on-manifolds-with-boundary)
+- [differentiable manifolds](http://web.math.ku.dk/~jakobsen/geom2/manusgeom2.pdf)
+- [forms and vector fields on a manifold](http://math.arizona.edu/~faris/methodsweb/manifold.pdf)
+- [orientation](https://en.wikipedia.org/wiki/Orientation_(vector_space))
 - [Stokes's theorem](https://en.wikipedia.org/wiki/Stokes%27_theorem)
-- surfaces in $\mathbb{R}^{3}$
-- Gaussian curvature
-- the Levi-Civita connection
-- geodesics and curvature
-- geodesic convexity
-- symmetric spaces
-- the Lie derivative
-- foliations
-- universal covering space
-- covering transformations
+- [surfaces in $\mathbb{R}^{3}$](http://tutorial.math.lamar.edu/Classes/CalcIII/QuadricSurfaces.aspx)
+- [Gaussian curvature](https://en.wikipedia.org/wiki/Gaussian_curvature)
+- [the Levi-Civita connection](https://en.wikipedia.org/wiki/Levi-Civita_connection)
+- [geodesics and curvature](https://en.wikipedia.org/wiki/Geodesic_curvature)
+- [geodesic convexity](https://en.wikipedia.org/wiki/Geodesic_convexity)
+- [symmetric spaces](https://en.wikipedia.org/wiki/Symmetric_space)
+- the [Lie derivative](https://en.wikipedia.org/wiki/Lie_derivative)
+- [foliations](https://en.wikipedia.org/wiki/Foliation)
+- [universal covering space](https://en.wikipedia.org/wiki/Covering_space)
+- [covering transformations](http://mathonline.wikidot.com/covering-transformations)
 - [van Kampen theorem](https://en.wikipedia.org/wiki/Seifert%E2%80%93van_Kampen_theorem)
-- fundamental group of a
-surface
-- Riemann surfaces
-- Lie groups and algebras
-- 1-parameter subgroups
+- [fundamental group of a surface](https://en.wikipedia.org/wiki/Fundamental_group)
+- [Riemann surfaces](https://en.wikipedia.org/wiki/Riemann_surface)
+- [Lie groups](https://en.wikipedia.org/wiki/Lie_group) and [algebras](https://en.wikipedia.org/wiki/Lie_algebra)
+- [1-parameter subgroups](https://en.wikipedia.org/wiki/One-parameter_group)
 - [closed subgroup theorem](https://en.wikipedia.org/wiki/Closed-subgroup_theorem)
-- matrix groups $(S O(3), S L(2, \mathbb{R}),$ etc. $)$
-- symmetric spaces
-- homotopy
-- vectors and $k$ -forms
+- [matrix groups $(S O(3), S L(2, \mathbb{R}),$ etc. $)$](http://mathworld.wolfram.com/MatrixGroup.html)
+- [symmetric spaces](https://en.wikipedia.org/wiki/Symmetric_space)
+- [homotopy](https://en.wikipedia.org/wiki/Homotopy)
+- [vectors and $k$ -forms](https://en.wikipedia.org/wiki/Differential_form)
 - [inverse and implicit function theorems](https://en.wikipedia.org/wiki/Implicit_function_theorem)
-- wedge product
+- [wedge product](https://www.quora.com/What-is-a-brief-explanation-of-the-wedge-product)
 - [pull-backs of vectors and forms](https://en.wikipedia.org/wiki/Pullback_(differential_geometry))
-- line integrals of 1-forms
-- the tangent bundle
-- manifolds with boundary
-- partitions of unity
+- [line integrals of 1-forms](http://www.math.pitt.edu/~sph/1540/1540-notes8-differentialforms.pdf)
+- [the tangent bundle](https://en.wikipedia.org/wiki/Tangent_bundle)
+- [manifolds with boundary](https://en.wikipedia.org/wiki/Manifold#Manifold_with_boundary)
+- [partitions of unity](https://en.wikipedia.org/wiki/Partition_of_unity)
 - [Poincaré's lemma](https://en.wikipedia.org/wiki/Closed_and_exact_differential_forms)
-- the Gauss map
-- intrinsic geometry of surfaces
+- the [Gauss map](https://en.wikipedia.org/wiki/Gauss_map)
+- [intrinsic geometry of surfaces](https://en.wikipedia.org/wiki/Differential_geometry_of_surfaces)
 - [Gauss-Bonnet theorem](https://en.wikipedia.org/wiki/Gauss%E2%80%93Bonnet_theorem)
-- completeness and the [Hopf-Rinow theorem](https://en.wikipedia.org/wiki/Hopf%E2%80%93Rinow_theorem)
-- spaces of constant curvature
+- [completeness](https://en.wikipedia.org/wiki/Riemannian_manifold) and the [Hopf-Rinow theorem](https://en.wikipedia.org/wiki/Hopf%E2%80%93Rinow_theorem)
+- [spaces of constant curvature](https://en.wikipedia.org/wiki/Constant_curvature)
 - [the flow of a vector field](https://en.wikipedia.org/wiki/Vector_field)
 - [Frobenius theorem](https://en.wikipedia.org/wiki/Frobenius_theorem_(differential_topology))
-- covering spaces
+- [covering spaces](https://en.wikipedia.org/wiki/Covering_space)
 - [path and homotopy lifting](https://en.wikipedia.org/wiki/Homotopy_lifting_property)
 - [fundamental group](https://en.wikipedia.org/wiki/Fundamental_group)
-- classification of compact,oriented surfaces
-- cohomology on surfaces
+- [classification of compact,oriented surfaces](http://www.cis.upenn.edu/~jean/surfclass-n.pdf)
+- [cohomology on surfaces](https://mathoverflow.net/questions/2479/de-rham-cohomology-of-surfaces)
 - [de Rham cohomology and theorem](https://en.wikipedia.org/wiki/De_Rham_cohomology)
 - [correspondence of Lie algebra and group](https://en.wikipedia.org/wiki/Lie_group%E2%80%93Lie_algebra_correspondence)
 - [exponential map](https://en.wikipedia.org/wiki/Exponential_map)
@@ -201,7 +193,7 @@ surface
 ---
 
 # 代数
-- group theory
+- [group theory](https://en.wikipedia.org/wiki/Group_theory)
 - [solvability](https://en.wikipedia.org/wiki/Solvable_group)
 - [free abelian groups](https://en.wikipedia.org/wiki/Free_abelian_group)
 - [polynomial rings](https://en.wikipedia.org/wiki/Polynomial_ring)
