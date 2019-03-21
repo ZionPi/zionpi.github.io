@@ -200,56 +200,56 @@ $\left(e^{z}, \log z, \arg z\right)$
 - [localization](https://en.wikipedia.org/wiki/Localization_of_a_ring_and_a_module)
 - [modules](https://en.wikipedia.org/wiki/Module_(mathematics))
 - [direct products of modules](https://en.wikipedia.org/wiki/Direct_product)
-- free modules
-- dual spaces
-- modules over principal rings
-- polynomials over a factorial ring
+- [free modules](https://en.wikipedia.org/wiki/Free_module)
+- [dual spaces](https://en.wikipedia.org/wiki/Dual_space)
+- [modules over principal rings](https://en.wikipedia.org/wiki/Structure_theorem_for_finitely_generated_modules_over_a_principal_ideal_domain)
+- [polynomials over a factorial ring](https://www.encyclopediaofmath.org/index.php/Factorial_ring)
 - [Hilbert's theorem](https://en.wikipedia.org/wiki/Hilbert%27s_theorem)
-- symmetric polynomials
+- [symmetric polynomials](https://en.wikipedia.org/wiki/Symmetric_polynomial)
 - [field extensions](https://en.wikipedia.org/wiki/Field_extension)
 - [splitting fields](https://en.wikipedia.org/wiki/Splitting_field)
 - [separable extensions](https://en.wikipedia.org/wiki/Separable_extension)
 - [inseparable extensions](https://en.wikipedia.org/wiki/Purely_inseparable_extension)
-- roots of unity
-- norm and trace
+- [roots of unity](https://en.wikipedia.org/wiki/Root_of_unity)
+- [norm and trace](https://en.wikipedia.org/wiki/Matrix_norm)
 - [solvable and radical extensions](https://en.wikipedia.org/wiki/Radical_extension)
-- integral ring extensions
+- [integral ring extensions](https://stacks.math.columbia.edu/tag/00GH)
 - [Galois cohomology](https://en.wikipedia.org/wiki/Galois_cohomology)
-- alg. indep. of homomorphisms
+- [alg. indep. of homomorphisms](https://math.stackexchange.com/questions/513234/linear-independent-vector-spaces-with-homomorphism)
 - [Sylow theorems](https://en.wikipedia.org/wiki/Sylow_theorems)
-- direct sums
-- free groups
-- group rings
-- principal and factorial rings
+- [direct sums](https://en.wikipedia.org/wiki/Direct_sum)
+- [free groups](https://en.wikipedia.org/wiki/Free_group)
+- [group rings](https://en.wikipedia.org/wiki/Group_ring)
+- [principal  and factorial rings](https://www.encyclopediaofmath.org/index.php/Factorial_ring)
 - [homomorphisms of modules](https://en.wikipedia.org/wiki/Module_homomorphism)
-- sums of modules
-- vector spaces
-- dual modules
-- polynomials in one variable
+- [sums of modules](https://en.wikipedia.org/wiki/Direct_sum_of_modules)
+- [vector spaces](https://en.wikipedia.org/wiki/Vector_space)
+- [dual modules](https://en.wikipedia.org/wiki/Dual_module)
+- [polynomials in one variable](http://tutorial.math.lamar.edu/Classes/Alg/Polynomials.aspx)
 - [criteria for irreducibility](https://en.wikipedia.org/wiki/Cohn%27s_irreducibility_criterion)
-- partial fractions
-- formal power series
+- [partial fractions](https://en.wikipedia.org/wiki/Partial_fraction_decomposition)
+- [formal power series](https://en.wikipedia.org/wiki/Formal_power_series)
 - [algebraic closure](https://en.wikipedia.org/wiki/Algebraic_closure)
 - [normal extensions](https://en.wikipedia.org/wiki/Normal_extension)
-- finite fields
+- [finite fields](https://en.wikipedia.org/wiki/Finite_field)
 - [Galois extensions](https://en.wikipedia.org/wiki/Galois_extension)
-- linear independence of characters
+- [linear independence of characters](http://www.math.uconn.edu/~kconrad/blurbs/galoistheory/linearchar.pdf)
 - [cyclic extensions](https://en.wikipedia.org/wiki/Abelian_extension)
 - [abelian Kummer theory](https://en.wikipedia.org/wiki/Kummer_theory)
 - [integral Galois extensions](https://math.stackexchange.com/q/177311)
-- non-abelian Kummer extensions
-- normal basis theorem
-- infinite Galois extensions
-- extensions of homomorphisms
-- Hilbert's Nullstellensatz
-- associated primes
+- [non-abelian Kummer extensions](https://en.wikipedia.org/wiki/Kummer_theory)
+- [normal basis theorem](https://en.wikipedia.org/wiki/Normal_basis)
+- [infinite Galois extensions](http://www.sas.rochester.edu/mth/undergraduate/honorspaperspdfs/liuhonorsthesis16.pdf)
+- [extensions of homomorphisms](https://math.stackexchange.com/questions/251073/extension-of-a-group-homomorphism)
+- [Hilbert's Nullstellensatz](https://en.wikipedia.org/wiki/Hilbert%27s_Nullstellensatz)
+- [associated primes](https://en.wikipedia.org/wiki/Associated_prime)
 - [Nakayama's lemma](https://en.wikipedia.org/wiki/Nakayama%27s_lemma)
-- ordered fields
-- real zeros and homomorphisms
-- dependence and independence
-- finite extensions
-- complex fields
-- characteristic polynomials
+- [ordered fields](https://en.wikipedia.org/wiki/Ordered_field)
+- [real zeros](http://www.coolmath.com/algebra/22-graphing-polynomials/05-real-zeros-01) and [homomorphisms](https://en.wikipedia.org/wiki/Homomorphism)
+- [dependence and independence](https://en.wikipedia.org/wiki/Linear_independence)
+- [finite extensions](https://en.wikipedia.org/wiki/Field_extension)
+- complex [fields](https://en.wikipedia.org/wiki/Field_(mathematics))
+- [characteristic polynomials](https://en.wikipedia.org/wiki/Characteristic_polynomial)
 - [Jordan normal form](https://en.wikipedia.org/wiki/Jordan_normal_form)
 - [flat modules](https://en.wikipedia.org/wiki/Flat_module)
 - [tensor algebra of a module](https://en.wikipedia.org/wiki/Tensor_product_of_modules)
@@ -258,7 +258,7 @@ $\left(e^{z}, \log z, \arg z\right)$
 - [homological algebra](https://en.wikipedia.org/wiki/Homological_algebra)
 - [Grothendieck group](https://en.wikipedia.org/wiki/Grothendieck_group)
 - [homotopies of morphisms](https://en.wikipedia.org/wiki/Homotopy_category)
-- delta functors
+- [delta functors](https://en.wikipedia.org/wiki/Delta-functor)
 - [homology sequence](https://en.wikipedia.org/wiki/Sequence_homology)
 - [the modular connection](https://en.wikipedia.org/wiki/Modular_arithmetic)
 - [Noether normalization theorem](https://en.wikipedia.org/wiki/Noether_normalization_lemma)
@@ -266,8 +266,8 @@ $\left(e^{z}, \log z, \arg z\right)$
 - [primary decomposition](https://en.wikipedia.org/wiki/Primary_decomposition)
 - [discrete valuations](https://en.wikipedia.org/wiki/Discrete_valuation)
 - [real fields](https://en.wikipedia.org/wiki/Formally_real_field)
-- absolute values
-- completions
+- [absolute values](https://en.wikipedia.org/wiki/Absolute_value)
+- [completions](https://en.wikipedia.org/wiki/Completion_(algebra))
 - [valuations](https://en.wikipedia.org/wiki/Valuation_(algebra))
 - [polynomials in complete fields](https://en.wikipedia.org/wiki/Polynomial_ring)
 - [eigenvalues](http://mathworld.wolfram.com/Eigenvalue.html)
