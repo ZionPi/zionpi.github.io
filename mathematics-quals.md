@@ -3,28 +3,28 @@ layout: page
 title: Mathematics Quals
 ---
 # 实分析
-- a-algebras
+- $\sigma$ -algebras
 - abstract measure theory
 - integration
 - bounded variation
 * absolute continuity
 - complex measures
-- Radon-Nikod:�m theorem
+- Radon-Nikodym theorem
 - Baire category theorem
 - dual spaces
 - Hahn-Banach theorem
 - Hilbert space
 - orthogonality, projections
-- L p spaces
+- $L^{p}$ spaces
 - distribution functions
-- interpolation of L p spaces
-- the dual of Co(X)
-- Fom%r series
+- interpolation of $L^{p}$ spaces
+- the dual of $C_{0}(X)$
+- Fourier series
 - the Fourier transform
 - Plancherel's theorem
 - Fourier analysis on lca groups
 - Sobolev spaces
-- Lebesgue measure theory on IR N
+- Lebesgue measure theory on $\mathbb{R}^{N}$
 - measurable functions
 - product measures, Fubini's theorem
 - monotonic functions
@@ -37,12 +37,12 @@ title: Mathematics Quals
 - open mapping principle
 - Riesz representation theorem
 - spectral theory
-- duality of L p spaces
-- weak Lp
-- positive functionals on Cc(X)
+- duality of $L^{p}$ spaces
+- weak $L^{p}$
+- positive functionals on $C_{c}(X)$
 - the Haar integral
 - suminability methods
-- L 2 theory in Fourier analysis
+- $L^{2}$ theory in Fourier analysis
 - Fourier inversion
 - distributions
 
