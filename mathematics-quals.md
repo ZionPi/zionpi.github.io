@@ -89,9 +89,7 @@ singularities and zeros
 - normal families
 - Montel's theorem
 - Schwarz reflection principle
-- mappings of rectangles,
-elliptic integrals
-
+- mappings of rectangles,elliptic integrals
 - Mittag-Leffier theorem
 - Blaschke products
 - factoring by Blaschke products
