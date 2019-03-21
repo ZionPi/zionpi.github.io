@@ -264,7 +264,7 @@ and group
 - complex fields
 - characteristic polynomials
 - Jordan normal form
-- fiat modules
+- flat modules
 - tensor algebra of a module
 - exterior algebra
 - universal derivations
