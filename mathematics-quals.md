@@ -4,60 +4,60 @@ title: Mathematics Quals
 ---
 # 实分析
 - [$\sigma$ -algebras](https://en.wikipedia.org/wiki/Sigma-algebra)
-- abstract measure theory
-- integration
-- bounded variation
-- absolute continuity
-- complex measures
+- [abstract measure theory](https://en.wikipedia.org/wiki/Measure_(mathematics))
+- [integration](https://en.wikibooks.org/wiki/Real_Analysis/Riemann_integration)
+- [bounded variation](https://en.wikipedia.org/wiki/Bounded_variation)
+- [absolute continuity](https://en.wikipedia.org/wiki/Absolute_continuity)
+- [complex measures](https://en.wikipedia.org/wiki/Complex_measure)
 - [Radon-Nikodym theorem](https://en.wikipedia.org/wiki/Radon%E2%80%93Nikodym_theorem)
 - [Baire category theorem](https://en.wikipedia.org/wiki/Baire_category_theorem)
-- dual spaces
+- [dual spaces](https://en.wikipedia.org/wiki/Dual_space)
 - [Hahn-Banach theorem](https://en.wikipedia.org/wiki/Hahn%E2%80%93Banach_theorem)
-- Hilbert space
-- orthogonality, projections
-- $L^{p}$ spaces
-- distribution functions
-- interpolation of $L^{p}$ spaces
-- the dual of $C_{0}(X)$
-- Fourier series
-- the Fourier transform
+- [Hilbert space](https://en.wikipedia.org/wiki/Hilbert_space)
+- [orthogonality, projections](https://en.wikipedia.org/wiki/Projection_(linear_algebra))
+- [$L^{p}$ spaces](https://en.wikipedia.org/wiki/Lp_space)
+- [distribution functions](https://en.wikipedia.org/wiki/Cumulative_distribution_function)
+- [interpolation of $L^{p}$ spaces](https://terrytao.wordpress.com/2009/03/30/245c-notes-1-interpolation-of-lp-spaces/)
+- [the dual of $C_{0}(X)$](https://math.stackexchange.com/questions/678911/the-dual-space-of-c-is-ell1)
+- [Fourier series](https://en.wikipedia.org/wiki/Fourier_series)
+- [the](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/) [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform)
 - [Plancherel's theorem](https://en.wikipedia.org/wiki/Plancherel_theorem)
-- Fourier analysis on lca groups
-- Sobolev spaces
-- Lebesgue measure theory on $\mathbb{R}^{N}$
-- measurable functions
-- product measures, Fubini's theorem
-- monotonic functions
-- signed measures
-- differentiation of measures
+- [Fourier analysis on lca groups](https://www.johndcook.com/blog/2017/08/27/defining-the-fourier-transform-on-lca-groups/)
+- [Sobolev spaces](https://en.wikipedia.org/wiki/Sobolev_space)
+- [Lebesgue measure theory on $\mathbb{R}^{N}$](https://en.wikipedia.org/wiki/Lebesgue_measure)
+- [measurable functions](https://en.wikipedia.org/wiki/Measurable_function)
+- [product measures](https://en.wikipedia.org/wiki/Product_measure), [Fubini's theorem](https://en.wikipedia.org/wiki/Fubini%27s_theorem)
+- [monotonic functions](https://en.wikipedia.org/wiki/Monotonic_function)
+- [signed measures](https://en.wikipedia.org/wiki/Signed_measure)
+- [differentiation of measures](https://en.wikipedia.org/wiki/Differentiation_of_measures)
 - [Lebesgue's theorems](https://en.wikipedia.org/wiki/Lebesgue_differentiation_theorem)
 - [Fatou's lemma](https://en.wikipedia.org/wiki/Fatou%27s_lemma)
-- Banach spaces
-- uniform boundedhess principle
-- open mapping principle
+- [Banach spaces](https://en.wikipedia.org/wiki/Banach_space)
+- [uniform boundedness principle](https://en.wikipedia.org/wiki/Uniform_boundedness_principle)
+- [open mapping principle](https://en.wikipedia.org/wiki/Open_mapping_theorem)
 - [Riesz representation theorem](https://en.wikipedia.org/wiki/Riesz_representation_theorem)
 - [spectral theory](https://en.wikipedia.org/wiki/Spectral_theory)
-- duality of $L^{p}$ spaces
-- weak $L^{p}$
-- positive functionals on $C_{c}(X)$
+- [duality of $L^{p}$ spaces](https://en.wikipedia.org/wiki/Lp_space)
+- [weak $L^{p}$](https://en.wikipedia.org/wiki/Lp_space)
+- [positive functionals on $C_{c}(X)$](https://math.stackexchange.com/questions/971777/positive-linear-functional-on-c0-1)
 - [the Haar integral](https://en.wikipedia.org/wiki/Haar_measure)
-- summability methods
-- $L^{2}$ theory in Fourier analysis
-- Fourier inversion
-- distributions
+- [summability methods](https://en.wikipedia.org/wiki/Category:Summability_methods)
+- [$L^{2}$ theory in Fourier analysis](http://math.arizona.edu/~faris/methodsweb/ftrans.pdf)
+- [Fourier inversion](https://en.wikipedia.org/wiki/Fourier_inversion_theorem)
+- [distributions](https://en.wikipedia.org/wiki/Distribution_(mathematics))
 
 ---  
 
 # 复分析
-- complex numbers
-- harmonic functions
+- [complex numbers](https://en.wikipedia.org/wiki/Complex_number)
+- [harmonic functions](https://en.wikipedia.org/wiki/Harmonic_function)
 - $\frac{\partial}{\partial z}$ and $\frac{\partial}{\partial \overline{z}}$
-- elementary functions
+- [elementary functions](https://en.wikipedia.org/wiki/Elementary_function)
 $\left(e^{z}, \log z, \arg z\right)$
-- power series
+- [power series](https://en.wikipedia.org/wiki/Power_series)
 - [Liouville's theorem](https://en.wikipedia.org/wiki/Liouville%27s_theorem_(complex_analysis))
 - [Schwarz-Pick lemma](https://en.wikipedia.org/wiki/Schwarz_lemma)
-- Laurent series
+- [Laurent series](https://en.wikipedia.org/wiki/Laurent_series)
 - [Casorati-Weierstrass theorem](https://en.wikipedia.org/wiki/Casorati%E2%80%93Weierstrass_theorem)
 - [Cauchy integral theorem](https://en.wikipedia.org/wiki/Cauchy%27s_integral_theorem)
 - [Runge's theorem](https://en.wikipedia.org/wiki/Runge%27s_theorem)
