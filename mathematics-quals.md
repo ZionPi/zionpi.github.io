@@ -7,7 +7,7 @@ title: Mathematics Quals
 - abstract measure theory
 - integration
 - bounded variation
-* absolute continuity
+- absolute continuity
 - complex measures
 - Radon-Nikodym theorem
 - Baire category theorem
@@ -41,7 +41,7 @@ title: Mathematics Quals
 - weak $L^{p}$
 - positive functionals on $C_{c}(X)$
 - the Haar integral
-- suminability methods
+- summability methods
 - $L^{2}$ theory in Fourier analysis
 - Fourier inversion
 - distributions
@@ -51,12 +51,12 @@ title: Mathematics Quals
 # 复分析
 - complex numbers
 - harmonic functions
-- $\frac{\partial}{\partial z} \operatorname{and} \frac{\partial}{\partial \overline{z}}$
+- $\frac{\partial}{\partial z} \operatorname and  \frac{\partial}{\partial \overline{z}}$
 - elementary functions
 $\left(e^{z}, \log z, \arg z\right)$
 - power series
 - Liouville's theorem
-- Schwarz-Pick 1emma
+- Schwarz-Pick lemma
 - Laurent series
 - Casorati-Weierstrass theorem
 - Cauchy integral theorem
