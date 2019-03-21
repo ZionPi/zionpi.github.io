@@ -139,7 +139,7 @@ congruence subgroup
 - open, closed sets
 - homeomorphisms
 - homology
-- differential calculus in 11 N
+- differential calculus in $\mathbb{R}^{N}$
 - smooth maps and their
 differentials
 - rank theorem
@@ -150,7 +150,7 @@ differentials
 on a manifold
 - orientation
 - Stokes's theorem
-- surfaces in R s
+- surfaces in $\mathbb{R}^{3}$
 - Gaussian curvature
 - the Levi-Civita connection
 - geodesics and curvature
@@ -167,10 +167,10 @@ surface
 - Lie groups and algebras
 - 1-parameter subgroups
 - closed subgroup theorem
-- matrix groups (SO(3), SL(2,11{), etc.)
+- matrix groups $(S O(3), S L(2, \mathbb{R}),$ etc. $)$
 - symmetric spaces
 - homotopy
-- vectors and k-forms
+- vectors and $k$ -forms
 - inverse and implicit function
 theorems
 - wedge product
@@ -179,7 +179,7 @@ theorems
 - the tangent bundle
 - manifolds with boundary
 - partitions of unity
-- Poincar6's lemma
+- Poincaré's lemma
 - the Gauss map
 - intrinsic geometry of surfaces
 - Gauss-Bonnet theorem
