@@ -283,4 +283,5 @@ $\left(e^{z}, \log z, \arg z\right)$
 
 
 ---  
-参考资料:1.Steven G. Krantz的[A Mathematician's Survival Guide: Graduate School and Early Career Development ](https://www.amazon.com/Mathematicians-Survival-Guide-Graduate-Development/dp/082183455X)
+参考资料:  
+- Steven G. Krantz的[A Mathematician's Survival Guide: Graduate School and Early Career Development ](https://www.amazon.com/Mathematicians-Survival-Guide-Graduate-Development/dp/082183455X)
