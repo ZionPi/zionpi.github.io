@@ -55,6 +55,7 @@ title: NLP相关任务算法与模型
 - MaxEnt
 - CRF
 - pLSA
-- word2vec
+- [word2vec](https://en.wikipedia.org/wiki/Word2vec)  
+  这个是比较浅的神经网络模型
 - CNN
 - DNN
