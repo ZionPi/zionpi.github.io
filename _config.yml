@@ -49,6 +49,7 @@ navbar-links:
     - 应用: "https://fivebooks.com/best-books/nicholas-higham-applied-mathematics/"
     - Quals: "mathematics-quals"
   AI:
+    - AIWiki: "https://skymind.ai/wiki/"
     - AIPlaybook: "https://aiplaybook.a16z.com"
     - SOTA-CODE: "https://paperswithcode.com/state-of-the-art"
     - SOTA: "https://www.stateoftheart.ai/"
