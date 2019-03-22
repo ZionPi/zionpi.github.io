@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NLP相关任务与模型
+title: NLP相关任务算法与模型
 ---
 [怎么解决NLP中90%的问题](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)?  
 这篇文章很有趣，文中为我们描述了一个典型的NLP任务场景，简单描述如下:
@@ -48,3 +48,13 @@ title: NLP相关任务与模型
 ---
 ## 神经网路
 有一个我们无法忽视的模型，神经网络模型，相关的资料非常之多，进来也涌现了不少高水准之作，在看过[这篇](https://victorzhou.com/blog/intro-to-neural-networks/)关于神经网络介绍的文章之后，你很难不理解它背后的工作逻辑。还有，此篇文章还推荐一个在网页编程的工作环境[Repl.it](https://repl.it/languages)
+
+
+---
+## 基础算法
+- MaxEnt
+- CRF
+- pLSA
+- word2vec
+- CNN
+- DNN
