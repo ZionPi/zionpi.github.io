@@ -52,11 +52,11 @@ title: NLP相关任务算法与模型
 
 ---
 ## 基础算法
-- MaxEnt
+- [MaxEnt](https://nadesnotes.wordpress.com/2016/09/05/natural-language-processing-nlp-fundamentals-maximum-entropy-maxent/)
 - [CRF](https://en.wikipedia.org/wiki/Conditional_random_field)
 - [pLSA](https://en.wikipedia.org/wiki/Probabilistic_latent_semantic_analysis)
 - [word2vec](https://en.wikipedia.org/wiki/Word2vec)  
   这个是比较浅的神经网络模型，更多[A Beginner's Guide to Word2Vec and Neural Word Embeddings](https://skymind.ai/wiki/word2vec)
 - CNN
-- DNN
+- [DNN](https://towardsdatascience.com/understanding-neural-networks-from-neuron-to-rnn-cnn-and-deep-learning-cd88e90e0a90)
 - [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
