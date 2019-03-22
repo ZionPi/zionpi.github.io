@@ -12,3 +12,7 @@ NoSQL  MQ Cache 中间件
 多线程，高性能，并发应用
 ```
 
+
+---
+参考资料：  
+- [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
