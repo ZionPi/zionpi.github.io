@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NLP工具介绍
+title: NLP相关框架、库及工具介绍
 ---
 - [Stanford's Core NLP Suite](https://stanfordnlp.github.io/CoreNLP/)  
   处理多语种的自然语言处理框架
@@ -29,6 +29,18 @@ title: NLP工具介绍
  - [Deeplearning4J](https://deeplearning4j.org/) 
  
  
+ ## 框架
+- Tensorflow 
+- Keras 
+- DL4J
+- XGBOOST
+- Theano
+- Torch
+- Caffe
+- MXNet
+
+
+
  ---
  参考文献
  1. [5 open source tools for taming text](https://opensource.com/business/15/7/five-open-source-nlp-tools)
