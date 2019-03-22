@@ -105,3 +105,7 @@ than any strictly utilitarian course would have permitted.
 
 {% include image.html url="https://i.stack.imgur.com/eZdhj.png" description="常见数学字体" %}
 
+Theory of everything(so far):  
+`$Z=\int \mathcal{D}($ Fields $) \exp \left(i \int d^{4} x \sqrt{-g}\left(R-F_{\mu \nu} F^{\mu \nu}-G_{\mu \nu} G^{\mu \nu}-W_{\mu \nu} W^{\mu \nu}\right.\right.$
+$+\sum_{i} \overline{\psi}_{i} \not D \psi_{i}+\mathcal{D}_{\mu} H^{\dagger} \mathcal{D}^{\mu} H-V(H)-\lambda_{i j} \overline{\psi}_{i} H \psi_{j}))$`
+
