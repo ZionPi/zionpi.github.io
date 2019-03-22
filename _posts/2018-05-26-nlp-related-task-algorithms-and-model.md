@@ -59,3 +59,4 @@ title: NLP相关任务算法与模型
   这个是比较浅的神经网络模型
 - CNN
 - DNN
+- [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
