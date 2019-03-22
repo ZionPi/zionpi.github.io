@@ -11,7 +11,7 @@ NoSQL  MQ Cache 中间件
 
 多线程，高性能，并发应用
 ```
-
+当你点击网飞的播放按钮的时候，背后究竟发生了些什么？[这篇](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)文章结合现实的例子向我展现了背后的运作机制。
 
 ---
 参考资料：  
