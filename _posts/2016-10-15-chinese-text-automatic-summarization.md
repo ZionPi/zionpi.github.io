@@ -8,6 +8,7 @@ TensorFlow提供了一种可能的实现[TextSum](https://github.com/tensorflow/
 
 ## Seq2Seq(encoder-decoder RNN)算法
 简单地讲，该算法输入序列，输出序列。序列对序列包含两个RNN，第一个是Encoder，第二个是Decoder。它常用在机器翻译中，更泛化地是应用从一个领域的序列到另外一个领域。
+
 Keras有一个基于LSTM的[Seq2Seq实现](https://github.com/keras-team/keras/blob/master/examples/lstm_seq2seq.py)。
 
 
