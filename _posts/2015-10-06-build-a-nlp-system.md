@@ -25,6 +25,9 @@ NLP系统，顾名思义，是自然语言处理系统。[前面]()我们已经�
 
 在线资源尤其重要，但是太多了，重复重复着就感觉会收敛，试着专注某几个小而精的资源，比如这个[Practical Machine Learning with Python](https://github.com/dipanjanS/practical-machine-learning-with-python).[这里](https://nbviewer.jupyter.org/github/dipanjanS/practical-machine-learning-with-python/tree/master/notebooks/)你甚至可以直接看到代码的实现。
 
+## 模型
+Facebook提供[PyText](https://pytext-pytext.readthedocs-hosted.com/en/latest/)工具，帮助快速建立模型，并且迅速扩展到商业用途。
+
 ---
 参考资料：  
 - [Design Patterns for Production NLP Systems](http://deliprao.com/archives/294)
