@@ -15,8 +15,9 @@ NLP系统，顾名思义，是自然语言处理系统。[前面]()我们已经�
 ## 内容获取
 
 资源来自互联网，你可以在线尝试试用[boilerpipe](https://boilerpipe-web.appspot.com/)，它可以自动提取给定网站的文本内容。
-还有一些其它的爬虫技术，需要因地制宜，及时补充。
+还有一些其它的爬虫技术，需要因地制宜，及时补充。  
 
+[各大网站模拟登陆](https://github.com/CriseLYJ/awesome-python-login-model)所需要用到的材料。
 
 ## 算法
 
