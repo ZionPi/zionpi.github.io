@@ -19,7 +19,28 @@ NLP系统，顾名思义，是自然语言处理系统。[前面]()我们已经�
 
 [各大网站模拟登陆](https://github.com/CriseLYJ/awesome-python-login-model)所需要用到的工具。  
 
-[lazynlp](https://github.com/chiphuyen/lazynlp)获取GPT-2所需要的大量文本。
+[lazynlp](https://github.com/chiphuyen/lazynlp)获取GPT-2所需要的大量文本。  
+
+还有找现成的[中文语料库](https://github.com/liuhuanyong/ChineseNLPCorpus)。
+
+## 数据清洗
+一般地，我们拿到数据后，在给定任务之前，我们想对数据做的处理有: POS,NER,SBD之类的，
+ 
+| 任务 | 解释 |  
+--- | ---  
+| Tokenization	| Segmenting text into words, punctuations marks etc.|   
+| Part-of-speech (POS) Tagging	| Assigning word types to tokens, like verb or noun. |  
+| Dependency Parsing | Assigning syntactic dependency labels, describing the relations between individual tokens, like subject or object. |  
+| Lemmatization | 	Assigning the base forms of words. For example, the lemma of “was” is “be”, and the lemma of “rats” is “rat”. |  
+| Sentence Boundary Detection (SBD)	| Finding and segmenting individual sentences. |  
+| Named Entity Recognition (NER)	| Labelling named “real-world” objects, like persons, companies or locations. |  
+| Similarity | 	Comparing words, text spans and documents and how similar they are to each other. |  
+| Text Classification	| Assigning categories or labels to a whole document, or parts of a document. |  
+| Rule-based Matching	| Finding sequences of tokens based on their texts and linguistic annotations, similar to regular expressions. |  
+| Training	| Updating and improving a statistical model’s predictions. |  
+| Serialization | 	Saving objects to files or byte strings. |   
+
+而这就是[spacCy库](https://spacy.io/usage/spacy-101)提供给我们的。
 
 ## 算法
 
