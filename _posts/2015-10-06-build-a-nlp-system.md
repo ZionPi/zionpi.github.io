@@ -21,7 +21,7 @@ NLP系统，顾名思义，是自然语言处理系统。[前面]()我们已经�
 
 [lazynlp](https://github.com/chiphuyen/lazynlp)获取GPT-2所需要的大量文本。  
 
-还有找现成的[中文语料库](https://github.com/liuhuanyong/ChineseNLPCorpus)。
+还有找现成的[中文语料库](https://github.com/liuhuanyong/ChineseNLPCorpus)，还有[大规模中文自然语言处理语料](https://github.com/brightmart/nlp_chinese_corpus)。
 
 ## 数据清洗
 一般地，我们拿到数据后，在给定任务之前，我们想对数据做的处理有: POS,NER,SBD之类的，
