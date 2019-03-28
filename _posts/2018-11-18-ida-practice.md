@@ -4,13 +4,13 @@ title: IDA最佳实践
 ---
 将汇编代码还原成高级语言是一项富有挑战性的任务。   
 IDA使这项工作变得容易了。我们来认识以下常用的快捷键:
+- Enter 进入到操作码对应位置
 - Esc 退回上一步
 - n 对位置变量重命名
 - Shift + ; 对代码进行注释
 - Ctrl + x 查找引用
 - Spacebar 在graph和text视图之间切换
 - Ctrl + 1 打开小窗口列表
-- Spacebar 在graph和text视图之间切
 - Edit -> Patch 能够将修改保存目标文件中
 - F5 可以生成伪C代码
 
