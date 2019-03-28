@@ -33,6 +33,12 @@ IDA使这项工作变得容易了。我们来认识以下常用的快捷键:
 - Ctrl-Alt-F Make jump unconditional
 - Ctrl-Alt-N Neuter the binary (remove calls to fork, setuid, setgid, getpwnam, setgroups, and chdir)
 
+使用Fentanyl的步骤:
+```
+- Alt+F7 or File > Script File to load scripts
+- Browse to main.py and open it
+- That's it!
+```
 
 
 脚本语言编写：
