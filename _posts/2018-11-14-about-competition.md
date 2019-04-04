@@ -8,7 +8,7 @@ title: 关于比赛
 - [DataFountain](https://www.datafountain.cn)
 - [天池](https://tianchi.aliyun.com/home/)
 - [科赛](https://www.kesci.com) 
-- [FlyAI](https://www.flyai.com/)
+- [FlyAI](https://www.flyai.com/)  
 比赛不仅解决了你`以为`的数据不够的问题,环境的问题,劲往哪儿处使的问题.唯一欠缺的是你的能力问题了.
 
 
