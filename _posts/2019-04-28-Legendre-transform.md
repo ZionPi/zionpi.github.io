@@ -1,6 +1,6 @@
 ---
 layout: post
-title： Legendre transform
+title: Legendre transform
 ---
 将拉格朗日和汉密尔顿体系联系起来的纽带。
 ---
