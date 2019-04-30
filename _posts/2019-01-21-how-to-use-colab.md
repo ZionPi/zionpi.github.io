@@ -2,7 +2,7 @@
 layout: post
 title: 如何使用Colab
 ---
-**Colaboratory**是由谷歌提供的云端Jupyter NoteBook.Colaboratory是构建在Jupyter Notebook之上的。并且它支持github上的任何.ipynb文件。
+[**Colaboratory**](https://colab.research.google.com/)是由谷歌提供的云端Jupyter NoteBook.Colaboratory是构建在Jupyter Notebook之上的。并且它支持github上的任何.ipynb文件。
 更重要的是，它支持云端安装tensorflow以及其它的库。命令格式比较简单，如下:
 >  !pip install -q matplotlib-venn
 更多安装命令，参考[教程](https://colab.research.google.com/notebooks/snippets/importing_libraries.ipynb#scrollTo=iDu3Slhq2zyh).  
