@@ -17,3 +17,4 @@ from fastai.utils.show_install import *
 show_install()
 !lscpu
 ```
+如果你不幸没有看到有关GPU的输出,那么,请尝试在菜单栏->修改->笔记本设置里面选择GPU.
