@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 在vim中快速移动 
+title: 在vim中超速驾驶
 ---
 其实，只有一招
 
