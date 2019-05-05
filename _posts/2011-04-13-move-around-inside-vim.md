@@ -123,3 +123,4 @@ title: 在vim中超速驾驶
 - [Vim 101: Quick Movement](https://medium.com/usevim/vim-101-quick-movement-c12889e759e0)
 - [Vim Super Fast Navigation](https://stackoverflow.com/questions/8750275/vim-super-fast-navigation)
 - 更多有趣的[操作](https://vim.fandom.com/wiki/Copy,_cut_and_paste)
+- [多文件窗口操作](https://www.cs.oberlin.edu/~kuperman/help/vim/windows.html)
