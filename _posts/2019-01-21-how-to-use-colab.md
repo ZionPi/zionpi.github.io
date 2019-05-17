@@ -17,4 +17,6 @@ from fastai.utils.show_install import *
 show_install()
 !lscpu
 ```
-如果你不幸没有看到有关GPU的输出,那么,请尝试在菜单栏->修改->笔记本设置里面选择GPU.
+如果你不幸没有看到有关GPU的输出,那么,请尝试在菜单栏->修改->笔记本设置里面选择GPU.  
+有了Colab之后，你基本上不用折腾环境配置了(conda,docker...统统不用管！),it's quite a relief.    
+所以```pytorch,tensorflow,scikit-learn```这些基础知识你赶紧得搞通透！
