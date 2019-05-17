@@ -2,12 +2,20 @@
 layout: post
 title: 我为什么要学习代数几何？
 ---
+现在还不能确切的知道理解了代数几何之后会给你带来的影响，但是，
+## 不能引起的效果列表:
+- 立竿见影的智慧
+- 解决所有你以前，你以后碰到的数学难题
+- 解决债务危机
+- 解决生活问题
+- 解决你遇到的不顺心的事情
+- ...
+
 >有一个故事讲的是，一个学生来问苏格拉底，为什么要学习哲学？苏格拉底吩咐仆人给来人5毛钱，因为他问学习哲学的用处。
 
 一个朋友来问我，有没有一个数学分支，它提纲挈领，穿针引线，联络其它大部分数学分支，是数学的前沿，时代主流？
 通过统计近半个世纪的菲尔兹奖得主以及结合[MO](https://mathoverflow.net/)以及[arXiv](https://arxiv.org/)的热门程度我们不难
-得出当下最流行的学科是**代数几何**。本来当代敲门砖的学科，却让初学者望而却步，当作是至高无上的顶点。这就与真实情况大相径庭。如前面篇幅所述，代数几
-何是一门怎样的学科会赢得这样的赞誉呢？  
+得出:当下最流行的数学分支学科是**代数几何**。本来当代敲门砖的学科，却让初学者望而却步，当作是至高无上的顶点。这就与真实情况大相径庭。如前面篇幅所述，代数几何是一门怎样的学科会赢得这样的赞誉呢？  
 
 >  Weil conjectures were some highly influential proposals by André Weil (1949), which led to a successful multi-decade program to prove them, in which many leading researchers developed the framework of modern algebraic geometry and number theory.  
 
