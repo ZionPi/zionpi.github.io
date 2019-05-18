@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Latex笔记
+title: Latex使用笔记
 ---
 |--- | --- |
 | 符号 | 内容 |
