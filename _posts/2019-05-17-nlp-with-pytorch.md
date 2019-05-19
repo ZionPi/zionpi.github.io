@@ -22,10 +22,14 @@ title: NLP在Pytorch中使用
 ### CNN
 克服了MLP忽略了位置信息的障碍,使用卷积将顺序信息保留下来,它是通过一个叫做convolution kernerl的矩阵,通过一定的步长遍历矩阵,来保留记录下空间位移恒定的不变量.
 ### RNN
-通过一个类似于kernel的hidden state,在时间序列中保存记录下时间不变量,那么怎么来刻画时间呢?
+通过一个类似于kernel的hidden state,在时间序列中保存记录下时间不变量,那么怎么来刻画时间呢?对一个序列而言,在遍历的过程中,序列的长度就是指的时间.
+### Seq2Seq
+什么是序列到序列呢?考虑以下场景,给定一串英文,翻译成中文,我们就可以称为seq2seq,机器人对话系统中也是,给定一个对话的上一句,我们需要生成下一句,当然我们可以用之前意图识别,然后从句子群中选择一个概率最大的作为回复.这里我们需要指出,seq2seq是一个encoder-decoder大类别下的一个特例,而encoder-decoder呢,又是一个称之为conditioned generation大类别的一个特例.这个conditioned generation包含一个上下文c,c如果来自encoder模型,那么conditioned generation 就跟encoder-decoder模型是一回事儿.但是请注意,不是所有的conditioned generation都是encoder-decoder,因为那个上下文c还有可能来自于固定的结构,比方说在天气预测的时候,温湿度,风速,方向可能会指导decoder来生成天气报告.  
+理解seq2seq需要注意两点,1个是双向,1个是注意力机制.
+
+
 ### Transformer
 
-### Seq2Seq
 
 ### BERT
 
