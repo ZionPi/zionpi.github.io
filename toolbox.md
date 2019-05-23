@@ -29,3 +29,9 @@ title: 工具箱
 ## 可视化
 - [Plotly](https://plot.ly/)
 - [Inkscape](https://castel.dev/post/lecture-notes-2/#)
+
+
+---
+### 参考资料
+
+- [Draw figure in latex](https://castel.dev/)
