@@ -31,6 +31,9 @@ title: 工具箱
 - [Inkscape](https://castel.dev/post/lecture-notes-2/#)
 
 
+## 杂项
+- [mendeley](https://www.mendeley.com/)
+
 ---
 ### 参考资料
 
