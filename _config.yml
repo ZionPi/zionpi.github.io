@@ -67,6 +67,7 @@ navbar-links:
   资料:
     - 工具箱: "toolbox"
     - NASA工艺标准: "https://workmanship.nasa.gov/lib/insp/2%20books/frameset.html"
+    - MarsSim: "https://mars-sim.sourceforge.io"
     - Music: "http://musicforprogramming.net/"
     - 乌龟几何学: "https://www.amazon.com/Turtle-Geometry-Mathematics-Artificial-Intelligence/dp/0262510375"
     - 自学CS: "https://teachyourselfcs.com/"
