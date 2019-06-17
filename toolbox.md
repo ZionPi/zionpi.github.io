@@ -34,6 +34,7 @@ title: 工具箱
 ## 杂项
 - [mendeley](https://www.mendeley.com/)
 - [rubular在线正则表达式](https://rubular.com/r/vVzB3H3FmN)
+- [MathPix](https://mathpix.com/)
 ---
 ### 参考资料
 
