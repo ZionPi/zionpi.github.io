@@ -35,6 +35,7 @@ title: 工具箱
 - [mendeley](https://www.mendeley.com/)
 - [rubular在线正则表达式](https://rubular.com/r/vVzB3H3FmN)
 - [MathPix](https://mathpix.com/)
+- [在线交互Redis](http://try.redis.io/)
 ---
 ### 参考资料
 
