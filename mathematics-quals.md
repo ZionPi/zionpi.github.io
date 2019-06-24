@@ -287,3 +287,5 @@ $\left(e^{z}, \log z, \arg z\right)$
 - Steven G. Krantz的[A Mathematician's Survival Guide: Graduate School and Early Career Development ](https://www.amazon.com/Mathematicians-Survival-Guide-Graduate-Development/dp/082183455X)
 
 - 你可以通过[这里](http://stanford.edu/~jonlove/qual/makeit.html)生成Qual了
+
+- 普林斯顿过来人的[经验分享大全](http://web.math.princeton.edu/generals/)
