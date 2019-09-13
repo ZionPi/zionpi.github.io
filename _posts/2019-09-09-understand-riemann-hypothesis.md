@@ -9,3 +9,4 @@ title: 理解黎曼猜想
 
 - [理解黎曼猜想1](https://golem.ph.utexas.edu/category/2019/09/the_riemann_hypothesis_part_1.html)
 - [理解黎曼猜想2](https://golem.ph.utexas.edu/category/2019/09/the_riemann_hypothesis_part_2.html)
+- [理解黎曼猜想3](https://golem.ph.utexas.edu/category/2019/09/the_riemann_hypothesis_part_3.html)
