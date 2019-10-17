@@ -6,3 +6,4 @@ title: 给软件工程师看的FPGA设计
 
 ### 参考资料
 - [FPGA design for SE](https://www.walknsqualk.com/post/014-tiny-fpga-bx/)
+- [讨论](https://news.ycombinator.com/item?id=21277580)
