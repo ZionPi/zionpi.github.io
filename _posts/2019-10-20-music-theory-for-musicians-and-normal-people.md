@@ -9,3 +9,7 @@ title: 给音乐人和普通人的乐理知识
 
 - [Music Theory](https://tobyrush.com/theorypages/index.html)
 - [讨论](https://news.ycombinator.com/item?id=21297462)
+- [线上练习](https://www.lightnote.co)
+- [一个小众论坛](https://musescore.com/groups/counterpoint-and-fugue)
+- [open music theory](http://openmusictheory.com/contents.html)
+- [在线tone生成](https://www.szynalski.com/tone-generator/)
