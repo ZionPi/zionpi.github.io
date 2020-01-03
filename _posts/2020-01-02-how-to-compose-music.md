@@ -4,3 +4,9 @@ title: 如何作曲？
 ---
 铺天盖地的音乐使人沉醉，好音乐接踵而至，但是怎么生产它们呢？  
 除了学习基础的理论外，旋律从哪儿呢？歌词如何匹配，如何唱出来？动机是怎么产生的呢？这问题太艰难，几乎无法把它砸开。找一个合适的老师，踏踏实实地学习基础，对基础的不确定性和怀疑特别影响后面的工作。
+
+
+[学习音乐理论]({{ site.baseurl }}{% link _posts/2014-09-01-learn-music-theory.md %})
+
+
+[给音乐人和普通人的乐理知识]({{ site.baseurl }}{% link _posts/2019-10-20-music-theory-for-musicians-and-normal-people.md%})
