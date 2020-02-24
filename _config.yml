@@ -57,6 +57,7 @@ navbar-links:
     - 机器学习: "http://www.fast.ai/2018/09/26/ml-launch/"
     - Hacker's Guide 2 NN: "http://karpathy.github.io/neuralnets/"
   世界:
+    - 哲学: "philosophy"
     - 运行方式: "https://fivebooks.com/best-books/venkatesh-rao-how-world-works/"
     - SICM: "https://tgvaughan.github.io/sicm/toc.html"
     - 507 Movements: "http://507movements.com"
@@ -88,7 +89,7 @@ navbar-links:
   语言:
     - 英语:
     - 德语:
-    - 法语:
+    - 法语: "french"
     - 西班牙语:
     - 意大利语:
     - 俄语:
