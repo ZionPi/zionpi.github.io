@@ -56,6 +56,10 @@ than any strictly utilitarian course would have permitted.
 > Grothendieck comparing two approaches, with the metaphor of opening a nut: the hammer and chisel approach, striking repeatedly until the nut opens, or just letting the nut open naturally by immersing it in some soft liquid and let time pass:
 "I can illustrate the second approach with the same image of a nut to be opened. The first analogy that came to my mind is of immersing the nut in some softening liquid, and why not simply water? From time to time you rub so the liquid penetrates better, and otherwise you let time pass. The shell becomes more flexible through weeks and months—when the time is ripe, hand pressure is enough, the shell opens like a perfectly ripened avocado! A different image came to me a few weeks ago. The unknown thing to be known appeared to me as some stretch of earth or hard marl, resisting penetration... the sea advances insensibly in silence, nothing seems to happen, nothing moves, the water is so far off you hardly hear it... yet it finally surrounds the resistant substance."
 
+> 好奇心、知识、经验、幽默感
+
+> 理性、激情、欲望
+
  `下面是数学公式测试片段:`  
  - $h_\theta(x) = \Large\frac{1}{1 + \mathcal{e}^{(-\theta^\top x)}}$ ; <br/>
  - $a^2 + b^2 = c^2$ ; <br/>
