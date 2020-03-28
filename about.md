@@ -60,6 +60,8 @@ than any strictly utilitarian course would have permitted.
 
 > 理性、激情、欲望
 
+> 学而时习之，不亦乐乎 
+
  `下面是数学公式测试片段:`  
  - $h_\theta(x) = \Large\frac{1}{1 + \mathcal{e}^{(-\theta^\top x)}}$ ; <br/>
  - $a^2 + b^2 = c^2$ ; <br/>
