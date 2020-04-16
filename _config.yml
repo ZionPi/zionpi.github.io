@@ -83,6 +83,7 @@ navbar-links:
     - CPU: "http://www.buthowdoitknow.com/"
     - 比赛: "competitions/"
     - 学习 markdown: "http://www.markdowntutorial.com/"
+    - 汇编写的OS: "https://kolibrios.org/en/"
     - 构造编译器: "https://generalproblem.net/lets_build_a_compiler/01-starting-out/"
     - Programmer须知: "https://github.com/mtdvio/every-programmer-should-know"
     - 低幼版黑客宣言: "http://phrack.org/issues/7/3.html"
