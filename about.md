@@ -33,6 +33,8 @@ And know the place for the first time
 
 > Point n'est besoin d'espérer pour entreprendre, ni de réussir pour perséverer.——Willem van Oranje Nassau 
 
+> I write an average of five new programs every week. Poets have to write poems. I have to write computer programs.——[Donald Knuth](https://www.quantamagazine.org/computer-scientist-donald-knuth-cant-stop-telling-stories-20200416)
+
 > But still a large part of mathematics which became useful developed
 with absolutely no desire to be useful, and in situations where nobody
 could possibly know in what area it would become useful; and there
