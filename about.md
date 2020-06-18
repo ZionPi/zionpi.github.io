@@ -29,6 +29,8 @@ And know the place for the first time
 
 > You either die a hero, or you live long enough to see yourself become the villain.  
 
+> As Jean-Pierre Serre reportedly quipped to his mathematician colleague Raoul Bott, “While the other sciences search for the rules that God has chosen for this Universe, we mathematicians search for the rules that even God has to obey.”
+
 > ... great mathematical expositor.
 
 > Point n'est besoin d'espérer pour entreprendre, ni de réussir pour perséverer.——Willem van Oranje Nassau 
