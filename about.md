@@ -29,6 +29,8 @@ And know the place for the first time
 
 > I was raised by a pack of wild mathematicians. We roamed the great planes proving theorems and conjecturing.
 
+> 种瓜得瓜，功不唐捐
+
 > You either die a hero, or you live long enough to see yourself become the villain.  
 
 > As Jean-Pierre Serre reportedly quipped to his mathematician colleague Raoul Bott, “While the other sciences search for the rules that God has chosen for this Universe, we mathematicians search for the rules that even God has to obey.”
