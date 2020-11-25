@@ -37,6 +37,8 @@ And know the place for the first time
 
 > ... great mathematical expositor.
 
+> ... 深解义趣,涕泪悲泣. 
+
 > Point n'est besoin d'espérer pour entreprendre, ni de réussir pour perséverer.——Willem van Oranje Nassau 
 
 > I write an average of five new programs every week. Poets have to write poems. I have to write computer programs.——[Donald Knuth](https://www.quantamagazine.org/computer-scientist-donald-knuth-cant-stop-telling-stories-20200416)
