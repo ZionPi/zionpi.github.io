@@ -45,6 +45,7 @@ github: [metadata]
 navbar-links:
   关于: "about"
   数学:
+    - 地图: "https://mathmap.quantamagazine.org/map/"
     - 历史: "https://fivebooks.com/best-books/history-mathematics-robin-wilson/"
     - 应用: "https://fivebooks.com/best-books/nicholas-higham-applied-mathematics/"
     - Quals: "mathematics-quals"
