@@ -50,6 +50,7 @@ navbar-links:
     - 应用: "https://fivebooks.com/best-books/nicholas-higham-applied-mathematics/"
     - Quals: "mathematics-quals"
     - Space Math: "https://er.jsc.nasa.gov/seh/math.html"
+    - 概率、统计与随机过程: "http://www.randomservices.org"
   AI:
     - AIWiki: "https://wiki.pathmind.com" 
     - AIPlaybook: "https://aiplaybook.a16z.com"
