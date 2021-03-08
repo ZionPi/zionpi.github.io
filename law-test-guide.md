@@ -3,7 +3,7 @@ layout: page
 title: 法考指引
 ---
 
-罗翔老师的话说在前头,法考不是为了在浩如烟海的知识中游泳,它有一定的范围,不需要太高,
+[罗翔老师的话](https://www.bilibili.com/video/BV1dj411f7vb)说在前头,法考不是为了在浩如烟海的知识中游泳,它有一定的范围,不需要太高,
 刚过线是最好的.
 
 - [刑法 柏浪涛](https://www.bilibili.com/video/av77459581)
