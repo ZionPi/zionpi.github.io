@@ -52,7 +52,7 @@ navbar-links:
     - 太空: "https://er.jsc.nasa.gov/seh/math.html"
     - 随机: "http://www.randomservices.org"
   AI:
-    - AIWiki: "https://wiki.pathmind.com" 
+    - 维基: "https://wiki.pathmind.com" 
     - Playbook: "https://aiplaybook.a16z.com"
     - SOTACODE: "https://paperswithcode.com/state-of-the-art"
     - SOTA: "https://www.stateoftheart.ai/"
@@ -72,10 +72,10 @@ navbar-links:
     - 通识: "https://en.wikipedia.org/wiki/Very_Short_Introductions"
     - 五本书: "https://fivebooks.com"
     - 能源环境: "https://www.amazon.com/Vaclav-Smil/e/B001HCXT62"
-    - 法考: "law-test-guide"
     - MarsSim: "https://mars-sim.sourceforge.io"
   资料:
     - 须知: "https://github.com/mtdvio/every-programmer-should-know"
+    - 法考: "law-test-guide"
     - 流体模拟: "https://github.com/cselab/aphros/wiki/Aphros-Explorer"
     - 工具箱: "toolbox"
     - 讨论指南: "https://news.ycombinator.com/newsguidelines.html"
@@ -88,7 +88,7 @@ navbar-links:
     - 汇编OS: "https://kolibrios.org/en/"
     - 编译器: "https://generalproblem.net/lets_build_a_compiler/01-starting-out/"
     - Phrack: "http://phrack.org/issues/7/3.html"
-    - 信: "http://catb.org/jargon/html/appendixc.html"
+    - 一封信: "http://catb.org/jargon/html/appendixc.html"
   书单:
     - SE入门: "http://web.eecs.utk.edu/~azh/blog/booksformystudents.html"
     - Patrick: "https://patrickcollison.com/bookshelf"
