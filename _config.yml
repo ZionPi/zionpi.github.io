@@ -52,6 +52,7 @@ navbar-links:
     - 太空: "https://er.jsc.nasa.gov/seh/math.html"
     - 随机: "http://www.randomservices.org"
   AI:
+    - index: "https://hai.stanford.edu/research/ai-index-2021"
     - 维基: "https://wiki.pathmind.com" 
     - Playbook: "https://aiplaybook.a16z.com"
     - SOTACODE: "https://paperswithcode.com/state-of-the-art"
@@ -98,6 +99,7 @@ navbar-links:
     - Javier: "https://www.amazon.com/ideas/amzn1.account.AHIO6TFT6YFJLAW7HGPOFKVYJX5Q"
     - ZachStar: "https://www.amazon.com/shop/majorprep"
     - 普林斯顿: "https://press.princeton.edu/collections/princeton-science-library" 
+    - Invest: "invest"
   语言:
     - 英语:
     - 德语:
