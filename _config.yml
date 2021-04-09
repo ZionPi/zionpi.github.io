@@ -62,6 +62,7 @@ navbar-links:
   世界:
     - 哲学: "philosophy"
     - 读论文: "https://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html"
+    - 提问: "https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md"
     - 会议纪要: "https://oll.libertyfund.org/title/farrand-the-records-of-the-federal-convention-of-1787-vol-1"
     - 运行方式: "https://fivebooks.com/best-books/venkatesh-rao-how-world-works/"
     - SICM: "https://tgvaughan.github.io/sicm/toc.html"
