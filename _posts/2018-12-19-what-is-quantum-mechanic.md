@@ -3,7 +3,7 @@ layout: post
 title: 量子力学是什么
 ---
 为了理解量子力学，我们先来回顾一下泛函分析的基础知识。
-下面是一位作者的回顾内容，来自[1](https://math.stackexchange.com/posts/1649963/)
+下面是一位作者的回顾内容，来自[1](https://math.stackexchange.com/questions/1645391/what-is-the-main-purpose-of-learning-about-different-spaces-like-hilbert-banac/1649963)
 
 > $L^2$ function spaces arose out of Parseval's identity for the Fourier series, an identity that was known by the late 1700's:  
   
