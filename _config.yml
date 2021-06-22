@@ -91,6 +91,7 @@ navbar-links:
     - 汇编OS: "https://kolibrios.org/en/"
     - TETRIS: "https://github.com/jdah/tetris-os"
     - 编译器: "https://generalproblem.net/lets_build_a_compiler/01-starting-out/"
+    - N2T: "https://www.nand2tetris.org/demos"
     - Phrack: "http://phrack.org/issues/7/3.html"
     - 一封信: "http://catb.org/jargon/html/appendixc.html"
   书单:
@@ -103,6 +104,7 @@ navbar-links:
     - ZachStar: "https://www.amazon.com/shop/majorprep"
     - 普林斯顿: "https://press.princeton.edu/collections/princeton-science-library" 
     - Invest: "invest"
+    - Child: "https://github.com/searchableguy/awesome-illustrated-guides"
   语言:
     - 英语:
     - 德语:
