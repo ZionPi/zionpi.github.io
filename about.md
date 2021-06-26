@@ -15,6 +15,8 @@ layout: page
 
 > "We must know, we shall know," and concludes his response with "And with this thought in mind, I will happily continue to keep hammering pitons into the sides of the infinite mountain of mathematical truth, as we all slowly inch our way up its irresistible slopes." ——Ron Graham
  
+*柯勒律治说：“到处是水却没有一滴水可以喝”*
+
 假如你乐于探索，下面几个网站有可能会使你感到快乐  
 - [`MathOverflow`](https://mathoverflow.net/)  
 - [`MathematicsExchange`](https://math.stackexchange.com/)  
