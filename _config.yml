@@ -54,7 +54,7 @@ navbar-links:
   AI:
     - index: "https://hai.stanford.edu/research/ai-index-2021"
     - 维基: "https://wiki.pathmind.com" 
-    - Playbook: "https://aiplaybook.a16z.com"
+    - Playbook: "https://a16z.com/ai-survey"
     - SOTACODE: "https://paperswithcode.com/state-of-the-art"
     - SOTA: "https://www.stateoftheart.ai/"
     - 机器学习: "http://www.fast.ai/2018/09/26/ml-launch/"
