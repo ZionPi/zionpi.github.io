@@ -9,3 +9,4 @@ title: 高斯过程
 ### 参考资料
  - [高斯过程小讲](https://yugeten.github.io/posts/2019/09/GP/)
  - [视频资源](https://www.youtube.com/watch?v=92-98SYOdlY&t=4827s)
+ - [高斯过程](https://peterroelants.github.io/posts/gaussian-process-tutorial/)
