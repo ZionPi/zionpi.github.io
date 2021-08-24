@@ -9,6 +9,8 @@ layout: page
 
 > 糟粕所存非粹美,丹青难写是精神
 
+> Nulla poena sine lege
+
 > 有屋漏迹，无斧凿痕
 
 > "A novice was trying to fix a broken Lisp machine by turning the power off and on. Knight, seeing what the student was doing, spoke sternly: "You cannot fix a machine by just power-cycling it with no understanding of what is going wrong." Knight turned the machine off and on. The machine worked." 
@@ -49,7 +51,11 @@ And know the place for the first time
 
 > Point n'est besoin d'espérer pour entreprendre, ni de réussir pour perséverer.——Willem van Oranje Nassau 
 
+> 治学不为媚时语,独寻真知启后人。
+
 > I write an average of five new programs every week. Poets have to write poems. I have to write computer programs.——[Donald Knuth](https://www.quantamagazine.org/computer-scientist-donald-knuth-cant-stop-telling-stories-20200416)
+
+> 振衣千仞岗，濯足万里流
 
 > But still a large part of mathematics which became useful developed
 with absolutely no desire to be useful, and in situations where nobody
@@ -88,6 +94,8 @@ than any strictly utilitarian course would have permitted.
  - $\sum_{i=1}^m y^{(i)}$;<br/>
  - $\frac{1}{\pi} \int_{-\pi}^{\pi}\|f(t)\|^{2} d t=\frac{1}{2} a_{0}^{2}+\sum_{n=1}^{\infty} a_{n}^{2}+b_{n}^{2}$ ;<br/>
  - $f(x)\sim \frac{a_0}{2}+\sum_{n=1}^{\infty}a_n\cos(nx)+b_n\sin(nx) $ ;<br/>
+
+> 暮春者，春服既成，冠者五六人，童子六七人，浴乎沂，风乎舞雩，咏而归
 
  [改变世界的17个公式](https://www.amazon.com/Pursuit-Equations-That-Changed-World/dp/0465085989)  
  
