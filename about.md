@@ -13,6 +13,8 @@ layout: page
 
 > 有屋漏迹，无斧凿痕
 
+> 修合无人见，存心有天知
+
 > "A novice was trying to fix a broken Lisp machine by turning the power off and on. Knight, seeing what the student was doing, spoke sternly: "You cannot fix a machine by just power-cycling it with no understanding of what is going wrong." Knight turned the machine off and on. The machine worked." 
 
 *如果一件事情,自己都没有搞搞清楚,还要去指导他人?你算老几?*
