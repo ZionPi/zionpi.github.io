@@ -13,6 +13,8 @@ layout: page
 
 > 有屋漏迹，无斧凿痕
 
+> 对于不可控的事情，我们要保持乐观；对于可控的事情，我们要保持谨慎
+
 > 修合无人见，存心有天知
 
 > "A novice was trying to fix a broken Lisp machine by turning the power off and on. Knight, seeing what the student was doing, spoke sternly: "You cannot fix a machine by just power-cycling it with no understanding of what is going wrong." Knight turned the machine off and on. The machine worked." 
