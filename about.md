@@ -92,6 +92,8 @@ than any strictly utilitarian course would have permitted.
 
 > 理性、激情、欲望
 
+> Wir mussen wissen. Wir werden wissen.
+
 > 学而时习之，不亦乐乎 
 
 > You can lead a horse to water but you can't make him drink
