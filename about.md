@@ -7,6 +7,8 @@ layout: page
 ```
 > What are mathematics helpful for ? Mathematics are helpful for physics. Physics helps us make fridges. Fridges are made to contain spiny lobsters, and spiny lobsters help mathematicians who eat them and have hence better abilities to do mathematics, which are helpful for physics, which helps us make fridges which... ——Laurent Schwartz
 
+> In re mathematica ars proponendi quaestionem pluris facienda est quam solvendi.
+
 > The mathematical sciences particularly exhibit order symmetry and limitations; and these are the greatest forms of the beautiful. --Aristotle
 
 > 糟粕所存非粹美,丹青难写是精神
