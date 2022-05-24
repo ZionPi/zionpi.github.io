@@ -17,6 +17,8 @@ layout: page
 
 > 有屋漏迹，无斧凿痕
 
+> If you're thinking without writing,you only think you're thinking ——Leslie Lamport
+
 > 对于不可控的事情，我们要保持乐观；对于可控的事情，我们要保持谨慎
 
 > No stress, friend
