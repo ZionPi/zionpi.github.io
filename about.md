@@ -104,6 +104,8 @@ than any strictly utilitarian course would have permitted.
 
 > You can lead a horse to water but you can't make him drink
 
+> 昨夜江边春水生，蒙冲巨舰一毛轻。向来枉费推移力，此日中流自在行。
+
  `数学公式测试:`  
  - $h_\theta(x) = \Large\frac{1}{1 + \mathcal{e}^{(-\theta^\top x)}}$ ; <br/>
  - $a^2 + b^2 = c^2$ ; <br/>
