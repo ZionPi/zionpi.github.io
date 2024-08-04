@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page 
 title: 复杂算法
 tags: 难题 动态规划
 ---

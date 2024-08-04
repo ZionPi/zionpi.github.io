@@ -81,6 +81,7 @@ navbar-links:
   资料:
     - 须知: "https://github.com/mtdvio/every-programmer-should-know"
     - 法考: "law-test-guide"
+    - 算法: "neetcode150"
     - 流体模拟: "https://github.com/cselab/aphros/wiki/Aphros-Explorer"
     - 工具箱: "toolbox"
     - 讨论指南: "https://news.ycombinator.com/newsguidelines.html"
