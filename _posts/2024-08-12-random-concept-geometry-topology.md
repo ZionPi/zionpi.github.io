@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 几何/拓扑的定理
-tags: 几何 拓扑 全局结构 局部结构
---- 
+title: 几何/拓扑中的定理
+tags: 几何 拓扑 全局结构 局部结构 Stokes Gaussian  Levi-Civita de Rham Gauss-Bonnet  Frobenius  van Kampen foliations
+---  
 ```
 Stokes’s theorem
 Gaussian curvature
@@ -28,65 +28,65 @@ Gauss-Bonnet theorem
 
 # 细节分析及例子:
 
-1. Stokes's theorem (斯托克斯定理):
+- Stokes's theorem (斯托克斯定理):
 
 作用: 将流形上的积分与边界上的积分联系起来，是微积分基本定理的高维推广。
 影响: 是微分几何和数学分析的基石，广泛应用于物理学，例如电磁学中的麦克斯韦方程组。
 例子: 计算向量场在曲面上的通量可以通过计算向量场旋度在曲面所围区域上的积分。
 
-2. Gaussian curvature (高斯曲率):
+- Gaussian curvature (高斯曲率):
 
 作用: 描述曲面在一点的弯曲程度。
 影响: 是微分几何的核心概念，对于理解曲面的几何性质至关重要。
 例子: 球面上的高斯曲率是正的，平面上的高斯曲率是零，马鞍面上的高斯曲率是负的。
 
-3. The Levi-Civita connection (列维-奇维塔联络):
+- The Levi-Civita connection (列维-奇维塔联络):
 
 作用: 定义了黎曼流形上向量场的协变导数，允许我们在曲面上进行微积分运算。
 影响: 是黎曼几何的基础，对于研究广义相对论至关重要。
 例子: 在球面上，Levi-Civita 联络可以用来定义测地线，即球面上两点之间的最短路径。
 
-4. The Lie derivative (李导数):
+- The Lie derivative (李导数):
 
 作用: 描述向量场沿着另一个向量场的变化率。
 影响: 是微分几何和李群理论的重要工具，用于研究对称性和守恒律。
 例子: 可以用来描述流体流动中速度场的变化。
 
-5. Foliations (叶状结构):
+- Foliations (叶状结构):
 
 作用: 将流形分解成低维子流形的并集。
 影响: 是研究动力系统和微分拓扑的重要工具。
 例子: 环面上的经线和纬线构成两个叶状结构。
 
-6. Van Kampen theorem (范坎彭定理):
+- Van Kampen theorem (范坎彭定理):
 
 作用: 通过将拓扑空间分解成更简单的部分来计算其基本群。
 影响: 是代数拓扑的重要工具，用于研究拓扑空间的连通性。
 例子: 可以用来计算圆环的基本群。
 
 
-7. Poincaré’s lemma (庞加莱引理):
+- Poincaré’s lemma (庞加莱引理):
 
 作用: 说明在可缩区域上，闭形式一定是恰当形式。
 影响: 是de Rham上同调理论的基础，对于研究流形的拓扑性质至关重要。
 例子: 在欧几里得空间中，任何闭形式都是恰当形式。
 
 
-8. De Rham cohomology and theorem (德拉姆上同调和定理):
+- De Rham cohomology and theorem (德拉姆上同调和定理):
 
 作用: 将流形的拓扑性质与微分形式联系起来。
 影响: 是微分几何和代数拓扑的桥梁，为研究流形提供了强大的工具。
 例子: 可以用来计算流形的贝蒂数，从而区分不同的拓扑空间。
 
 
-9. Frobenius theorem (弗罗贝尼乌斯定理):
+- Frobenius theorem (弗罗贝尼乌斯定理):
 
 作用: 给出向量场组构成可积分布的条件。
 影响: 是微分几何和偏微分方程理论的重要工具，用于研究积分流形的存在性。
 例子: 可以用来判断一个向量场组是否可以构成一个叶状结构。
 
 
-10. Gauss-Bonnet theorem (高斯-博内定理):
+- Gauss-Bonnet theorem (高斯-博内定理):
 
 作用: 将曲面的高斯曲率与其拓扑不变量联系起来。
 影响: 是微分几何的经典定理，揭示了曲面的几何性质与其拓扑性质之间的深刻联系。
@@ -94,10 +94,10 @@ Gauss-Bonnet theorem
 一些定理之间的直接联系：
 
 
-Stokes's theorem 是 de Rham 定理的关键组成部分.
-Levi-Civita 联络用于定义曲率，进而可以计算 Gaussian curvature.
-Frobenius theorem 可以用来判断一个向量场组是否构成一个 foliation.
-Gauss-Bonnet theorem 将 Gaussian curvature 与拓扑不变量 (欧拉示性数) 联系起来.
+- Stokes's theorem 是 de Rham 定理的关键组成部分.
+- Levi-Civita 联络用于定义曲率，进而可以计算 Gaussian curvature.
+- Frobenius theorem 可以用来判断一个向量场组是否构成一个 foliation.
+- Gauss-Bonnet theorem 将 Gaussian curvature 与拓扑不变量 (欧拉示性数) 联系起来.
 
 # 利用微分结构研究拓扑性质。
 
