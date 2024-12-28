@@ -8,18 +8,18 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.8.7"
+#gem "jekyll"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 #gem "merlot"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
-gem "github-pages", '206', group: :jekyll_plugins
+gem "github-pages", '232',group: :jekyll_plugins
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.13.0"
+  gem "jekyll-feed"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -31,3 +31,15 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 gem 'jekyll-paginate'
 
 gem 'commonmarker'
+
+gem "webrick", "~> 1.9"
+
+gem 'csv'
+
+gem 'bigdecimal'
+
+gem 'rexml'
+
+#gem 'liquid'
+#gem 'liquid', '~> 5.0'
+gem 'jekyll', '= 3.10.0'
