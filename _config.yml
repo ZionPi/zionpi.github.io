@@ -18,14 +18,14 @@ description: 形式与内容 #岁寒,然后知松柏之后凋也!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://zionpi.com" # the base hostname & protocol for your site, e.g. http://example.com
 keywords: 数学,概念,观念,quals, 智能, AI,Universe,Culture,Mind,Music,Movie,Digest,Critical Thinking
-#twitter_username: 
-#github_username:  
+#twitter_username:
+#github_username:
 
 # Build settings
 #markdown: kramdown
 #theme: jekyll-theme-merlot
 #plugins:
-  #- jekyll-feed
+#- jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -54,7 +54,7 @@ navbar-links:
     - 随机: "http://www.randomservices.org"
   AI:
     - index: "https://hai.stanford.edu/research/ai-index-2021"
-    - 维基: "https://wiki.pathmind.com" 
+    - 维基: "https://wiki.pathmind.com"
     - Playbook: "https://a16z.com/ai-survey"
     - SOTACODE: "https://paperswithcode.com/state-of-the-art"
     - SOTA: "https://www.stateoftheart.ai/"
@@ -68,7 +68,7 @@ navbar-links:
     - 会议纪要: "https://oll.libertyfund.org/title/farrand-the-records-of-the-federal-convention-of-1787-vol-1"
     - 运行方式: "https://fivebooks.com/best-books/venkatesh-rao-how-world-works/"
     - SICM: "https://tgvaughan.github.io/sicm/toc.html"
-    - 507 : "http://507movements.com"
+    - 507: "http://507movements.com"
     - mba: "https://personalmba.com"
     - 机械: "https://animagraffs.com/"
     - Music: "http://musicforprogramming.net/"
@@ -80,6 +80,7 @@ navbar-links:
     - 契约: "https://www.contributor-covenant.org"
   资料:
     - 须知: "https://github.com/mtdvio/every-programmer-should-know"
+    - 生命尺度: "life"
     - 法考: "law-test-guide"
     - 算法: "neetcode150"
     - 流体模拟: "https://github.com/cselab/aphros/wiki/Aphros-Explorer"
@@ -105,7 +106,7 @@ navbar-links:
     - Josh: "https://personalmba.com/best-business-books/"
     - Javier: "https://www.amazon.com/ideas/amzn1.account.AHIO6TFT6YFJLAW7HGPOFKVYJX5Q"
     - ZachStar: "https://www.amazon.com/shop/majorprep"
-    - 普林斯顿: "https://press.princeton.edu/collections/princeton-science-library" 
+    - 普林斯顿: "https://press.princeton.edu/collections/princeton-science-library"
     - Invest: "invest"
     - Child: "https://github.com/searchableguy/awesome-illustrated-guides"
   语言:
@@ -122,8 +123,6 @@ navbar-links:
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/avatar-icon.png"
-
-
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -166,10 +165,10 @@ social-network-links:
   email: "zhanngpenng@gmail.com"
   github: zionpi
   twitter: zoplaplace
-#  reddit: yourname
-#  google-plus: +DeanAttali
-#  linkedin: daattali
-#  xing: yourname
+  #  reddit: yourname
+  #  google-plus: +DeanAttali
+  #  linkedin: daattali
+  #  xing: yourname
   stackoverflow: 1066501/zionpi
 #  snapchat: deanat78
 #  instagram: deanat78
@@ -189,7 +188,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "zhanngpenng@gmail.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "zhanngpenng@gmail.com" # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -246,16 +245,14 @@ kramdown:
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
+      comments: true # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
-  -
-    scope:
+  - scope:
       path: "" # all files
     values:
       layout: "page"
@@ -277,8 +274,8 @@ exclude:
 
 # prose.io config
 prose:
-  rooturl: '_posts'
-  media: 'img'
+  rooturl: "_posts"
+  media: "img"
   ignore:
     - 404.html
     - LICENSE
@@ -330,6 +327,5 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
