@@ -1,7 +1,7 @@
 ---
 layout: page
-title:
-subtitle:
+title: Ars longa, vita brevis
+subtitle: 形式与内容，一座沿着年份与主题展开的个人知识档案馆
 use-site-title: true
 bigimg: 
   - "/img/path.jpeg"
@@ -15,68 +15,259 @@ bigimg:
   - "/img/lake.jpg"
 ---
 
-<div class="posts-list">
-  {% for post in paginator.posts %}
-  <article class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-	  <h2 class="post-title">{{ post.title }}</h2>
+{% assign newest_post = site.posts.first %}
+{% assign oldest_post = site.posts.last %}
 
-	  {% if post.subtitle %}
-	  <h3 class="post-subtitle">
-	    {{ post.subtitle }}
-	  </h3>
-	  {% endif %}
-    </a>
-
-    <p class="post-meta">
-      Posted on {{ post.date | date: "%B %-d, %Y" }}
-    </p>
-
-    <div class="post-entry-container">
-      {% if post.image %}
-      <div class="post-image">
-        <a href="{{ post.url | prepend: site.baseurl }}">
-          <img src="{{ post.image }}">
-        </a>
+{% if paginator.page == 1 %}
+<section class="landing-shell">
+  <div class="landing-grid">
+    <div class="landing-intro">
+      <span class="landing-kicker">Personal Knowledge Archive</span>
+      <h2>数学、系统、AI，和别的一些事。</h2>
+      <p class="landing-note"><em>“对于不可控的事情，我们要保持乐观；对于可控的事情，我们要保持谨慎。”</em><span class="landing-note-source">———— Epictetus</span></p>
+      <div class="landing-actions">
+        <a class="landing-button primary" href="{{ '/archive' | relative_url }}">进入时间归档</a>
+        <a class="landing-button" href="{{ '/tags' | relative_url }}">浏览标签索引</a>
       </div>
-      {% endif %}
-      <div class="post-entry">
-        {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
-        {% assign excerpt_word_count = post.excerpt | number_of_words %}
-        {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
-          <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
+    </div>
+
+    <aside class="landing-aside">
+      <div class="site-stat-card">
+        <span class="stat-label">总文章数</span>
+        <span class="stat-value">{{ site.posts.size }}</span>
+      </div>
+      <div class="site-stat-card">
+        <span class="stat-label">起始年份</span>
+        <span class="stat-value">{{ oldest_post.date | date: "%Y" }}</span>
+      </div>
+      <div class="site-stat-card">
+        <span class="stat-label">最近更新</span>
+        <span class="stat-value">{{ newest_post.date | date: "%Y.%m.%d" }}</span>
+      </div>
+    </aside>
+  </div>
+</section>
+
+<section class="chapter-section">
+  <div class="section-heading">
+    <span class="section-label">Recent</span>
+    <h2>最近写下的几篇</h2>
+  </div>
+
+  <div class="featured-posts-grid">
+    {% for post in paginator.posts limit:3 %}
+      {% assign preview_text = post.summary | default: post.content | strip_html | replace: '```', '' | replace: '`', '' | replace: '**', '' | replace: '*', '' | strip_newlines | normalize_whitespace | xml_escape %}
+      <article class="featured-post-card">
+        <div class="featured-post-meta">{{ post.date | date: "%Y年%-m月%-d日" }}</div>
+        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+        {% if post.subtitle %}
+          <p class="featured-post-subtitle">{{ post.subtitle }}</p>
         {% endif %}
-      </div>
-    </div>
+        <p>{{ preview_text | truncate: 120 }}</p>
+        <a class="featured-post-link" href="{{ post.url | relative_url }}">继续阅读</a>
+      </article>
+    {% endfor %}
+  </div>
+</section>
 
-    {% if post.tags.size > 0 %}
-    <div class="blog-tags">
-      Tags:
-      {% if site.link-tags %}
-      {% for tag in post.tags %}
-      <a href="{{ site.baseurl }}/tags#{{- tag -}}">{{- tag -}}</a>
-      {% endfor %}
+<section class="chapter-section">
+  <div class="section-heading with-trail">
+    <div>
+      <span class="section-label">Timeline</span>
+      <h2>按年份进入</h2>
+    </div>
+    <a class="section-trail-link" href="{{ '/archive' | relative_url }}">完整归档</a>
+  </div>
+
+  <div class="year-jump-strip">
+    {% assign year_count = 0 %}
+    {% assign last_year = "" %}
+    {% for post in site.posts %}
+      {% capture current_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+      {% if current_year != last_year and year_count < 8 %}
+        <a href="#year-{{ current_year }}">{{ current_year }}</a>
+        {% assign last_year = current_year %}
+        {% assign year_count = year_count | plus: 1 %}
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <div class="year-deck">
+    {% assign year_count = 0 %}
+    {% assign last_year = "" %}
+    {% for post in site.posts %}
+      {% capture current_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+      {% if current_year != last_year %}
+        {% if year_count > 0 %}
+        </section>
+        {% endif %}
+        {% if year_count < 6 %}
+        <section class="year-block" id="year-{{ current_year }}">
+          <div class="year-block-label">{{ current_year }}</div>
+          <div class="year-block-content">
+            <div class="year-block-summary">
+              <a class="year-block-link" href="{{ '/archive' | relative_url }}#year-{{ current_year }}">查看 {{ current_year }} 全部文章</a>
+            </div>
+            <ul class="year-post-list">
+              {% assign posts_shown = 0 %}
+              {% for year_post in site.posts %}
+                {% capture year_post_year %}{{ year_post.date | date: "%Y" }}{% endcapture %}
+                {% if year_post_year == current_year %}
+                  {% assign posts_shown = posts_shown | plus: 1 %}
+                  {% if posts_shown <= 3 %}
+                    <li>
+                      <time datetime="{{ year_post.date | date_to_xmlschema }}">{{ year_post.date | date: "%m.%d" }}</time>
+                      <a href="{{ year_post.url | relative_url }}">{{ year_post.title }}</a>
+                    </li>
+                  {% endif %}
+                {% endif %}
+              {% endfor %}
+            </ul>
+          </div>
+        </section>
+        {% endif %}
+        {% assign last_year = current_year %}
+        {% assign year_count = year_count | plus: 1 %}
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+
+<section class="chapter-section">
+  <div class="section-heading with-trail">
+    <div>
+      <span class="section-label">Flow</span>
+      {% if paginator.page == 1 %}
+      <h2>更多文章</h2>
       {% else %}
-        {{ post.tags | join: ", " }}
+      <h2>第 {{ paginator.page }} 页</h2>
       {% endif %}
     </div>
+    {% if paginator.page > 1 %}
+    <a class="section-trail-link" href="{{ '/' | relative_url }}">返回首页</a>
     {% endif %}
+  </div>
 
-   </article>
-  {% endfor %}
-</div>
+  <div class="posts-list refined-list">
+    {% if paginator.page == 1 %}
+    {% for post in paginator.posts offset:3 %}
+    {% assign preview_text = post.summary | default: post.content | strip_html | replace: '```', '' | replace: '`', '' | replace: '**', '' | replace: '*', '' | strip_newlines | normalize_whitespace | xml_escape %}
+    <article class="post-preview">
+      <a href="{{ post.url | relative_url }}">
+        <h3 class="post-title">{{ post.title }}</h3>
+        {% if post.subtitle %}
+        <p class="post-subtitle">{{ post.subtitle }}</p>
+        {% endif %}
+      </a>
 
-{% if paginator.total_pages > 1 %}
-<ul class="pager main-pager">
-  {% if paginator.previous_page %}
-  <li class="previous">
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
-  </li>
+      <p class="post-meta">
+        {{ post.date | date: "%Y年%-m月%-d日" }}
+      </p>
+
+      <div class="post-entry-container">
+        <div class="post-entry">
+          <p>{{ preview_text | truncate: 110 }}</p>
+          <div class="post-preview-footer">
+            <a href="{{ post.url | relative_url }}" class="post-read-more">继续阅读</a>
+          </div>
+        </div>
+      </div>
+
+      {% if post.tags.size > 0 %}
+      <div class="blog-tags">
+        {% for tag in post.tags limit:4 %}
+        <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </article>
+    {% endfor %}
+    {% else %}
+    {% for post in paginator.posts %}
+    {% assign preview_text = post.summary | default: post.content | strip_html | replace: '```', '' | replace: '`', '' | replace: '**', '' | replace: '*', '' | strip_newlines | normalize_whitespace | xml_escape %}
+    <article class="post-preview">
+      <a href="{{ post.url | relative_url }}">
+        <h3 class="post-title">{{ post.title }}</h3>
+        {% if post.subtitle %}
+        <p class="post-subtitle">{{ post.subtitle }}</p>
+        {% endif %}
+      </a>
+
+      <p class="post-meta">
+        {{ post.date | date: "%Y年%-m月%-d日" }}
+      </p>
+
+      <div class="post-entry-container">
+        <div class="post-entry">
+          <p>{{ preview_text | truncate: 110 }}</p>
+          <div class="post-preview-footer">
+            <a href="{{ post.url | relative_url }}" class="post-read-more">继续阅读</a>
+          </div>
+        </div>
+      </div>
+
+      {% if post.tags.size > 0 %}
+      <div class="blog-tags">
+        {% for tag in post.tags limit:4 %}
+        <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </article>
+    {% endfor %}
+    {% endif %}
+  </div>
+
+  {% if paginator.total_pages > 1 %}
+  <ul class="pager main-pager">
+    {% if paginator.previous_page %}
+    <li class="previous">
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; 更新一些</a>
+    </li>
+    {% endif %}
+    <li class="pager-pages">
+      {% assign window_start = paginator.page | minus: 2 %}
+      {% assign window_end = paginator.page | plus: 2 %}
+      {% if window_start < 1 %}
+        {% assign window_start = 1 %}
+      {% endif %}
+      {% if window_end > paginator.total_pages %}
+        {% assign window_end = paginator.total_pages %}
+      {% endif %}
+      {% assign total_minus_one = paginator.total_pages | minus: 1 %}
+      {% assign start_minus_one = window_start | minus: 1 %}
+      {% assign end_plus_one = window_end | plus: 1 %}
+
+      {% if window_start > 1 %}
+        <a class="pager-page" href="{{ '/' | relative_url }}">1</a>
+        {% if window_start > 2 %}
+          <span class="pager-ellipsis">…</span>
+        {% endif %}
+      {% endif %}
+
+      {% for page_num in (window_start..window_end) %}
+        {% if page_num == paginator.page %}
+          <span class="pager-page current">{{ page_num }}</span>
+        {% elsif page_num == 1 %}
+          <a class="pager-page" href="{{ '/' | relative_url }}">{{ page_num }}</a>
+        {% else %}
+          <a class="pager-page" href="{{ site.paginate_path | replace: ':num', page_num | relative_url }}">{{ page_num }}</a>
+        {% endif %}
+      {% endfor %}
+
+      {% if window_end < paginator.total_pages %}
+        {% if window_end < total_minus_one %}
+          <span class="pager-ellipsis">…</span>
+        {% endif %}
+        <a class="pager-page" href="{{ site.paginate_path | replace: ':num', paginator.total_pages | relative_url }}">{{ paginator.total_pages }}</a>
+      {% endif %}
+    </li>
+    {% if paginator.next_page %}
+    <li class="next">
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">更早一些 &rarr;</a>
+    </li>
+    {% endif %}
+  </ul>
   {% endif %}
-  {% if paginator.next_page %}
-  <li class="next">
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
+</section>

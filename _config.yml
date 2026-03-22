@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Ars longa, vita brevis
-description: 形式与内容 #岁寒,然后知松柏之后凋也!
+description: 一座按时间与主题展开的个人知识档案馆
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://zionpi.com" # the base hostname & protocol for your site, e.g. http://example.com
 keywords: 数学,概念,观念,quals, 智能, AI,Universe,Culture,Mind,Music,Movie,Digest,Critical Thinking
@@ -44,80 +44,12 @@ github: [metadata]
 
 # List of links in the navigation bar
 navbar-links:
+  首页: ""
+  归档: "archive"
+  标签: "tags"
+  主题: "themes"
+  资源: "resources"
   关于: "about"
-  数学:
-    - 地图: "https://mathmap.quantamagazine.org/map/"
-    - 历史: "https://fivebooks.com/best-books/history-mathematics-robin-wilson/"
-    - 应用: "https://fivebooks.com/best-books/nicholas-higham-applied-mathematics/"
-    - Quals: "mathematics-quals"
-    - 太空: "https://er.jsc.nasa.gov/seh/math.html"
-    - 随机: "http://www.randomservices.org"
-  AI:
-    - index: "https://hai.stanford.edu/research/ai-index-2021"
-    - 维基: "https://wiki.pathmind.com"
-    - Playbook: "https://a16z.com/ai-survey"
-    - SOTACODE: "https://paperswithcode.com/state-of-the-art"
-    - SOTA: "https://www.stateoftheart.ai/"
-    - 机器学习: "http://www.fast.ai/2018/09/26/ml-launch/"
-    - 神经网络: "http://karpathy.github.io/neuralnets/"
-  世界:
-    - 哲学: "philosophy"
-    - 读论文: "https://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html"
-    - 提问: "https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md"
-    - 问问题: "https://stackoverflow.com/help/minimal-reproducible-example"
-    - 会议纪要: "https://oll.libertyfund.org/title/farrand-the-records-of-the-federal-convention-of-1787-vol-1"
-    - 运行方式: "https://fivebooks.com/best-books/venkatesh-rao-how-world-works/"
-    - SICM: "https://tgvaughan.github.io/sicm/toc.html"
-    - 507: "http://507movements.com"
-    - mba: "https://personalmba.com"
-    - 机械: "https://animagraffs.com/"
-    - Music: "http://musicforprogramming.net/"
-    - T-Talk: "https://www.ybrikman.com/writing/2014/05/29/must-see-tech-talks-for-every-programmer/"
-    - 通识: "https://en.wikipedia.org/wiki/Very_Short_Introductions"
-    - 五本书: "https://fivebooks.com"
-    - 能源环境: "https://www.amazon.com/Vaclav-Smil/e/B001HCXT62"
-    - Mars: "https://mars-sim.sourceforge.io"
-    - 契约: "https://www.contributor-covenant.org"
-  资料:
-    - 须知: "https://github.com/mtdvio/every-programmer-should-know"
-    - 生命尺度: "life"
-    - 法考: "law-test-guide"
-    - 算法: "neetcode150"
-    - 流体模拟: "https://github.com/cselab/aphros/wiki/Aphros-Explorer"
-    - 工具箱: "toolbox"
-    - 讨论指南: "https://news.ycombinator.com/newsguidelines.html"
-    - NASA工艺: "https://workmanship.nasa.gov/lib/insp/2%20books/frameset.html"
-    - 乌龟几何: "https://www.amazon.com/Turtle-Geometry-Mathematics-Artificial-Intelligence/dp/0262510375"
-    - 自学CS: "https://teachyourselfcs.com/"
-    - CPU: "http://www.buthowdoitknow.com/"
-    - 比赛: "competitions"
-    - md: "http://www.markdowntutorial.com/"
-    - 汇编OS: "https://kolibrios.org/en/"
-    - TETRIS: "https://github.com/jdah/tetris-os"
-    - 编译器: "https://generalproblem.net/lets_build_a_compiler/01-starting-out/"
-    - N2T: "https://www.nand2tetris.org/demos"
-    - Phrack: "http://phrack.org/issues/7/3.html"
-    - 一封信: "http://catb.org/jargon/html/appendixc.html"
-  书单:
-    - SE入门: "http://web.eecs.utk.edu/~azh/blog/booksformystudents.html"
-    - Patrick: "https://patrickcollison.com/bookshelf"
-    - Stewart: "https://www.brainpickings.org/2014/03/07/stewart-brand-reading-list/"
-    - AlanKay: "http://www.squeakland.org/resources/books/readingList.jsp"
-    - Josh: "https://personalmba.com/best-business-books/"
-    - Javier: "https://www.amazon.com/ideas/amzn1.account.AHIO6TFT6YFJLAW7HGPOFKVYJX5Q"
-    - ZachStar: "https://www.amazon.com/shop/majorprep"
-    - 普林斯顿: "https://press.princeton.edu/collections/princeton-science-library"
-    - Invest: "invest"
-    - Child: "https://github.com/searchableguy/awesome-illustrated-guides"
-  语言:
-    - 英语:
-    - 德语:
-    - 法语: "french"
-    - 西班牙语:
-    - 意大利语:
-    - 俄语:
-    - 其它语言:
-    - 音乐: "https://learningmusic.ableton.com"
 #主页: "http://zionpi.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -132,15 +64,15 @@ avatar: "/img/avatar-icon.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
-navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#F5F5F5"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+navbar-col: "#f7f1e4"
+navbar-text-col: "#3f3323"
+navbar-children-col: "#fffaf0"
+page-col: "#fbf7ef"
+link-col: "#8a4b08"
+hover-col: "#b45309"
+footer-col: "#efe5d3"
+footer-text-col: "#6b5b45"
+footer-link-col: "#3f3323"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
@@ -225,7 +157,7 @@ url-pretty: "zhanngpenng@gmail.com" # eg. "deanattali.com/beautiful-jekyll"
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 0
+excerpt_length: 24
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
@@ -270,6 +202,7 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
+  - TODO.md
   - Vagrantfile
 
 # prose.io config

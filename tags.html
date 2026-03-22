@@ -1,7 +1,38 @@
 ---
 layout: page
-title: 'Tag Index'
+title: 标签索引
+subtitle:
 ---
+
+<div class="archive-toolbar archive-toolbar-compact">
+    <a class="archive-chip" href="{{ '/' | relative_url }}">首页</a>
+    <a class="archive-chip" href="{{ '/archive' | relative_url }}">时间归档</a>
+</div>
+
+<section class="tag-atlas">
+  <div class="section-heading">
+    <span class="section-label">Atlas</span>
+    <h2>几个主题</h2>
+  </div>
+
+  <div class="topic-atlas-grid">
+    <a class="topic-atlas-card" href="{{ '/mathematics-quals' | relative_url }}">
+      <span class="topic-atlas-kicker">Math</span>
+      <h3>数学与概念骨架</h3>
+      <p>分析、代数、拓扑，以及更高层的结构。</p>
+    </a>
+    <a class="topic-atlas-card" href="{{ '/toolbox' | relative_url }}">
+      <span class="topic-atlas-kicker">Systems</span>
+      <h3>系统、工程与工具</h3>
+      <p>实现、性能、工具与做事的方法。</p>
+    </a>
+    <a class="topic-atlas-card" href="{{ '/philosophy' | relative_url }}">
+      <span class="topic-atlas-kicker">World</span>
+      <h3>哲学、社会与判断</h3>
+      <p>哲学、社会与更长期的问题。</p>
+    </a>
+  </div>
+</section>
 
 {%- capture site_tags -%}
     {%- for tag in site.tags -%}
@@ -10,9 +41,16 @@ title: 'Tag Index'
 {%- endcapture -%}
 {%- assign tags_list = site_tags | split:',' | sort -%}
 
+<div class="section-heading">
+    <span class="section-label">Index</span>
+    <h2>全部标签</h2>
+</div>
+
+<div class="tag-cloud-grid">
 {%- for tag in tags_list -%}
     <a href="#{{- tag -}}" class="btn btn-primary tag-btn"><i class="fa fa-tag" aria-hidden="true"></i>&nbsp;{{- tag -}}&nbsp;({{site.tags[tag].size}})</a>
 {%- endfor -%}
+</div>
 
 <div id="full-tags-list">
 {%- for tag in tags_list -%}
@@ -21,11 +59,16 @@ title: 'Tag Index'
         &nbsp;{{- tag -}}&nbsp;({{site.tags[tag].size}})
     </h2>
     <div class="post-list">
+        {% assign latest_post = site.tags[tag].first %}
         {%- for post in site.tags[tag] -%}
             <div class="tag-entry">
+                <div class="tag-entry-meta">
+                    <span>{{ site.tags[tag].size }} 篇</span>
+                    <span>最近更新 {{ latest_post.date | date: "%Y.%m.%d" }}</span>
+                </div>
                 <a href="{{- site.url -}}{{- post.url -}}">{{- post.title -}}</a>
                 <div class="entry-date">
-                    <time datetime="{{- post.date | date_to_xmlschema -}}">{{- post.date | date: "%B %d, %Y" -}}</time>
+                    <time datetime="{{- post.date | date_to_xmlschema -}}">{{- post.date | date: "%Y年%-m月%-d日" -}}</time>
                 </div>
             </div>
         {%- endfor -%}

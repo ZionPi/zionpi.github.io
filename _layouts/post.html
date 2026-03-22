@@ -4,6 +4,10 @@ layout: base
 
 {% include header.html type="post" %}
 
+{% capture page_year %}{{ page.date | date: "%Y" }}{% endcapture %}
+{% assign same_year_count = 0 %}
+{% assign related_count = 0 %}
+
 <div class="container">
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -35,9 +39,30 @@ layout: base
         {{ content }}
       </article>
 
+      <section class="post-pathways">
+        <div class="post-pathways-header">
+          <span class="section-label">Pathways</span>
+          <h2>继续阅读</h2>
+        </div>
+
+        <div class="post-pathways-grid">
+          <div class="post-path-card">
+            <span class="post-path-kicker">Archive</span>
+            <h3>回到时间归档</h3>
+            <a href="{{ '/archive' | relative_url }}#year-{{ page_year }}">查看 {{ page_year }} 年归档</a>
+          </div>
+
+          <div class="post-path-card">
+            <span class="post-path-kicker">Tag Map</span>
+            <h3>切换到主题索引</h3>
+            <a href="{{ '/tags' | relative_url }}">打开标签索引</a>
+          </div>
+        </div>
+      </section>
+
       {% if page.tags.size > 0 %}
         <div class="blog-tags">
-          Tags:
+          Topics:
           {% if site.link-tags %}
           {% for tag in page.tags %}
             <a href="{{ site.baseurl }}/tags#{{- tag -}}">{{- tag -}}</a>
@@ -52,15 +77,66 @@ layout: base
         {% include social-share.html %}
       {% endif %}
 
+      <section class="post-followups">
+        <div class="post-followup-group">
+          <h3>同一年里还写过</h3>
+          <ul>
+            {% for post in site.posts %}
+              {% capture candidate_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+              {% if post.url != page.url and candidate_year == page_year and same_year_count < 4 %}
+                <li>
+                  <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                  <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m.%d" }}</time>
+                </li>
+                {% assign same_year_count = same_year_count | plus: 1 %}
+              {% endif %}
+            {% endfor %}
+            {% if same_year_count == 0 %}
+              <li class="empty-state">这一年暂时没有别的文章可并排查看。</li>
+            {% endif %}
+          </ul>
+        </div>
+
+        <div class="post-followup-group">
+          <h3>同主题的延伸阅读</h3>
+          <ul>
+            {% for post in site.posts %}
+              {% if post.url != page.url and related_count < 4 %}
+                {% assign matched = false %}
+                {% for page_tag in page.tags %}
+                  {% if matched == false %}
+                    {% for post_tag in post.tags %}
+                      {% if page_tag == post_tag %}
+                        {% assign matched = true %}
+                      {% endif %}
+                    {% endfor %}
+                  {% endif %}
+                {% endfor %}
+                {% if matched %}
+                  <li>
+                    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y.%m.%d" }}</time>
+                  </li>
+                  {% assign related_count = related_count | plus: 1 %}
+                {% endif %}
+              {% endif %}
+            {% endfor %}
+            {% if related_count == 0 %}
+              <li class="empty-state">这篇文章暂时没有带标签的近邻。</li>
+            {% endif %}
+          </ul>
+        </div>
+      </section>
+
       <ul class="pager blog-pager">
         {% if page.previous.url %}
         <li class="previous">
-          <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
+          <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; 更近的一篇</a>
         </li>
         {% endif %}
         {% if page.next.url %}
         <li class="next">
-          <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
+          <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">更早的一篇 &rarr;</a>
         </li>
         {% endif %}
       </ul>

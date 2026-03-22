@@ -3,12 +3,9 @@ layout: post
 title: 拜占庭将军问题
 tags: 拜占庭将军 一致性问题 Byzantine fault tolerance BFT 拜占庭容错
 --- 
-```
-Leslie Lamport在其论文中描述了如下问题：
-一组拜占庭将军分别各率领一支军队共同围困一座城市。为了简化问题，将各支军队的行动策略限定为进攻或撤离两种。因为部分军队进攻部分军队撤离可能会造成灾难性后果，因此各位将军必须通过投票来达成一致策略，即所有军队一起进攻或所有军队一起撤离。因为各位将军分处城市不同方向，他们只能通过信使互相联系。在投票过程中每位将军都将自己投票给进攻还是撤退的信息通过信使分别通知其他所有将军，这样一来每位将军根据自己的投票和其他所有将军送来的信息就可以知道共同的投票结果而决定行动策略。
-
-系统的问题在于，可能将军中出现叛徒，他们不仅可能向较为糟糕的策略投票，还可能选择性地发送投票信息。假设有9位将军投票，其中1名叛徒。8名忠诚的将军中出现了4人投进攻，4人投撤离的情况。这时候叛徒可能故意给4名投进攻的将领送信表示投票进攻，而给4名投撤离的将领送信表示投撤离。这样一来在4名投进攻的将领看来，投票结果是5人投进攻，从而发起进攻；而在4名投撤离的将军看来则是5人投撤离。这样各支军队的一致协同就遭到了破坏。
-```
+> Leslie Lamport 在其论文中描述了如下问题：一组拜占庭将军分别各率领一支军队共同围困一座城市。为了简化问题，将各支军队的行动策略限定为进攻或撤离两种。因为部分军队进攻部分军队撤离可能会造成灾难性后果，因此各位将军必须通过投票来达成一致策略，即所有军队一起进攻或所有军队一起撤离。因为各位将军分处城市不同方向，他们只能通过信使互相联系。在投票过程中每位将军都将自己投票给进攻还是撤退的信息通过信使分别通知其他所有将军，这样一来每位将军根据自己的投票和其他所有将军送来的信息就可以知道共同的投票结果而决定行动策略。
+>
+> 系统的问题在于，可能将军中出现叛徒，他们不仅可能向较为糟糕的策略投票，还可能选择性地发送投票信息。假设有 9 位将军投票，其中 1 名叛徒。8 名忠诚的将军中出现了 4 人投进攻、4 人投撤离的情况。这时候叛徒可能故意给 4 名投进攻的将领送信表示投票进攻，而给 4 名投撤离的将领送信表示投撤离。这样一来，在 4 名投进攻的将领看来，投票结果是 5 人投进攻，从而发起进攻；而在 4 名投撤离的将军看来则是 5 人投撤离。这样各支军队的一致协同就遭到了破坏。
 
 虽然通过引入了一个故事可以增加故事的吸引力，再加上**拜占庭**这个描述反而更使人头大。仅仅通过文本分析，可以提出很多文中并没有给出的消息。
 比如，9个将军，每个将军都要给其它8个将军投票吗？为什么会引入忠臣和叛徒这样的字眼？忠臣的将军和叛徒的将军判断依据是什么？而且，每个将军在发出投票的时候，
@@ -26,9 +23,7 @@ Leslie Lamport在其论文中描述了如下问题：
 
 英文版中说，如果loyal的将军数目是disloyal的3倍，那么就可以实现 **Byzantine fault tolerance**
 
-```
-Byzantine fault tolerance can be achieved if the number of loyal (non-faulty) generals is greater than three times the number of disloyal (faulty) generals. There can be a default vote value given to missing messages. For example, missing messages can be given a "null" value. Further, if the agreement is that the null votes are in the majority, a pre-assigned default strategy can be used (e.g., retreat).
-```
+> Byzantine fault tolerance can be achieved if the number of loyal (non-faulty) generals is greater than three times the number of disloyal (faulty) generals. There can be a default vote value given to missing messages. For example, missing messages can be given a "null" value. Further, if the agreement is that the null votes are in the majority, a pre-assigned default strategy can be used (e.g., retreat).
 
 # 解决方案
 ## 第一招：少数服从多数
@@ -58,4 +53,3 @@ Byzantine fault tolerance can be achieved if the number of loyal (non-faulty) ge
 # 参考资料
  - [拜占庭将军问题](https://zh.wikipedia.org/wiki/%E6%8B%9C%E5%8D%A0%E5%BA%AD%E5%B0%86%E5%86%9B%E9%97%AE%E9%A2%98)
  - [Byzantine fault](https://en.wikipedia.org/wiki/Byzantine_fault)
-

@@ -1,7 +1,25 @@
 _site
 .sass-cache
+.jekyll-cache
 .jekyll-metadata
 merlot
 
 .DS_Store
+assets/.DS_Store
+img/.DS_Store
+*.swp
+*.swo
+*~
+*.tmp
+*.bak
+*.orig
+index.md_cp
+@
+！
+TODO.md
+AGENT.md
 _posts/.*
+_drafts/*
+!_drafts/.gitkeep
+_private_posts/*
+!_private_posts/.gitkeep

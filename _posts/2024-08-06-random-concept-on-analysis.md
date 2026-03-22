@@ -4,17 +4,15 @@ title: 实分析中的定理
 tags: 分析 生僻 陌生概念 Baire Hahn  Plancherel  Fatou Riesz Haar Radon-Nikodym 测度
 --- 
 
-```
-Baire category theorem
-Hahn-Banach theorem
-Plancherel’s theorem
-Fubini’s theorem
-Fatou’s lemma
-Riesz representation theorem
-the Haar integral
-Fourier inversion
-Radon-Nikodym theorem
-```
+- Baire category theorem
+- Hahn-Banach theorem
+- Plancherel’s theorem
+- Fubini’s theorem
+- Fatou’s lemma
+- Riesz representation theorem
+- the Haar integral
+- Fourier inversion
+- Radon-Nikodym theorem
 
 # 总的来说
 - **泛函分析:**  Hahn-Banach 定理是泛函分析的基石，它允许我们扩展线性泛函。Riesz 表示定理则将线性泛函与测度联系起来。
@@ -37,13 +35,7 @@ Radon-Nikodym theorem
 - 作用: 哈恩-巴拿赫定理允许我们在保持线性性和范数的情况下，将定义在向量空间子空间上的线性泛函延拓到整个向量空间。
 - 影响: 它是泛函分析的基石之一，有着广泛的应用，例如证明对偶空间非平凡、分离超平面存在定理等。
 - 例子: 
-```
-应用哈恩-巴拿赫定理可以证明，
-对于赋范线性空间 $X$ 中的
-任意非零向量 $x$，
-存在一个连续线性泛函 $f$，
-使得 $f(x) = |x|$ 且 $|f| = 1$.
-```
+> 应用哈恩-巴拿赫定理可以证明，对于赋范线性空间 $X$ 中的任意非零向量 $x$，存在一个连续线性泛函 $f$，使得 $f(x) = |x|$ 且 $|f| = 1$。
 
 ## Plancherel’s Theorem (普朗歇尔定理):
 

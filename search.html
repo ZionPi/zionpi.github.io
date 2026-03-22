@@ -1,0 +1,29 @@
+---
+layout: page
+title: 搜索
+subtitle: 搜全站内容，包括文章、专题页和固定页面
+bigimg:
+  - "/img/path.jpeg"
+js:
+  - "/js/search.js"
+---
+
+<section class="search-shell site-search-root" data-search-index="{{ '/search.json' | relative_url }}" data-search-mode="page">
+  <div class="search-panel">
+    <label class="search-label" for="site-search-input">搜索全站内容</label>
+    <div class="search-input-row">
+      <input id="site-search-input" class="search-input site-search-input" type="search" placeholder="输入标题、标签、关键词，例如 Fourier / Netty / 哲学" autocomplete="off" />
+      <button class="search-clear site-search-clear" type="button">清空</button>
+    </div>
+    <p class="search-hint">支持标题、标签和正文片段匹配。标题命中优先，文章和固定页面都会进入索引。</p>
+  </div>
+
+  <div class="search-status site-search-status">正在加载索引…</div>
+
+  <div class="search-results site-search-results">
+    <div class="search-empty-card">
+      <h3>先输入一个词。</h3>
+      <p>如果你记得年份，可以走归档；如果记得概念，也可以直接来这里搜。</p>
+    </div>
+  </div>
+</section>
