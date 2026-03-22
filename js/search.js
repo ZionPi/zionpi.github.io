@@ -3,7 +3,13 @@
   var sharedIndexPromise = null;
 
   function normalizeText(value) {
-    return (value || "").toString().toLowerCase().replace(/\s+/g, " ").trim();
+    return (value || "")
+      .toString()
+      .toLowerCase()
+      .replace(/[-_/]+/g, " ")
+      .replace(/[^\w\u4e00-\u9fa5\s]+/g, " ")
+      .replace(/\s+/g, " ")
+      .trim();
   }
 
   function buildSnippet(text, query) {
@@ -142,11 +148,15 @@
       var matches = documents.map(function(doc) {
         var score = 0;
         var title = normalizeText(doc.title);
+        var slug = normalizeText(doc.slug);
         var tags = normalizeText(doc.tags);
         var content = normalizeText(doc.content);
 
         if (title.indexOf(normalizedQuery) !== -1) {
           score += 12;
+        }
+        if (slug.indexOf(normalizedQuery) !== -1) {
+          score += 10;
         }
         if (tags.indexOf(normalizedQuery) !== -1) {
           score += 8;

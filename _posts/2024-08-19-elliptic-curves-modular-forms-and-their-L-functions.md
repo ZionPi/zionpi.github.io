@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  Elliptic Curves, Modular Forms, and Their L-functions
+title:  椭圆曲线、模形式与它们的 L-函数
 tags: 
 ---  
 
-This phrase names one of the central constellations of modern number theory. It is not just a list of topics; it is a story about how algebra, analysis, and arithmetic unexpectedly converge.
+这几个词放在一起，几乎就是现代数论里最核心的一条线索之一。它们不是三个彼此平行的主题，而是在很深的层面上彼此勾连：代数、分析与算术会在这里突然汇合。
 
-An elliptic curve begins as a cubic equation together with a distinguished point, but very quickly it becomes much more than a plane curve. It carries a group law, has arithmetic over finite fields, and produces deep invariants such as its rank, torsion subgroup, and local reduction data.
+椭圆曲线（elliptic curve）表面上只是一个三次方程再加上一个特殊点，但它很快就不再只是平面上的一条曲线。它带有群结构，可以在有限域上研究，也会自然生出很多重要的不变量，比如 rank、torsion subgroup，以及在各个素数处的局部约化信息。
 
-Modular forms enter from a different direction. They are highly symmetric analytic functions on the upper half-plane, constrained by transformation laws and growth conditions. At first sight they seem unrelated to elliptic curves, but their Fourier coefficients encode astonishing arithmetic information.
+模形式（modular forms）则是从另一条路进来的。它们是定义在上半平面上的高度对称的解析函数，满足非常严格的变换规律和增长条件。刚开始看时，它们和椭圆曲线似乎属于完全不同的世界，但它们的 Fourier 系数里却藏着极其丰富的算术信息。
 
-The bridge is built by L-functions. Both elliptic curves and modular forms give rise to Dirichlet-series-like objects whose Euler products remember local data prime by prime. Once one recognizes that the L-function of an elliptic curve can coincide with the L-function of a modular form, the connection stops being metaphorical and becomes structural.
+真正把两者连接起来的是 L-函数。椭圆曲线和模形式都可以产生某种类似 Dirichlet 级数的对象，而它们的 Euler 乘积会把每一个素数处的局部信息都编码进去。一旦你意识到，一个椭圆曲线的 L-函数可以与某个模形式的 L-函数相对应，这种联系就不再只是“有点像”，而变成了结构性的同一。
 
-This is why the modularity theorem matters so much: it says that every elliptic curve over the rationals is modular. In that single statement, geometry, analysis, and arithmetic are tied together, and the route toward Fermat's Last Theorem becomes visible.
+这也是为什么模性定理（modularity theorem）如此重要。它说的是：定义在有理数域上的每一条椭圆曲线，都是模的。就这一句话，几何、分析和算术被牢牢绑在了一起，而通往费马大定理的那条道路，也因此变得清晰起来。
