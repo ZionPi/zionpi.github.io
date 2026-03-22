@@ -1,0 +1,84 @@
+---
+layout: page
+title: 写作热力图
+subtitle: 最近一年的写作节奏、历年发文分布与高频标签
+bigimg:
+  - "/img/fractal.jpg"
+js:
+  - "/js/writing-heatmap.js"
+---
+
+<section class="writing-shell" data-writing-index="{{ '/writing.json' | relative_url }}">
+  <div class="section-heading">
+    <span class="section-label">Writing</span>
+    <h2>最近一年的写作热力图</h2>
+  </div>
+
+  <div class="writing-summary-grid">
+    <article class="writing-summary-card">
+      <span class="writing-summary-label">最近 365 天</span>
+      <strong class="writing-summary-value" data-writing-total>--</strong>
+      <p>篇文章</p>
+    </article>
+    <article class="writing-summary-card">
+      <span class="writing-summary-label">最长连续写作</span>
+      <strong class="writing-summary-value" data-writing-streak>--</strong>
+      <p>天</p>
+    </article>
+    <article class="writing-summary-card">
+      <span class="writing-summary-label">最近发文</span>
+      <strong class="writing-summary-value" data-writing-latest>--</strong>
+      <p>最近一次更新</p>
+    </article>
+  </div>
+
+  <div class="writing-heatmap-card">
+    <div class="writing-heatmap-head">
+      <div>
+        <h3>按天看密度</h3>
+        <p>颜色越深，说明那天写得越多。</p>
+      </div>
+      <div class="writing-legend">
+        <span>少</span>
+        <div class="writing-legend-scale">
+          <i class="level-0"></i>
+          <i class="level-1"></i>
+          <i class="level-2"></i>
+          <i class="level-3"></i>
+          <i class="level-4"></i>
+        </div>
+        <span>多</span>
+      </div>
+    </div>
+
+    <div class="writing-heatmap-wrap">
+      <div class="writing-weekdays">
+        <span>一</span>
+        <span>三</span>
+        <span>五</span>
+      </div>
+      <div class="writing-heatmap-main">
+        <div class="writing-month-labels" data-writing-months></div>
+        <div class="writing-heatmap-grid" data-writing-heatmap></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="chapter-section">
+  <div class="section-heading">
+    <span class="section-label">History</span>
+    <h2>历年发文数</h2>
+  </div>
+
+  <div class="writing-year-grid" data-writing-years></div>
+</section>
+
+<section class="chapter-section">
+  <div class="section-heading">
+    <span class="section-label">Tags</span>
+    <h2>最常写的标签</h2>
+  </div>
+
+  <div class="writing-tag-cloud" data-writing-tags></div>
+</section>

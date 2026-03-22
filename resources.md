@@ -90,16 +90,16 @@ bigimg:
 
   <div class="topic-path-grid">
     <div class="topic-path-card">
-      <h3>内容维护约定</h3>
-      <p><a href="{{ '/content-guide' | relative_url }}">内容维护约定</a></p>
-    </div>
-    <div class="topic-path-card">
       <h3>主题地图</h3>
       <p><a href="{{ '/themes' | relative_url }}">主题地图</a></p>
     </div>
     <div class="topic-path-card">
       <h3>标签索引</h3>
       <p><a href="{{ '/tags' | relative_url }}">标签页</a></p>
+    </div>
+    <div class="topic-path-card">
+      <h3>写作热力图</h3>
+      <p><a href="{{ '/writing' | relative_url }}">写作节奏页</a></p>
     </div>
   </div>
 </section>
